@@ -1,0 +1,65 @@
+{
+  "years": {
+    "1997": {
+      "links": {
+        "Dec": "https://www.federalreserve.gov/fomc/minutes/19971216.htm",
+        "Nov": "https://www.federalreserve.gov/fomc/minutes/19971112.htm",
+        "Sep": "https://www.federalreserve.gov/fomc/minutes/19970930.htm",
+        "Aug": "https://www.federalreserve.gov/fomc/minutes/19970819.htm",
+        "Jul": "https://www.federalreserve.gov/fomc/minutes/19970701.htm",
+        "May": "https://www.federalreserve.gov/fomc/minutes/19970520.htm",
+        "Mar": "https://www.federalreserve.gov/fomc/minutes/19970325.htm",
+        "Feb": "https://www.federalreserve.gov/fomc/minutes/19970204.htm"
+      }
+    },
+    "1996": {
+      "links": {
+        "Dec": "https://www.federalreserve.gov/fomc/minutes/19961217.htm",
+        "Nov": "https://www.federalreserve.gov/fomc/minutes/19961113.htm",
+        "Sep" : "https://www.federalreserve.gov/fomc/minutes/19960924.htm",
+        "Aug" : "https://www.federalreserve.gov/fomc/minutes/19960820.htm",
+        "Jul": "https://www.federalreserve.gov/fomc/minutes/19960702.htm",
+        "May" : "https://www.federalreserve.gov/fomc/minutes/19960521.htm",
+        "Mar" : "https://www.federalreserve.gov/fomc/minutes/19960326.htm",
+        "Jan" : "https://www.federalreserve.gov/fomc/minutes/19960130.htm"
+      }
+    },
+    "1995": {
+      "links": {
+        "Dec" : "https://www.federalreserve.gov/fomc/MINUTES/1995/19951219min.htm",
+        "Nov" : "https://www.federalreserve.gov/fomc/MINUTES/1995/19951115min.htm",
+        "Sep" : "https://www.federalreserve.gov/fomc/MINUTES/1995/19950926min.htm",
+        "Aug" : "https://www.federalreserve.gov/fomc/MINUTES/1995/19950822min.htm",
+        "Jul" : "https://www.federalreserve.gov/fomc/MINUTES/1995/19950706min.htm",
+        "May" : "https://www.federalreserve.gov/fomc/MINUTES/1995/19950523min.htm",
+        "Mar" : "https://www.federalreserve.gov/fomc/MINUTES/1995/19950328min.htm",
+        "Feb" : "https://www.federalreserve.gov/fomc/MINUTES/1995/19950201min.htm"
+      }
+    },
+    "1994": {
+      "links": {
+        "Dec" : "https://www.federalreserve.gov/fomc/MINUTES/1994/19941220min.htm",
+        "Nov" : "https://www.federalreserve.gov/fomc/MINUTES/1994/19941115min.htm",
+        "Sep" : "https://www.federalreserve.gov/fomc/MINUTES/1994/19940927min.htm",
+        "Aug" : "https://www.federalreserve.gov/fomc/MINUTES/1994/19940816min.htm",
+        "Jul" : "https://www.federalreserve.gov/fomc/MINUTES/1994/19940706min.htm",
+        "May" : "https://www.federalreserve.gov/fomc/MINUTES/1994/19940517min.htm",
+        "Mar" : "https://www.federalreserve.gov/fomc/MINUTES/1994/19940322min.htm",
+        "Apr" : "https://www.federalreserve.gov/fomc/MINUTES/1994/19940322min.htm",
+        "Feb" : "https://www.federalreserve.gov/fomc/MINUTES/1994/19940204min.htm"
+      }
+    },
+    "1993": {
+      "links": {
+        "Dec" : "https://www.federalreserve.gov/fomc/MINUTES/1993/19931221min.htm",
+        "Nov" : "https://www.federalreserve.gov/fomc/MINUTES/1993/19931116min.htm",
+        "Sep" : "https://www.federalreserve.gov/fomc/MINUTES/1993/19930921min.htm",
+        "Aug" : "https://www.federalreserve.gov/fomc/MINUTES/1993/19930817min.htm",
+        "Jul" : "https://www.federalreserve.gov/fomc/MINUTES/1993/19930707min.htm",
+        "May" : "https://www.federalreserve.gov/fomc/MINUTES/1993/19930518min.htm",
+        "Mar" : "https://www.federalreserve.gov/fomc/MINUTES/1993/19930323min.htm", 
+        "Feb" : "https://www.federalreserve.gov/fomc/MINUTES/1993/19930203min.htm"
+      }
+    }
+  }
+}
