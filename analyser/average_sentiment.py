@@ -6,7 +6,7 @@ data_dir_string =  'data/datasets'
 data_dir_path = os.path.abspath(data_dir_string)
 
 def sentiment_count(csv_path): 
-    df = pd.read_csv(csv_path sep=';') # FÜGE sep hinzu wenn daten ready
+    df = pd.read_csv(csv_path, sep=';')
     sentiment_counts =  df['sentiment'].value_counts()
     # extract year and month from path
     monthname = os.path.basename(os.path.normpath(csv_path))
@@ -17,6 +17,12 @@ def sentiment_count(csv_path):
     except ValueError:
         print(f'ERROR: Could not convert {yearname} to datetime')
         df['year'] = pd.NaT
+    try:
+        month = monthname.split('.')[0]
+        df['month'] = pd.to_datetime(month, format='%b')
+    except ValueError:
+        print(f'ERROR: Could not convert {month} to datetime')
+        df['month'] = pd.NaT
 
     print(f'######## EVALUATION FOR YEAR {yearname} {monthname} ########')
 
@@ -39,7 +45,7 @@ def sentiment_count(csv_path):
 
     return df, {
         'year': pd.to_datetime(yearname, format='%Y').year,
-        'month': monthname,
+        'month': pd.to_datetime(month, format='%b').month,
         'positive': positive_count,
         'negative': negative_count,
         'neutral': neutral_count,
@@ -53,22 +59,24 @@ def plot_average_sentiments(data):
     df = pd.DataFrame(data)
 
     # Combine year and month into a single datetime column for accurate plotting
-    df['date'] = pd.to_datetime(df['year'].astype(str) + '-' + df['month'].astype(str), format='%Y-%m')
+    df['date'] = pd.to_datetime(df['year'].astype(str)+'-'+df['month'].astype(str), format='%Y-%m')
 
     # Sort the DataFrame by date
     df = df.sort_values('date')
 
     # Plot normalized sentiments
     plt.figure(figsize=(14, 8))
-    plt.plot(df['date'], df['positive_norm'], label='Positive (%)', marker='o')
-    plt.plot(df['date'], df['negative_norm'], label='Negative (%)', marker='o')
-    plt.plot(df['date'], df['neutral_norm'], label='Neutral (%)', marker='o')
-
+    plt.plot(df['date'], df['positive'], label='Positive (%)', marker='', color='palegreen', linestyle='dashdot')
+    plt.plot(df['date'], df['negative'], label='Negative (%)', marker='', color='lightcoral', linestyle='dashdot')
+    plt.plot(df['date'], df['neutral'], label='Neutral (%)', marker='', color='lightgray', linestyle='dashdot')
+    plt.plot(df['date'], df['positive_norm'], label='Positive (%)', marker='', color='limegreen', linestyle='solid')
+    plt.plot(df['date'], df['negative_norm'], label='Negative (%)', marker='', color='red', linestyle='solid')
+    plt.plot(df['date'], df['neutral_norm'], label='Neutral (%)', marker='', color='slategray', linestyle='solid')
+    plt.plot(df['date'], df['avg'], label='AverageSentiment2')
     # Calculate average sentiment_numeric per month
-    avg_sentiment = df[['positive_norm', 'negative_norm', 'neutral_norm']].mean(axis=1)
-
+    #avg_sentiment = df[['positive_norm', 'negative_norm', 'neutral_norm']].mean(axis=1)
     # Overlay the average sentiment
-    plt.plot(df['date'], avg_sentiment, label='Average Sentiment (%)', color='red', linestyle='--', marker='x')
+    #plt.plot(df['date'], avg_sentiment, label='Average Sentiment (%)', color='red', linestyle='--', marker='x')
 
     # Formatting the x-axis to show dates properly
     plt.gca().xaxis.set_major_formatter(plt.matplotlib.dates.DateFormatter('%Y-%m'))
@@ -82,7 +90,6 @@ def plot_average_sentiments(data):
     plt.tight_layout()
     plt.show()
 
-# Example usage
 if __name__ == "__main__":
     sentiment_data = []
     data_dir = data_dir_path
@@ -114,9 +121,10 @@ if __name__ == "__main__":
                     for csv_file in os.listdir(subyear_path):
                         csv_path = os.path.join(subyear_path, csv_file)
                         df, sentiment_values = sentiment_count(csv_path)
-                        sentiment_data_year.append(sentiment_values)
                         df['sentiment_numeric'] = df['sentiment'].map({'positive': 1, 'neutral': 0, 'negative': -1})
                         average_sentiment = df['sentiment_numeric'].mean()
+                        sentiment_values['avg'] = average_sentiment*100
+                        sentiment_data_year.append(sentiment_values)
                         print(f'Average Sentiment: {average_sentiment}')
                 if sentiment_data_year:
                     # flatten list for plotting 
