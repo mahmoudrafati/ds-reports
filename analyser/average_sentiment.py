@@ -66,9 +66,9 @@ def plot_average_sentiments(data):
 
     # Plot normalized sentiments
     plt.figure(figsize=(14, 8))
-    plt.plot(df['date'], df['positive'], label='Positive (%)', marker='', color='palegreen', linestyle='dashdot')
-    plt.plot(df['date'], df['negative'], label='Negative (%)', marker='', color='lightcoral', linestyle='dashdot')
-    plt.plot(df['date'], df['neutral'], label='Neutral (%)', marker='', color='lightgray', linestyle='dashdot')
+    plt.plot(df['date'], df['positive'], label='Positive', marker='', color='palegreen', linestyle='dashdot')
+    plt.plot(df['date'], df['negative'], label='Negative', marker='', color='lightcoral', linestyle='dashdot')
+    plt.plot(df['date'], df['neutral'], label='Neutral', marker='', color='lightgray', linestyle='dashdot')
     plt.plot(df['date'], df['positive_norm'], label='Positive (%)', marker='', color='limegreen', linestyle='solid')
     plt.plot(df['date'], df['negative_norm'], label='Negative (%)', marker='', color='red', linestyle='solid')
     plt.plot(df['date'], df['neutral_norm'], label='Neutral (%)', marker='', color='slategray', linestyle='solid')
