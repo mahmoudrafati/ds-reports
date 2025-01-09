@@ -54,7 +54,7 @@ def sentiment_count(csv_path):
         'neutral_norm': neutral_norm
     }
 
-def plot_average_sentiments(data):
+def plot_data_courier(data):
     # Create a DataFrame from the data
     df = pd.DataFrame(data)
 
@@ -63,6 +63,9 @@ def plot_average_sentiments(data):
 
     # Sort the DataFrame by date
     df = df.sort_values('date')
+    return df
+
+def plot_average_sentiments(data):
 
     # Plot normalized sentiments
     plt.figure(figsize=(14, 8))
