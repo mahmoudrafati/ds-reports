@@ -12,7 +12,7 @@ class Marketfetcher:
             'Germany' : '^GDAXI',
             #'China' : '000001.SS',
             'China' : '^MCHI',
-            #'Japan' : '^N225'
+            'Japan' : '^N225'
         }
         self.data = pd.DataFrame()
     
