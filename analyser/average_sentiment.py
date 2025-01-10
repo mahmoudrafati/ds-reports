@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
+from gtabview import view
 
 data_dir_string =  'data/datasets'
 data_dir_path = os.path.abspath(data_dir_string)
@@ -160,6 +161,7 @@ if __name__ == "__main__":
                 if sentiment_data_year:
                     # flatten list for plotting 
                     plot_data = plot_data_courier(sentiment_data_year)
+                    view(plot_data)
                     flat_data = [item for sublist in sentiment_data_year for item in sublist]
                     #plot_average_sentiments(flat_data)
                     plot_sentiment_count(plot_data)
