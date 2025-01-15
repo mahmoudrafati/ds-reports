@@ -123,7 +123,7 @@ def plot_avg_market(marketdata, sentimentdata):
     df_sentiment = sentimentdata
     # Plot the market data
     plt.figure(figsize=(14, 8))
-    plt.plot(df_market['Year'], df_market['Change'], label='World GDP Average over all countries', marker='', color='royalblue', linestyle='--')
+    plt.plot(df_market['Year'], df_market['Change'], label='World GDP Average over all countries', marker='', color='royalblue', linestyle='solid')
     plt.plot(df_sentiment['date'], df_sentiment['average_sentiment']*100, label='Average Sentiment Noralized (%)', marker='o', color='red', linestyle='--')
 
     #formatting
