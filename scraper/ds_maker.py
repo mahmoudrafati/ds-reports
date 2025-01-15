@@ -7,6 +7,7 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 from pandas.core.algorithms import isin
 from transformers import pipeline, AutoTokenizer
 from tqdm import tqdm
+import time  # Added import
 
 nltk.download('punkt_tab')
 
@@ -61,6 +62,7 @@ def process_file(file_path, output_path):
     print(f"Data saved to {os.path.abspath(output_path)}")
 
 def main():
+    start_time = time.time()  # Start timing
     if len(sys.argv) != 2:
         print("Usage: python script.py <URL>")
         sys.exit(1)
@@ -107,7 +109,7 @@ def main():
                             output_csv_path = os.path.join(output_dir, f"{os.path.splitext(txt_file)[0]}.csv")
                             process_file(txt_path, output_csv_path)
 
-
+    print(f"Process completed in {time.time() - start_time:.2f} seconds.")  # End timing
 
 if __name__ == "__main__": 
     main()
