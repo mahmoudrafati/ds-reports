@@ -1,6 +1,7 @@
-/.DS_Store
+**/.DS_Store
 /.vscode
 /data/datasets/fed/*
 /data/datasets/fed_kaggle/*
-/data/raw_pdf/*
+/data/raw_pdf/kaggledata_year
+/data/raw_pdf/kaggledata_month
 !/data/raw_pdf/kaggledata_year/cleaned_pro_FOMC.csv
