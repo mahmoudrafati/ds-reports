@@ -1,6 +1,7 @@
 # import pandas , bs4 and requests 
 import re
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
@@ -12,7 +13,10 @@ from tqdm import tqdm
 # Url of the main EZB Monetary Policy page
 MPD_URL = 'https://www.ecb.europa.eu/press/govcdec/mopo/html/index.en.html'
 EEB_URL = 'https://www.ecb.europa.eu/press/economic-bulletin/html/all_releases.en.html'
-BROWSER = webdriver.Chrome()
+
+chrome_options = Options()
+chrome_options.add_argument("--headless")
+BROWSER = webdriver.Chrome(options=chrome_options)
 
 def clean_text(text):
     text_no_newlines = re.sub(r'[\n\r\t]+', ' ', text)
