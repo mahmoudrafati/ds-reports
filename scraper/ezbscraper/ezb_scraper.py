@@ -140,6 +140,7 @@ def save_reports(reports, output = 'reports.csv'):
 
 def main():
     url = EEB_URL
+    url2 = MPD_URL
     start_time = time.time()
     print("Starting EZB scraping process...")
 
@@ -150,9 +151,13 @@ def main():
     source = seleniumstarter(url)
     print(f'downloading bullets from {url}')
     bullet_links = get_bullet_links(source)
-    #links = get_linkdict(source)
     reports = download_reports(bullet_links)
     save_reports(reports, output_path_ebb)
+    print('initializing selenium ..')
+    source = seleniumstarter(url2)
+    print(f'downloading reports from {url2}')
+    links = get_linkdict(source)
+    save_reports(reports, output_path_mpd)
 
 
     end_time = time.time()
