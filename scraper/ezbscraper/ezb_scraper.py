@@ -1,4 +1,6 @@
 # import pandas , bs4 and requests 
+import datetime
+import io
 import re
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -9,6 +11,8 @@ import requests as req
 import pandas as pd
 import time
 from tqdm import tqdm 
+from PyPDF2 import PdfReader
+from dateutil import parser
 
 # Url of the main EZB Monetary Policy page
 MPD_URL = 'https://www.ecb.europa.eu/press/govcdec/mopo/html/index.en.html'
@@ -23,6 +27,38 @@ def clean_text(text):
     text= re.sub(r'[\s;]+', ' ', text_no_newlines).strip()
 
     return text
+
+def visitor_body(text, cm, tm, font_dict, font_size, parts):
+    y = tm[5]
+    if y > 50 and y < 720:
+        parts.append(text)
+
+def get_pdfs(link):
+    content = req.get(link).content
+    document = ''
+    title = None
+    with io.BytesIO(content) as f:
+        pdf = PdfReader(f)
+        title = pdf.metadata.title
+        # most of the time the content is between the second and 50th page at max
+        for page in range(2,50):
+            text = pdf.pages[page].extract_text()
+            document += text
+    return document, title
+
+def clean_pdfs(text, title):
+    headerpattern = re.compile(r'\d?\s+Economic Bulletin, issue \d.*?\n')
+    month_match = re.search(r'\((\w+ \d{4})\)', title)
+    if month_match:
+        title = month_match.group(1)
+        parsed_date = parser.parse(title)
+        formatted_date = parsed_date.strftime("%Y-%m")
+        title = formatted_date
+    text = re.sub(headerpattern, '', text)
+    text = re.sub(r'\s+', ' ', text)
+    text = re.sub(r'^\d*\s*ECB\s*Economic\s*Bulletin,\s*Issue\s*\d+\s*/\s*\d{4}\s*[–-]\s*Economic\s*and\s*monetary\s*developments', '', text, flags=re.IGNORECASE|re.MULTILINE)    
+    text = f'""" + {text} + """'
+    return text, title
 
 def seleniumstarter(url, chrome = BROWSER):
     chrome.get(url)
@@ -43,7 +79,7 @@ def get_bullet_links(source):
         if child.name == 'dt':
             key = child['isodate']
             value = child.next_sibling.find('div', {'class':'title'}).a['href']
-            links[key] = 'https://www.ecb.europa.eu/' + value   
+            links[key] = 'https://www.ecb.europa.eu' + value   
     return links
 
 def get_linkdict(source):
@@ -68,6 +104,11 @@ def get_linkdict(source):
 def download_reports(links):
     reports = {}
     for date, link in tqdm(links.items(), desc= "Downloading reports"):
+        if 'pdf' in link:
+            text, title = get_pdfs(link)
+            text, s = clean_pdfs(text, title)
+            reports[date] = text
+            continue
         try:
             res = req.get(link)
             text = res.text
@@ -81,18 +122,18 @@ def download_reports(links):
                             report += conts.text
                 except Exception as e:
                     continue
+            report = re.sub(r'\s+', ' ', report)
             reports[date] = report
         except Exception as e:
             print(e)
             continue
     return reports
 
-
 def save_reports(reports, output = 'reports.csv'):
     df = pd.DataFrame(reports.items(), columns = ['Date', 'Report'])
     df.insert(1, 'Type', 'Monetary Policy Decisions')
     df['Report'] = df['Report'].apply(clean_text)
-    df.to_csv(output, index = False)
+    df.to_csv(output, index = False, sep=';')
 
         
 
@@ -105,11 +146,13 @@ def main():
     output_path_mpd = 'data/raw_pdf/ezb/all_reports.csv'
     output_path_ebb = 'data/raw_pdf/ezb/all_bulletins.csv'
 
+    print('initializing selenium ..')
     source = seleniumstarter(url)
+    print(f'downloading bullets from {url}')
     bullet_links = get_bullet_links(source)
     #links = get_linkdict(source)
     reports = download_reports(bullet_links)
-    save_reports(reports, output_path)
+    save_reports(reports, output_path_ebb)
 
 
     end_time = time.time()
