@@ -95,7 +95,7 @@ def process_file(data, output_path):
     df_processed = pd.concat([df_processed, sentiment_results], axis=1)
 
     # Format dates
-    df_processed['Year'] = df_processed['Date']).dt.year
+    df_processed['Year'] = df_processed['Date'].dt.year
 
     # Reorder columns
     df_processed = df_processed[['Year', 'Month', 'Type', 'sentiment', 'sentiment_score', 'sentence']]
