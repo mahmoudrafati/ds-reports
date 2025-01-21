@@ -3,7 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from gtabview import view
 
-data_dir = 'data/datasets/'
 
 def safe_float_convert(x):
     try:
@@ -15,9 +14,7 @@ def sentiment_analyse(csv):
     df = pd.read_csv(csv, sep=';')
     sentiment_counts = df['sentiment'].value_counts()
     monthname = df['Month'][0]
-    yearname = int(df['Year'][0].split('-')[0])
-    # JUST FOR THIS BUG, PLEASE REMOVE AFTER FIXING
-    yearname -= 1970
+    yearname = df['Year'][0]
 
     #### EVAL ####
     # count absolute
@@ -36,6 +33,17 @@ def sentiment_analyse(csv):
     total_average = (positive_norm - negative_norm)
     average_sentiment = (positive_count - negative_count) / total_count
     
+    # Log message for debugging
+    print(f"######## {yearname} - {monthname} ########")
+    print(f"Positive: {positive_count} ({positive_norm:.2f}%)")
+    print(f"Negative: {negative_count} ({negative_norm:.2f}%)")
+    print(f"Neutral: {neutral_count} ({neutral_norm:.2f}%)")
+    print(f"Total: {total_count}")
+    print(f"Total Average: {total_average:.2f}")
+    print(f"Average Sentiment: {average_sentiment:.2f}")
+    print("#####################################")
+    print(2*'\n')
+
     # Create a single row DataFrame with the monthly summary
     month_df = pd.DataFrame({
         'Year': [yearname],
@@ -137,8 +145,8 @@ def plot_avg_market(marketdata, sentimentdata):
     plt.legend()
     plt.show()
 
-def analyze():
-    df_years = pd.DataFrame()    
+def analyze(data_dir):
+    df_years = pd.DataFrame()  
     for year_dir in os.listdir(data_dir):
         df_year = pd.DataFrame()
         if year_dir == '.DS_Store':
@@ -168,11 +176,14 @@ def analyze():
     plot_avg_market(word_gdp, df_years)
 
 def main():
+    data_dir = 'data/datasets/'
+
     for bank in os.listdir(data_dir):
-        if bank == '.DS_Store':
+        if bank == '.DS_Store' or bank == 'worldbank_data':
             continue
         print(f"Analyzing data for {bank}")
-        analyze()
+        bank = os.path.join(data_dir, bank)
+        analyze(bank)
 
 if __name__ == '__main__':
     main()
