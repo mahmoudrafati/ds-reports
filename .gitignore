@@ -1,5 +1,7 @@
 **/.DS_Store
 /.vscode
+/.venv/
+**/.venv/
 /data/datasets/fed/*
 /data/datasets/fed_kaggle/*
 /data/raw_pdf/kaggledata_year
