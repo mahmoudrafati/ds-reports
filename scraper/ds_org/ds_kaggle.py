@@ -50,6 +50,15 @@ def clean_text(text):
         text_lowercase = text_no_white.lower()
     return text_lowercase
 
+def extract_sentiment(text):
+    try:
+        result = finbert_fomc(text)[0]
+        return pd.Series([result['label'], result['score']], index=['sentiment', 'sentiment_score'])
+    except RuntimeError as e:
+        if "size of tensor" in str(e):
+            return pd.Series(['neutral', 0.0], index=['sentiment', 'sentiment_score'])
+        print(f"Error: {e} with sentence: {text}")
+        raise e
 
 tqdm.pandas(desc='Applying Sentiment Analysis')
 
@@ -82,12 +91,11 @@ def process_file(data, output_path):
     df_processed = df_expanded.apply(pd.Series.explode).reset_index(drop=True)
 
     # Add sentiment analysis
-    df_processed['sentiment'] = df_processed['sentence'].progress_apply(lambda x: finbert_fomc(x)[0]['label'])
-    df_processed['sentiment_score'] = df_processed['sentence'].progress_apply(lambda x: finbert_fomc(x)[0]['score'])
+    sentiment_results = df_processed['sentence'].progress_apply(extract_sentiment)
+    df_processed = pd.concat([df_processed, sentiment_results], axis=1)
 
     # Format dates
-    df_processed['Year'] = pd.to_datetime(df_processed['Date']).dt.year
-    df_processed['Year'] = df_processed['Year'].astype('datetime64[Y]')
+    df_processed['Year'] = df_processed['Date']).dt.year
 
     # Reorder columns
     df_processed = df_processed[['Year', 'Month', 'Type', 'sentiment', 'sentiment_score', 'sentence']]
