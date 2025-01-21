@@ -6,7 +6,7 @@ import sys
 from nltk.tokenize import word_tokenize, sent_tokenize
 from transformers import BertTokenizer, BertForSequenceClassification, pipeline
 from tqdm import tqdm
-from gtabview import view
+#from gtabview import view
 import torch  # Existing import
 import time  # Added import
 
@@ -73,9 +73,12 @@ def process_text_to_sentences(text):
             result.append(sentence)
     return result
 
-def process_file(data, output_path):
+def process_file(data, output_path=None):
     df = pd.read_csv(data, sep=';')
     df['Date'] = pd.to_datetime(df['Date'], errors='raise')
+    # Format dates
+    df['Year'] = df['Date'].dt.year
+    df['Month'] = df['Date'].dt.strftime('%B')
 
     df['Text'] = df['Text'].progress_apply(lambda x: clean_text(x))
 
@@ -84,7 +87,8 @@ def process_file(data, output_path):
         'sentence': process_text_to_sentences(x['Text']),
         'Type': [x['Type']] * len(process_text_to_sentences(x['Text'])),
         'Date': [x['Date']] * len(process_text_to_sentences(x['Text'])),
-        'Month': [x['Month']] * len(process_text_to_sentences(x['Text']))
+        'Month': [x['Month']] * len(process_text_to_sentences(x['Text'])),
+        'Year': [x['Year']] * len(process_text_to_sentences(x['Text']))
     }), axis=1)
 
     # Explode the lists to create individual rows
@@ -94,34 +98,47 @@ def process_file(data, output_path):
     sentiment_results = df_processed['sentence'].progress_apply(extract_sentiment)
     df_processed = pd.concat([df_processed, sentiment_results], axis=1)
 
-    # Format dates
-    df_processed['Year'] = df_processed['Date'].dt.year
+
 
     # Reorder columns
     df_processed = df_processed[['Date', 'Year', 'Month', 'Type', 'sentiment', 'sentiment_score', 'sentence']]
-
+    
+    return df_processed
     # Save to CSV
+    # os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    # df_processed.to_csv(output_path, index=False, sep=';')
+def save_to_csv(df, output_path):
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    df_processed.to_csv(output_path, index=False, sep=';')
-
+    df.to_csv(output_path+'.csv', index=False, sep=';')
+    
 def main():
     start_time = time.time()  # Start timing
-    base_path = 'data/raw_pdf/kaggledata_month/'
-    output_path = 'data/datasets/fed_kaggle'
+    base_path = 'data/raw_pdf/fed/'
+    output_path = 'data/datasets/fed'
 
     for year_dir in os.listdir(base_path):
         year_path = os.path.join(base_path, year_dir)
-        if not os.path.isdir(year_path):
+        if not os.path.isdir(year_path) and year_dir.endswith('.csv'):
+            file_path = os.path.join(base_path, year_dir)
+            df = process_file(file_path)
+            df = df.sort_values(by='Date')
+            group = df.groupby('Year')
+            for year, year_df in group:
+                year_path = os.path.join(output_path, str(year))
+                for month, month_df in year_df.groupby('Month'):
+                    month_path = os.path.join(year_path, month)
+                    save_to_csv(month_df, month_path)
+        else:
             continue
+        # for month_file in os.listdir(year_path):
+        #     month_file_path = os.path.join(year_path, month_file)
+        #     if not os.path.isfile(month_file_path):
+        #         continue
+        #     for sub_yea
 
-        for month_file in os.listdir(year_path):
-            month_file_path = os.path.join(year_path, month_file)
-            if not os.path.isfile(month_file_path):
-                continue
-
-            output_month_path = os.path.join(output_path, year_dir, month_file)
-            process_file(month_file_path, output_month_path)
-            print('Done')
+            # output_month_path = os.path.join(output_path, year_dir, month_file)
+            # process_file(month_file_path, output_month_path)
+            # print('Done')
 
     print(f"Process completed in {time.time() - start_time:.2f} seconds.")  # End timing
 
