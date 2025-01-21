@@ -124,7 +124,7 @@ def process_file(data, output_path):
     df_processed['Year'] = df_processed['Date'].dt.year
 
     # Reorder columns
-    df_processed = df_processed[['Year', 'Month', 'Type', 'sentiment', 'sentiment_score', 'sentence']]
+    df_processed = df_processed[['Date', 'Year', 'Month', 'Type', 'sentiment', 'sentiment_score', 'sentence']]
 
     # Save to CSV
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
