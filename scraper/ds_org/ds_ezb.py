@@ -87,21 +87,14 @@ def process_text_to_sentences(text, tokenizer):
             result.append(sentence)
     return result
 
-def safe_sentiment_analysis(text):
+def extract_sentiment(text):
     try:
-        return finbert_fomc(text)[0]['label']
+        result = finbert_fomc(text)[0]
+        return pd.Series([result['label'], result['score']], index=['sentiment', 'sentiment_score'])
     except RuntimeError as e:
         if "size of tensor" in str(e):
-            return 'neutral'
+            return pd.Series(['neutral', 0.0], index=['sentiment', 'sentiment_score'])
         print(f"Error: {e} with sentence: {text}")
-        raise e
-
-def try_sentiment_score(text):
-    try:
-        return finbert_fomc(text)[0]['score']
-    except RuntimeError as e:
-        if "size of tensor" in str(e):
-            return 0.0
         raise e
 
 def process_file(data, output_path):
@@ -109,7 +102,8 @@ def process_file(data, output_path):
     df['Date'] = pd.to_datetime(df['Date'], errors='raise')
 
     df['Text'] = df['Report'].progress_apply(lambda x: clean_text(x))
-    df['Month'] = df['Date'].dt.month
+    df['Month'] = df['Date'].dt.strftime('%B')
+
 
     # Create expanded DataFrame with sentences
     df_expanded = df.apply(lambda x: pd.Series({
@@ -123,12 +117,11 @@ def process_file(data, output_path):
     df_processed = df_expanded.apply(pd.Series.explode).reset_index(drop=True)
 
     # Add sentiment analysis
-    df_processed['sentiment'] = df_processed['sentence'].progress_apply(safe_sentiment_analysis)
-    df_processed['sentiment_score'] = df_processed['sentence'].progress_apply(try_sentiment_score)
+    sentiment_results = df_processed['sentence'].progress_apply(extract_sentiment)
+    df_processed = pd.concat([df_processed, sentiment_results], axis=1)
 
     # Format dates
-    df_processed['Year'] = pd.to_datetime(df_processed['Date']).dt.year
-    df_processed['Year'] = df_processed['Year'].astype('datetime64[Y]')
+    df_processed['Year'] = df_processed['Date'].dt.year
 
     # Reorder columns
     df_processed = df_processed[['Year', 'Month', 'Type', 'sentiment', 'sentiment_score', 'sentence']]
