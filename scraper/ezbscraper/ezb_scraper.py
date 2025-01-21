@@ -144,8 +144,8 @@ def main():
     start_time = time.time()
     print("Starting EZB scraping process...")
 
-    output_path_mpd = 'data/raw_pdf/ezb/all_reports.csv'
-    output_path_ebb = 'data/raw_pdf/ezb/all_bulletins.csv'
+    output_path_mpd = 'data/raw_pdf/ezb/ECBMPD_reports.csv'
+    output_path_ebb = 'data/raw_pdf/ezb/EC_bulletins.csv'
 
     print('initializing selenium ..')
     source = seleniumstarter(url)
@@ -153,17 +153,21 @@ def main():
     bullet_links = get_bullet_links(source)
     reports = download_reports(bullet_links)
     save_reports(reports, output_path_ebb)
+    print(f"Downloaded {len(reports)} reports")
+
+    
     print('initializing selenium ..')
     source = seleniumstarter(url2)
     print(f'downloading reports from {url2}')
     links = get_linkdict(source)
+    reports = download_reports(links)
     save_reports(reports, output_path_mpd)
+    print(f"Downloaded {len(reports)} reports")
 
 
     end_time = time.time()
     execution_time = end_time - start_time
     print(f"\nTotal execution time: {execution_time:.2f} seconds")
-    print(f"Downloaded {len(reports)} reports")
 
 if __name__ == '__main__':
     main()
