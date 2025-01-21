@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from gtabview import view
 
-data_dir = 'data/datasets/fed_kaggle'
+data_dir = 'data/datasets/'
 
 def safe_float_convert(x):
     try:
@@ -137,7 +137,7 @@ def plot_avg_market(marketdata, sentimentdata):
     plt.legend()
     plt.show()
 
-def main():
+def analyze():
     df_years = pd.DataFrame()    
     for year_dir in os.listdir(data_dir):
         df_year = pd.DataFrame()
@@ -166,6 +166,13 @@ def main():
     plot_sentiment_count(df_years)
     plot_average_sentiments(df_years)
     plot_avg_market(word_gdp, df_years)
+
+def main():
+    for bank in os.listdir(data_dir):
+        if bank == '.DS_Store':
+            continue
+        print(f"Analyzing data for {bank}")
+        analyze()
 
 if __name__ == '__main__':
     main()
