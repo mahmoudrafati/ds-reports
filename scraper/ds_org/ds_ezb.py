@@ -23,14 +23,13 @@ finbert_fomc = pipeline("text-classification",
                         device=0 if torch.cuda.is_available() else -1)  # Create pipeline with device specified
 
 def head_remove(text):
-    match = re.search(r"Federal\s+Open\s+Market\s+Committee\s+held\s+on", text, re.IGNORECASE)
-    if match:
-        return text[match.start():]
-    print("no head")
-    return text
+    pattern = r'[\d]?[\+]?Economic\s+[,]?financial\s+and\s+monetary\s+developements|\+\s+3[s+]?ECB\s+Economic\s+Bulletin\s+Issue\s+\d\s+\/\s+{\d\d\d\d}\s+Economic\s+and\s+monEtary\s+dEvElopmEnts|At\s+today’s\s+meeting\s+the\s+Governing\s+Council'
+    return re.sub(pattern, '', text)
+
+
 
 def split_long_sentence(sentence, tokenizer, max_length=512):
-    """Split long sentences into BERT-friendly chunks."""
+    """Split long sentences into BERT-friendly chunks. NEEDS TO BE REFACTORED"""
     encoded = tokenizer(sentence, truncation=False, add_special_tokens=False)
     tokens = encoded['input_ids']
     
