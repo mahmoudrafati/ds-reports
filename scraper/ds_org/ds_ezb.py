@@ -6,11 +6,11 @@ import sys
 from nltk.tokenize import word_tokenize, sent_tokenize
 from transformers import BertTokenizer, BertForSequenceClassification, pipeline
 from tqdm import tqdm
-from gtabview import view
+#from gtabview import view
 import torch  # Existing import
 import time  # Added import
 
-nltk.download('punkt')
+nltk.download('punkt_tab')
 
 # Check GPU availability and set device
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -25,8 +25,6 @@ finbert_fomc = pipeline("text-classification",
 def head_remove(text):
     pattern = r'[\d]?[\+]?Economic\s+[,]?financial\s+and\s+monetary\s+developements|\+\s+3[s+]?ECB\s+Economic\s+Bulletin\s+Issue\s+\d\s+\/\s+{\d\d\d\d}\s+Economic\s+and\s+monEtary\s+dEvElopmEnts|At\s+today’s\s+meeting\s+the\s+Governing\s+Council'
     return re.sub(pattern, '', text)
-
-
 
 def split_long_sentence(sentence, tokenizer, max_length=512):
     """Split long sentences into BERT-friendly chunks. NEEDS TO BE REFACTORED"""
@@ -58,7 +56,6 @@ def split_long_sentence(sentence, tokenizer, max_length=512):
 def sentence_length(sentence):
     words = word_tokenize(sentence)
     return len(words)
-
 # remove punktuations and " symbols
 def remove_punctuation(text):
     text = re.sub(r'[^\w\s]', '', text)
@@ -144,4 +141,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
