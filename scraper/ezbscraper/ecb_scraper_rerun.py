@@ -30,7 +30,6 @@ CATEGORY = { 'Monetary Policy Account' : 'MPA',
 def seleniumstarter(url, chrome = BROWSER):
     chrome.get(url)
     elem = chrome.find_element(By.TAG_NAME, "html")
-    top_height = 3611
     last_height = chrome.execute_script("return document.body.scrollHeight")
     while True:
         elem.send_keys(Keys.END)
