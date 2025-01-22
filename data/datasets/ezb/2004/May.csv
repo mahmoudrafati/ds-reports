@@ -1,5 +1,61 @@
 Date;Year;Month;Type;sentiment;sentiment_score;sentence
-2004-05-06;2004;May;Monetary Policy Decisions;Neutral;0.936825692653656;today
-2004-05-06;2004;May;Monetary Policy Decisions;Neutral;0.9377869963645936;cet
-2004-05-06;2004;May;Monetary Policy Decisions;Neutral;0.9819229245185852;the president of the ecb will comment on the considerations underlying these decisions at a press conference starting at 230 pm
-2004-05-06;2004;May;Monetary Policy Decisions;Neutral;0.9921842217445374;at todays meeting which was held in helsinki the governing council of the ecb decided that the minimum bid rate on the main refinancing operations and the interest rates on the marginal lending facility and the deposit facility will remain unchanged at 200 300 and 100 respectively
+2004-05-06;2004;May;REPORT;Neutral;0.8069314956665039;introductory statement to the press conference jeanclaude trichet president of the ecbhelsinki 6 may 2004 with the transcript of the questions and answers ladies and gentlemen it is a pleasure to welcome you to our press conference here in helsinki where the governing council of the european central bank met today for the ninth time outside frankfurt
+2004-05-06;2004;May;REPORT;Neutral;0.9009555578231812;i would like to thank acting governor matti louekoski for his invitation and very kind hospitality as well as the staff of suomen pankki  finlands bank for a perfectly organised meeting
+2004-05-06;2004;May;REPORT;Positive;0.7747520208358765;we deeply regret that mr matti vanhala had to resign from his position and we wish him all the best
+2004-05-06;2004;May;REPORT;Neutral;0.9709808230400085;let me now report on the outcome of todays meeting
+2004-05-06;2004;May;REPORT;Positive;0.9621493816375732;on the basis of our regular economic and monetary analyses we continue to expect that price stability will be maintained over the medium term
+2004-05-06;2004;May;REPORT;Negative;0.6959476470947266;accordingly we did not change our assessment of the monetary policy stance and left the key ecb interest rates at their current low levels
+2004-05-06;2004;May;REPORT;Positive;0.9904366135597229;the low interest rates across the entire maturity spectrum are also supporting the economic recovery in the euro area
+2004-05-06;2004;May;REPORT;Neutral;0.974944531917572;as always we will continue to monitor carefully all developments that could affect our assessment of risks to price stability over the medium term
+2004-05-06;2004;May;REPORT;Neutral;0.9523559212684631;allow me to elaborate on our decision turning first to the economic analysis
+2004-05-06;2004;May;REPORT;Negative;0.97220379114151;regarding the current situation and the very shortterm outlook the conjunctural indicators available still provide mixed evidence
+2004-05-06;2004;May;REPORT;Positive;0.9840593338012695;all in all they suggest that the recovery of real economic activity in the euro area has continued into 2004 albeit at a modest pace
+2004-05-06;2004;May;REPORT;Positive;0.989535391330719;most recent information has been more encouraging with the latest euro area survey data offering more positive signals with regard to the beginning of the second quarter
+2004-05-06;2004;May;REPORT;Positive;0.991888701915741;while the latest positive signals need to be confirmed by future developments they underpin the expectation of the gradual recovery in the euro area continuing and strengthening over time
+2004-05-06;2004;May;REPORT;Neutral;0.979902446269989;the conditions for such a recovery are in place
+2004-05-06;2004;May;REPORT;Positive;0.9890578389167786;first global economic growth continues to be robust and world trade has strengthened
+2004-05-06;2004;May;REPORT;Neutral;0.8565213084220886;the global economic upturn is broadly based both geographically and across sectors and thus provides a favourable external environment for the euro area
+2004-05-06;2004;May;REPORT;Positive;0.8552192449569702;in this context we expect euro area exports to grow significantly this year and next
+2004-05-06;2004;May;REPORT;Positive;0.9919106364250183;second favourable financing conditions improvements in corporate efficiency and earnings and the strength of global demand should help investment
+2004-05-06;2004;May;REPORT;Positive;0.9894025325775146;growth in real disposable income should support private consumption especially since households appear not to face financial constraints that might impede stronger spending
+2004-05-06;2004;May;REPORT;Positive;0.9922367930412292;over time consumer spending should also be supported by an improvement in labour market conditions
+2004-05-06;2004;May;REPORT;Positive;0.9527984261512756;these considerations underpin our confidence in a continuation of the economic recovery an expectation which is mirrored by available forecasts and projections
+2004-05-06;2004;May;REPORT;Neutral;0.9803404808044434;it is also in line with financial market developments over the past few weeks
+2004-05-06;2004;May;REPORT;Neutral;0.6923646926879883;obviously any forwardlooking assessment is subject to risks and uncertainties
+2004-05-06;2004;May;REPORT;Negative;0.9899371862411499;on the external side the adverse termsoftrade effects of recent rises in oil and other commodity prices pose risks at shorter horizons while the persistence of global imbalances implies some uncertainties over the medium term
+2004-05-06;2004;May;REPORT;Negative;0.9613946676254272;on the domestic side uncertainties surrounding fiscal policy and structural reforms in some euro area countries seem to have contributed to preventing a more vigorous improvement in consumer confidence
+2004-05-06;2004;May;REPORT;Positive;0.9827843904495239;a continued commitment to and greater clarity about the content and timing of these crucial reforms supported by a better understanding of their necessity and benefits for all citizens would help to resolve this uncertainty and thereby mitigate the associated risks for the euro area economy
+2004-05-06;2004;May;REPORT;Neutral;0.9717745780944824;turning to price developments annual hicp inflation rates will exhibit some shortterm volatility over the coming months as we already indicated on the occasion of previous meetings of the governing council
+2004-05-06;2004;May;REPORT;Neutral;0.9900909662246704;according to eurostats flash estimate annual hicp inflation was 20 in april after 17 in march
+2004-05-06;2004;May;REPORT;Positive;0.9905766248703003;while no detailed information is available as yet the recent rise in annual inflation rates is likely to mainly reflect a strong base effect in the energy component resulting from the marked decline of oil prices a year ago
+2004-05-06;2004;May;REPORT;Negative;0.9831915497779846;moreover recent oil price increases have exerted additional upward pressure
+2004-05-06;2004;May;REPORT;Neutral;0.9851459264755249;as these factors will also play a role in the next few months inflation rates of 2 or somewhat above are possible over the short term
+2004-05-06;2004;May;REPORT;Neutral;0.6079220771789551;despite these recent less positive developments over longer horizons we expect inflation rates to remain in line with price stability
+2004-05-06;2004;May;REPORT;Negative;0.8325849175453186;in particular wage developments should remain moderate
+2004-05-06;2004;May;REPORT;Positive;0.9522028565406799;the latest data on wage growth in the fourth quarter of 2003 lend support to this view
+2004-05-06;2004;May;REPORT;Neutral;0.9696683883666992;our outlook for price developments is in line with available forecasts and projections
+2004-05-06;2004;May;REPORT;Positive;0.9478610157966614;however at the current juncture the increase in commodity prices in general and oil prices in particular may pose an upside risk to price stability
+2004-05-06;2004;May;REPORT;Neutral;0.9677767157554626;it will therefore remain important to pay close attention to inflation expectations
+2004-05-06;2004;May;REPORT;Negative;0.8776131868362427;moving on to the monetary analysis annual m3 growth has moderated only slowly since the summer of 2003 while there is evidence of continued portfolio shifts out of m3 into longerterm assets the pace of this adjustment remains modest
+2004-05-06;2004;May;REPORT;Positive;0.9917135238647461;both monetary and credit growth continue to be supported by the historically low level of interest rates in the euro area and may also reflect the improvement in the economic environment over the last few quarters
+2004-05-06;2004;May;REPORT;Positive;0.9653996825218201;given the continued strength of monetary growth liquidity conditions remain ample in the euro area
+2004-05-06;2004;May;REPORT;Neutral;0.93547123670578;the impact of this high level of liquidity on inflation over the medium term will depend on future developments in the economy and financial markets
+2004-05-06;2004;May;REPORT;Negative;0.9918726086616516;should excess liquidity persist it could lead to inflationary pressures over the medium term
+2004-05-06;2004;May;REPORT;Neutral;0.9499886631965637;to sum up the economic analysis indicates that the main scenario for the outlook for price developments over the medium term is in line with price stability
+2004-05-06;2004;May;REPORT;Neutral;0.9753977656364441;crosschecking with the monetary analysis does not alter this view at the current juncture
+2004-05-06;2004;May;REPORT;Neutral;0.9543431997299194;as usual i also wish to make a few remarks regarding other policies in the euro area
+2004-05-06;2004;May;REPORT;Negative;0.9789299964904785;with regard to fiscal policies the governing council sees increased reasons for concern
+2004-05-06;2004;May;REPORT;Neutral;0.6787821054458618;on the basis of the latest commission forecasts the average euro area budgetary position is not expected to improve much this year or next
+2004-05-06;2004;May;REPORT;Negative;0.6115790009498596;a growing number of countries are likely to report significant imbalances while fiscal consolidation efforts might fall short of commitments
+2004-05-06;2004;May;REPORT;Neutral;0.8779560923576355;it is essential that all countries concerned undertake credible measures to address these concerns
+2004-05-06;2004;May;REPORT;Neutral;0.9835416674613953;such measures should be part of a comprehensive reform strategy
+2004-05-06;2004;May;REPORT;Positive;0.9911062121391296;this would underpin the ongoing economic upswing by boosting confidence in sound public finances and by improving the prospects for future economic growth
+2004-05-06;2004;May;REPORT;Neutral;0.9674761295318604;the governing council welcomes the decision by the commission to request more consolidation efforts from a number of countries
+2004-05-06;2004;May;REPORT;Neutral;0.9535167217254639;turning to structural reforms the governing council reaffirms its view that such reforms are essential if the euro areas growth potential is to expand substantially
+2004-05-06;2004;May;REPORT;Negative;0.8783925175666809;in particular both our employment rate and our labour productivity growth need to increase significantly
+2004-05-06;2004;May;REPORT;Positive;0.9857104420661926;following our discussions here in finland let me stress that this requires a strengthened technological and scientific base and its application in the euro area as a whole fostered by major efforts to enhance the human capital of our economy
+2004-05-06;2004;May;REPORT;Negative;0.993416428565979;in this context we are particularly concerned that youth unemployment remains high in several countries
+2004-05-06;2004;May;REPORT;Neutral;0.9690964221954346;in order to achieve these goals it is necessary to strengthen the implementation of structural reforms both at the european and the national level
+2004-05-06;2004;May;REPORT;Positive;0.9722239971160889;the lisbon agenda provides an excellent diagnosis of the problem and we have a good understanding of the measures needed to deal with it
+2004-05-06;2004;May;REPORT;Positive;0.7302663326263428;we strongly support the ongoing reforms which should be speeded up across the euro area
+2004-05-06;2004;May;REPORT;Positive;0.8615217804908752;it is important to understand that everyone will be better off  with higher growth and more jobs  if and when the reforms of the lisbon agenda are delivered

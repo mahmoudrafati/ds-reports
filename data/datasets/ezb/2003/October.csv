@@ -1,5 +1,57 @@
 Date;Year;Month;Type;sentiment;sentiment_score;sentence
-2003-10-02;2003;October;Monetary Policy Decisions;Neutral;0.936825692653656;today
-2003-10-02;2003;October;Monetary Policy Decisions;Neutral;0.9377869963645936;cet
-2003-10-02;2003;October;Monetary Policy Decisions;Neutral;0.9819229245185852;the president of the ecb will comment on the considerations underlying these decisions at a press conference starting at 230 pm
-2003-10-02;2003;October;Monetary Policy Decisions;Neutral;0.9923319816589355;at todays meeting which was held in lisbon the governing council of the ecb decided that the minimum bid rate on the main refinancing operations and the interest rates on the marginal lending facility and the deposit facility will remain unchanged at 200 300 and 100 respectively
+2003-10-02;2003;October;REPORT;Neutral;0.9427645802497864;introductory statement willem f duisenberg president of the european central bank lucas papademos vicepresident of the european central bank lisbon 2 october 2003 with a transcript of the questions and answers ladies and gentlemen the governing council of the european central bank today met for the eighth time outside frankfurt
+2003-10-02;2003;October;REPORT;Positive;0.9113678336143494;i would like to thank both governor constâncio for his invitation and generous hospitality as well as the staff of the banco de portugal for an excellently organised meeting
+2003-10-02;2003;October;REPORT;Neutral;0.9789824485778809;turning to business we have decided to leave the key ecb interest rates unchanged
+2003-10-02;2003;October;REPORT;Neutral;0.984258770942688;the basic components of our economic and monetary analysis remain in place
+2003-10-02;2003;October;REPORT;Negative;0.7521922588348389;in particular the mediumterm outlook for price stability continues to be favourable allowing us to conclude that the historically low level of ecb interest rates remains appropriate
+2003-10-02;2003;October;REPORT;Positive;0.7676733732223511;this also lends ongoing support to economic activity
+2003-10-02;2003;October;REPORT;Neutral;0.9712831377983093;we will continue to carefully monitor all developments which might affect our assessment
+2003-10-02;2003;October;REPORT;Negative;0.9918827414512634;the more detailed considerations underlying our decision are as follows starting with the economic analysis real gdp growth in the euro area was virtually stagnant in the first half of this year
+2003-10-02;2003;October;REPORT;Positive;0.5930539965629578;however the latest data and information are consistent with a moderate pickup in activity in the second half
+2003-10-02;2003;October;REPORT;Positive;0.9888066053390503;in particular there are signs that economic activity might have firmed somewhat in the third quarter and confidence indicators available up to september generally point to some improvement in economic expectations
+2003-10-02;2003;October;REPORT;Positive;0.9889734387397766;in line with available forecasts and projections this upturn should gradually strengthen in the course of 2004 externally the recovery in world economic activity appears to be proceeding
+2003-10-02;2003;October;REPORT;Positive;0.9848553538322449;this should support demand for euro area exports counteracting the effects of the deterioration in price competitiveness
+2003-10-02;2003;October;REPORT;Neutral;0.7708377838134766;domestically companies seem to be continuing their adjustment efforts to enhance productivity and profitability
+2003-10-02;2003;October;REPORT;Positive;0.9833769798278809;this together with the low level of interest rates should contribute to a recovery in investment
+2003-10-02;2003;October;REPORT;Positive;0.9818201065063477;furthermore termsoftrade effects stemming from the past appreciation of the euro should positively affect real disposable income in the euro area and thereby private consumption
+2003-10-02;2003;October;REPORT;Neutral;0.9882402420043945;developments in financial markets are generally consistent with this overall picture
+2003-10-02;2003;October;REPORT;Neutral;0.9377473592758179;the shortterm risks to our main scenario of a gradual recovery appear to be broadly balanced
+2003-10-02;2003;October;REPORT;Negative;0.9890507459640503;however some risks to the sustainability of economic growth at the global level remain
+2003-10-02;2003;October;REPORT;Neutral;0.9771501421928406;these are related to the mediumterm sustainability of public finances in major industrialised countries and in this connection the adjustment of external imbalances in some regions of the world
+2003-10-02;2003;October;REPORT;Neutral;0.9800463914871216;turning to the outlook for prices according to eurostats latest flash estimate hicp inflation in september was 21
+2003-10-02;2003;October;REPORT;Neutral;0.9745919108390808;this was unchanged from august
+2003-10-02;2003;October;REPORT;Neutral;0.9749098420143127;for the remainder of this year hicp inflation should hover at around 2
+2003-10-02;2003;October;REPORT;Positive;0.845371663570404;exchange rate developments help to contain shortterm upward pressure on prices while higher unprocessed food prices related to the hot and dry weather conditions in some euro area countries could imply some limited upward risk over the next few months
+2003-10-02;2003;October;REPORT;Negative;0.9058371186256409;for early 2004 there is still some uncertainty about the precise impact on hicp inflation of planned increases in indirect taxes and administered prices in a number of euro area countries
+2003-10-02;2003;October;REPORT;Neutral;0.6569323539733887;looking beyond the short term however we continue to expect inflation to fall below 2 in 2004 and to remain in line with price stability thereafter
+2003-10-02;2003;October;REPORT;Neutral;0.6615940928459167;this expectation is based on the assumption of moderate wage developments in the context of a gradual economic recovery
+2003-10-02;2003;October;REPORT;Neutral;0.9858617782592773;in this respect we note that inflation expectations in the euro area are anchored at levels below but close to 2 over the medium to long term
+2003-10-02;2003;October;REPORT;Positive;0.990562915802002;turning to the monetary analysis the strong monetary growth over the past two years has been fuelled by past portfolio shifts precautionary saving and the low level of interest rates
+2003-10-02;2003;October;REPORT;Negative;0.9929453730583191;the latter factor also provided a counterweight to the negative impact of weak economic growth on loan developments
+2003-10-02;2003;October;REPORT;Positive;0.9788377285003662;in fact there are signs of a pickup in the growth rates of loans to the private sector
+2003-10-02;2003;October;REPORT;Negative;0.9943740367889404;at the current juncture the accumulation of excess liquidity is not a cause for concern given the subdued economic growth in the euro area
+2003-10-02;2003;October;REPORT;Negative;0.9723305702209473;however if it were to persist in conjunction with a significant strengthening of economic activity it could lead to inflationary pressures in the medium term
+2003-10-02;2003;October;REPORT;Negative;0.6899300217628479;summing up and crosschecking the information from the two pillars our economic analysis continues to confirm the expectation that price pressures will remain subdued in the coming years in the context of a gradual economic recovery and moderate import price and wage developments
+2003-10-02;2003;October;REPORT;Positive;0.9443033933639526;in view of the economic situation the strong monetary expansion should not be seen as adversely affecting this outlook for the time being
+2003-10-02;2003;October;REPORT;Negative;0.6939969658851624;overall therefore the mediumterm outlook for price stability remains favourable
+2003-10-02;2003;October;REPORT;Negative;0.7437497973442078;as regards fiscal policy we would like to reiterate our serious concerns
+2003-10-02;2003;October;REPORT;Negative;0.9868049621582031;there is growing evidence that most countries will miss their budgetary targets for 2003 by a significant margin and in a number of cases budgetary plans for 2004 are not reassuring
+2003-10-02;2003;October;REPORT;Negative;0.9931038022041321;while the deterioration of budgetary balances mainly reflects the lowerthananticipated economic growth it is worrying to see that not all countries with severe imbalances have so far introduced sufficient consolidation measures
+2003-10-02;2003;October;REPORT;Neutral;0.7799116969108582;it is fundamental that the credibility of the institutional underpinnings of emu be maintained
+2003-10-02;2003;October;REPORT;Neutral;0.8589757680892944;in this respect let me stress that the treaty and the stability and growth pact provide an appropriate framework for maintaining fiscal discipline within adequate bounds of flexibility
+2003-10-02;2003;October;REPORT;Neutral;0.9555935263633728;far from being a mechanical scheme to constrain fiscal policies the excessive deficit procedure establishes a sequence of incentives for countries to prevent and correct severe budgetary imbalances
+2003-10-02;2003;October;REPORT;Neutral;0.989575982093811;at each instance of this sequence a countrys fiscal efforts and changes in the economic environment are assessed and taken into account in the design of further steps
+2003-10-02;2003;October;REPORT;Neutral;0.9810478091239929;countries are therefore continuously made aware of the risks and costs arising from any delay in taking policy action to preserve the sustainability of public finances
+2003-10-02;2003;October;REPORT;Neutral;0.9834136366844177;to maintain the credibility of the fiscal policy framework it is essential to fully abide by its rules and to implement them in every respect
+2003-10-02;2003;October;REPORT;Positive;0.9879887104034424;doing so and complying with the requirements of the ecofin council will lead to positive confidence and growth effects which can be strengthened if fiscal plans are part of a comprehensive and credible mediumterm strategy with emphasis on structural expenditure reform
+2003-10-02;2003;October;REPORT;Neutral;0.8926730155944824;finally although it might mean stating the obvious here in lisbon the lisbon strategy which was agreed upon back in march 2000 is of the utmost importance in the process of implementing structural reforms
+2003-10-02;2003;October;REPORT;Negative;0.9923298954963684;more reforms are urgently needed to reduce structural rigidities in labour and goods markets so as to address the main economic problem of the euro area namely the high level of structural unemployment
+2003-10-02;2003;October;REPORT;Positive;0.6665019392967224;at the same time current efforts to set in motion important changes in pension and health systems and in other areas in order to prepare for the ageing of society are of immense significance in ensuring the sustainability of our social security systems
+2003-10-02;2003;October;REPORT;Neutral;0.9096652269363403;let me close with a few personal remarks
+2003-10-02;2003;October;REPORT;Neutral;0.9778703451156616;as you are aware this will most probably be the last press conference following a meeting of the governing council that i will chair
+2003-10-02;2003;October;REPORT;Positive;0.5057457685470581;from my perspective these press conferences have been a success
+2003-10-02;2003;October;REPORT;Neutral;0.9888105392456055;their purpose is to inform the media and the general public in detail and on an almost realtime basis about the outcome of governing council meetings
+2003-10-02;2003;October;REPORT;Neutral;0.9832941293716431;they have allowed us to communicate and clarify our policy decisions in an open and transparent manner
+2003-10-02;2003;October;REPORT;Neutral;0.82936030626297;indeed in my view this practice makes the ecb one of the most transparent central banks in the world
+2003-10-02;2003;October;REPORT;Neutral;0.8756716847419739;i would like to take this opportunity to thank the media for their work over the fiveandahalf years in which i have had the privilege of being at the helm of the governing council
+2003-10-02;2003;October;REPORT;Positive;0.8017032742500305;i wish you all the best

@@ -1,2 +1,61 @@
 Date;Year;Month;Type;sentiment;sentiment_score;sentence
-2003-06-05;2003;June;Monetary Policy Decisions;Neutral;0.9847263693809508;at todays meeting the governing council of the ecb took the following monetary policy decisions the president of the ecb will comment on the considerations underlying these decisions at a press conference starting at 230 pm today
+2003-06-05;2003;June;REPORT;Neutral;0.92887282371521;introductory statement willem f duisenberg president of the european central bank lucas papademos vicepresident of the european central bank frankfurt 5 june 2003 with a transcript of the questions and answers ladies and gentlemen the vicepresident and i will now report on the outcome of todays meeting of the governing council of the ecb
+2003-06-05;2003;June;REPORT;Positive;0.9900820851325989;following a comprehensive economic and monetary analysis we have concluded that the outlook for price stability over the medium term has improved significantly since our last decision to lower interest rates in march
+2003-06-05;2003;June;REPORT;Neutral;0.9566755890846252;as a result we have decided to reduce our key interest rates by 50 basis points
+2003-06-05;2003;June;REPORT;Neutral;0.9942171573638916;this decision is in line with our monetary policy strategy including the aim of maintaining inflation rates below but close to 2 over the medium term
+2003-06-05;2003;June;REPORT;Negative;0.9410325884819031;at the same time this interest rate reduction takes into account the downside risks to economic growth
+2003-06-05;2003;June;REPORT;Neutral;0.9854121804237366;the governing council will continue to monitor carefully all factors which are relevant to its assessment
+2003-06-05;2003;June;REPORT;Neutral;0.9530407190322876;let me explain our assessment in detail
+2003-06-05;2003;June;REPORT;Negative;0.9939762353897095;in the context of our economic analysis the latest data releases on real gdp growth have confirmed that economic activity in the euro area remained subdued in the first quarter of this year
+2003-06-05;2003;June;REPORT;Negative;0.9935529232025146;this outcome also reflects the negative impact of the iraq crisis on both the global economy and the euro area
+2003-06-05;2003;June;REPORT;Neutral;0.8503119349479675;however the survey evidence for april and may does not suggest an immediate improvement after the resolution of this conflict and is at best mixed
+2003-06-05;2003;June;REPORT;Negative;0.9922162294387817;accordingly economic growth in the first half of 2003 is likely to be very weak and expectations for annual average economic growth for this year and for 2004 have had to be scaled down
+2003-06-05;2003;June;REPORT;Positive;0.9840633869171143;nevertheless we still expect a gradual strengthening of real gdp growth in the course of 2003 which should gather more pace next year
+2003-06-05;2003;June;REPORT;Neutral;0.9859309196472168;all available forecasts as well as recent financial market reactions seem to reflect a similar assessment
+2003-06-05;2003;June;REPORT;Neutral;0.966152548789978;the main factors supporting this outlook are both external and domestic in nature
+2003-06-05;2003;June;REPORT;Positive;0.9456778764724731;on the external side the expected upturn in extraeuro area demand should compensate for the dampening effect of the appreciation of the euro
+2003-06-05;2003;June;REPORT;Negative;0.9929747581481934;evidently the significant and rapid appreciation of the euro over recent months will dampen external price competitiveness
+2003-06-05;2003;June;REPORT;Neutral;0.9842392206192017;however the current level of the euros real effective exchange rate and thereby the competitive position of euro area exporters is very close to longerterm averages
+2003-06-05;2003;June;REPORT;Positive;0.989031970500946;thus when put into perspective current euro exchange rate levels are in line with economic fundamentals and with our interest in a strong and stable euro
+2003-06-05;2003;June;REPORT;Positive;0.8731922507286072;on the domestic side private consumption growth should recover further from the second half of 2003 onwards
+2003-06-05;2003;June;REPORT;Positive;0.961149275302887;this would reflect the growth in real disposable income supported by positive terms of trade effects and lower inflation rates
+2003-06-05;2003;June;REPORT;Negative;0.9801059365272522;moreover there are no significant imbalances in the household sector as a whole that would hinder such a recovery
+2003-06-05;2003;June;REPORT;Negative;0.8967649340629578;at the same time the contribution of investment to growth is likely to remain more modest although an improvement in the global economic environment and the historically low level of interest rates should contribute to an upswing
+2003-06-05;2003;June;REPORT;Negative;0.9186994433403015;the governing council is conscious of the continuing downside risks to economic growth
+2003-06-05;2003;June;REPORT;Negative;0.9918457865715027;notably risks stem from the past accumulation of macroeconomic imbalances outside the euro area and there are ongoing concerns with regard to the sars virus
+2003-06-05;2003;June;REPORT;Negative;0.9897211194038391;in addition some uncertainty remains as to the extent of the adjustment still needed in the euro area corporate sector to enhance productivity and profitability
+2003-06-05;2003;June;REPORT;Negative;0.6916705965995789;this could also have an impact on employment growth and thus private consumption
+2003-06-05;2003;June;REPORT;Negative;0.6720477938652039;given this environment the outlook for price developments has become more favourable
+2003-06-05;2003;June;REPORT;Neutral;0.7185827493667603;following eurostats flash estimate of the inflation rate for may of 19 annual inflation rates are expected to hover broadly around this level for the remainder of this year and to fall significantly in 2004 this assessment is based on the assumption of favourable import prices reflecting both generally stable oil price developments and the higher exchange rate as well as lower domestic price pressure in the context of a moderate economic recovery
+2003-06-05;2003;June;REPORT;Positive;0.7319219708442688;in particular wage growth is expected to remain broadly stable
+2003-06-05;2003;June;REPORT;Negative;0.6949970722198486;coupled with productivity gains this should therefore result in a moderation of unit labour costs
+2003-06-05;2003;June;REPORT;Positive;0.9852405786514282;in the context of our monetary analysis we saw persistent strong growth in the broad monetary aggregate m3
+2003-06-05;2003;June;REPORT;Positive;0.9536759257316589;consequently the euro area economy has continued to accumulate liquidity significantly above the amount needed to sustain noninflationary growth
+2003-06-05;2003;June;REPORT;Negative;0.9756622910499573;there are however several considerations which counterbalance concerns that this ample liquidity will lead to inflationary pressures over the medium term
+2003-06-05;2003;June;REPORT;Positive;0.8862506747245789;in particular monetary developments continue to be fostered by portfolio shifts reflecting a sustained preference on the part of investors for liquid and secure assets
+2003-06-05;2003;June;REPORT;Neutral;0.9456248879432678;this is confirmed by evidence from both the components and counterparts of m3
+2003-06-05;2003;June;REPORT;Neutral;0.9223579168319702;indeed loans to the private sector increased at a much more moderate pace than m3
+2003-06-05;2003;June;REPORT;Negative;0.6854709386825562;moreover higher monetary growth was accompanied by a much lower net acquisition of foreign equity by nonmfi euro area residents also implying portfolio reallocations away from riskier assets
+2003-06-05;2003;June;REPORT;Neutral;0.8251887559890747;consequently the portfolio shifts that have affected m3 growth over the past two years should unwind over time
+2003-06-05;2003;June;REPORT;Negative;0.5737828016281128;finally the perspective that economic activity will remain moderate reduces the likelihood of excess liquidity giving rise to increased spending
+2003-06-05;2003;June;REPORT;Negative;0.83319491147995;nevertheless one has to bear in mind that monetary growth is also supported by the low level of interest rates
+2003-06-05;2003;June;REPORT;Neutral;0.9799165725708008;therefore monetary developments need to be closely monitored with respect to their implications for price stability over the medium to long term
+2003-06-05;2003;June;REPORT;Negative;0.9730823040008545;summing up our economic analysis it currently appears that inflation rates should decline to below 2 over the medium term following recent movements in the exchange rate of the euro and given the sluggish growth performance of the euro area
+2003-06-05;2003;June;REPORT;Positive;0.9261499643325806;our monetary analysis indicates that the strong expansion of m3 should not for the time being adversely affect this outlook
+2003-06-05;2003;June;REPORT;Neutral;0.5959748029708862;hence crosschecking the information from the two pillars leads us to conclude that the outlook for price stability over the medium term has become more favourable
+2003-06-05;2003;June;REPORT;Neutral;0.5068552494049072;let me at this point comment on the debate about the hypothetical risk of deflation
+2003-06-05;2003;June;REPORT;Neutral;0.65517258644104;as far as the euro area is concerned it should be recalled that inflation has been hovering around 2 for quite some time and that there are currently no forecasts indicating any deflationary risks
+2003-06-05;2003;June;REPORT;Neutral;0.9917131662368774;the ecbs monetary policy aims at inflation of below but close to 2 over the medium term
+2003-06-05;2003;June;REPORT;Positive;0.8602901697158813;in this respect inflation expectations should remain well anchored at this level irrespective of shorterterm developments in prices
+2003-06-05;2003;June;REPORT;Positive;0.9873201847076416;at the regional level a period of relatively low price increases or even price level declines will improve a regions competitiveness within the currency area
+2003-06-05;2003;June;REPORT;Neutral;0.9813621640205383;within a monetary union deflation is not a meaningful concept when applied to individual regions
+2003-06-05;2003;June;REPORT;Negative;0.9153627157211304;at this juncture it may be particularly warranted to stress that monetary policy cannot by itself generate lasting and sustainable growth and employment in the euro area
+2003-06-05;2003;June;REPORT;Neutral;0.980290412902832;this can only be achieved by appropriate structural measures that address fundamental weaknesses and tackle urgent adjustment requirements
+2003-06-05;2003;June;REPORT;Positive;0.9873476028442383;in this respect fiscal policies have a great potential for fostering confidence and thereby supporting activity even in the short run
+2003-06-05;2003;June;REPORT;Positive;0.9549018144607544;establishing a well designed mediumterm consolidation strategy in those countries currently struggling with increasing fiscal imbalances would make a major contribution in this direction
+2003-06-05;2003;June;REPORT;Neutral;0.9611408114433289;this would imply comprehensive and growthfriendly measures including in particular a courageous reform of the structure and level of public expenditure
+2003-06-05;2003;June;REPORT;Negative;0.7665583491325378;curbing spending growth would eventually also create further room for manoeuvre to address future pressure arising from pension systems and scope for future tax cuts
+2003-06-05;2003;June;REPORT;Positive;0.8419550061225891;procedurally it is crucial to underpin the fiscal policy framework with a decisive and consistent implementation of the rules of the treaty and of the stability and growth pact and rigorous monitoring and peer pressure amongst member states
+2003-06-05;2003;June;REPORT;Negative;0.7745969295501709;by the same measure bold structural reforms in the labour and product markets would not only increase the euro areas growth potential and enhance its ability to better withstand external shocks but it would also eliminate a great deal of the uncertainty currently overshadowing longterm planning and perspectives
+2003-06-05;2003;June;REPORT;Positive;0.972987174987793;this in turn would also have positive effects over the shorter term
+2003-06-05;2003;June;REPORT;Positive;0.989298939704895;in particular renewed momentum in the process of structural reform would foster consumer and investor confidence and thereby greatly facilitate spending and investment decisions in the euro area

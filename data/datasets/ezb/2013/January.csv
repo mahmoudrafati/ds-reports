@@ -1,0 +1,51 @@
+Date;Year;Month;Type;sentiment;sentiment_score;sentence
+2013-01-10;2013;January;REPORT;Positive;0.5130819082260132;introductory statement to the press conference with qa mario draghi president of the ecbvítor constâncio vicepresident of the ecbfrankfurt am main 10 january 2013 jump to the transcript of the questions and answers ladies and gentlemen the vicepresident and i are very pleased to welcome you to our press conference
+2013-01-10;2013;January;REPORT;Positive;0.8667285442352295;let me wish you all a happy new year
+2013-01-10;2013;January;REPORT;Neutral;0.9750279188156128;we will now report on the outcome of todays meeting of the governing council
+2013-01-10;2013;January;REPORT;Neutral;0.9895159006118774;based on our regular economic and monetary analyses we decided to keep the key ecb interest rates unchanged
+2013-01-10;2013;January;REPORT;Negative;0.9889322519302368;hicp inflation rates have declined over recent months as anticipated and are expected to fall below 2 this year
+2013-01-10;2013;January;REPORT;Neutral;0.793118417263031;over the policyrelevant horizon inflationary pressures should remain contained
+2013-01-10;2013;January;REPORT;Negative;0.9946714043617249;the underlying pace of monetary expansion continues to be subdued
+2013-01-10;2013;January;REPORT;Neutral;0.9828038215637207;inflation expectations for the euro area remain firmly anchored in line with our aim of maintaining inflation rates below but close to 2 over the medium term
+2013-01-10;2013;January;REPORT;Negative;0.9925410747528076;the economic weakness in the euro area is expected to extend into 2013 in particular necessary balance sheet adjustments in financial and nonfinancial sectors and persistent uncertainty will continue to weigh on economic activity
+2013-01-10;2013;January;REPORT;Positive;0.9840137362480164;later in 2013 economic activity should gradually recover
+2013-01-10;2013;January;REPORT;Positive;0.9925498962402344;in particular our accommodative monetary policy stance together with significantly improved financial market confidence and reduced fragmentation should work its way through to the economy and global demand should strengthen
+2013-01-10;2013;January;REPORT;Positive;0.5640078783035278;in order to sustain confidence it is essential for governments to reduce further both fiscal and structural imbalances and to proceed with financial sector restructuring
+2013-01-10;2013;January;REPORT;Neutral;0.935492992401123;let me now explain our assessment in greater detail starting with the economic analysis
+2013-01-10;2013;January;REPORT;Negative;0.9870865345001221;following a contraction of 02 quarter on quarter in the second quarter of 2012 euro area real gdp declined by 01 in the third quarter
+2013-01-10;2013;January;REPORT;Negative;0.9930902123451233;available statistics and survey indicators continue to signal further weakness in activity which is expected to extend into this year reflecting the adverse impact on domestic expenditure of weak consumer and investor sentiment and subdued foreign demand
+2013-01-10;2013;January;REPORT;Positive;0.9918224215507507;however more recently several conjunctural indicators have broadly stabilised albeit at low levels and financial market confidence has improved significantly
+2013-01-10;2013;January;REPORT;Positive;0.9916770458221436;later in 2013 a gradual recovery should start as our accommodative monetary policy stance the significant improvement in financial market confidence and reduced fragmentation work their way through to private domestic expenditure and a strengthening of foreign demand should support export growth
+2013-01-10;2013;January;REPORT;Negative;0.9912774562835693;the risks surrounding the economic outlook for the euro area remain on the downside
+2013-01-10;2013;January;REPORT;Negative;0.9399958848953247;they are mainly related to slow implementation of structural reforms in the euro area geopolitical issues and imbalances in major industrialised countries
+2013-01-10;2013;January;REPORT;Negative;0.9912155866622925;these factors have the potential to dampen sentiment for longer than currently assumed and delay further the recovery of private investment employment and consumption
+2013-01-10;2013;January;REPORT;Neutral;0.9657480120658875;according to eurostats flash estimate euro area annual hicp inflation was 22 in december 2012 unchanged from november and down from 25 in october and 26 in august and september
+2013-01-10;2013;January;REPORT;Negative;0.7592757344245911;on the basis of current futures prices for oil inflation rates are expected to decline further to below 2 this year
+2013-01-10;2013;January;REPORT;Negative;0.9832091927528381;over the policyrelevant horizon in an environment of weak economic activity in the euro area and wellanchored longterm inflation expectations underlying price pressures should remain contained
+2013-01-10;2013;January;REPORT;Negative;0.9816529154777527;risks to the outlook for price developments are seen as broadly balanced over the medium term with downside risks stemming from weaker economic activity and upside risks relating to higher administered prices and indirect taxes as well as higher oil prices
+2013-01-10;2013;January;REPORT;Negative;0.9915593266487122;turning to the monetary analysis the underlying pace of monetary expansion continues to be subdued
+2013-01-10;2013;January;REPORT;Neutral;0.9886350631713867;the annual growth rate of m3 remained broadly unchanged at 38 in november 2012 after 39 in october
+2013-01-10;2013;January;REPORT;Positive;0.9025111198425293;m3 growth continued to be driven by a preference for liquid assets as m1 growth increased further to 67 in november from 65 in october reflecting inflows into overnight deposits from households and nonfinancial corporations
+2013-01-10;2013;January;REPORT;Positive;0.9591993689537048;following our nonstandard monetary policy measures and action by other policymakers a broadly based strengthening in the deposit base of mfis in a number of stressed countries was observed
+2013-01-10;2013;January;REPORT;Positive;0.9337326884269714;this allowed several mfis to reduce further their reliance on eurosystem funding and helped to reduce segmentation in financial markets
+2013-01-10;2013;January;REPORT;Positive;0.9904986023902893;m3 growth was also supported by an inflow of capital into the euro area as reflected in the strong increase in the net external asset position of mfis
+2013-01-10;2013;January;REPORT;Negative;0.9939271807670593;there has been little change in credit growth which remained weak in november
+2013-01-10;2013;January;REPORT;Neutral;0.9636671543121338;the annual rate of decline in loans to the private sector adjusted for loan sales and securitisation remained at 05 in november
+2013-01-10;2013;January;REPORT;Neutral;0.9725787043571472;this development reflects further net redemptions in loans to nonfinancial corporations
+2013-01-10;2013;January;REPORT;Negative;0.7748960852622986;net redemptions however were less pronounced than in previous months amounting to 4 billion in november after 7 billion in october and 21 billion in september
+2013-01-10;2013;January;REPORT;Neutral;0.9779491424560547;the annual rate of decline in loans to nonfinancial corporations was 14 in november after 15 in october
+2013-01-10;2013;January;REPORT;Neutral;0.9836180806159973;the annual growth in mfi lending to households also remained broadly unchanged at 07 in november
+2013-01-10;2013;January;REPORT;Neutral;0.7524737119674683;to a large extent subdued loan dynamics reflect the current stage of the business cycle heightened credit risk and the ongoing adjustment in the balance sheets of households and enterprises
+2013-01-10;2013;January;REPORT;Positive;0.6351631879806519;in order to ensure adequate transmission of monetary policy to the financing conditions in euro area countries it is essential to continue strengthening the resilience of banks where needed
+2013-01-10;2013;January;REPORT;Neutral;0.8645162582397461;the soundness of banks balance sheets will be a key factor in facilitating both an appropriate provision of credit to the economy and the normalisation of all funding channels
+2013-01-10;2013;January;REPORT;Positive;0.8256366848945618;decisive steps for establishing an integrated financial framework will help to accomplish this objective
+2013-01-10;2013;January;REPORT;Neutral;0.9820592999458313;the future single supervisory mechanism ssm is one of the main building blocks
+2013-01-10;2013;January;REPORT;Positive;0.6978128552436829;it is a crucial move towards reintegrating the banking system
+2013-01-10;2013;January;REPORT;Neutral;0.8234634399414062;to sum up the economic analysis indicates that price developments should remain in line with price stability over the medium term
+2013-01-10;2013;January;REPORT;Neutral;0.6049624085426331;a crosscheck with the signals from the monetary analysis confirms this picture
+2013-01-10;2013;January;REPORT;Positive;0.7701035737991333;other economic policy areas will need to make further contributions to ensure a firm stabilisation of financial markets and an improvement in the outlook for growth
+2013-01-10;2013;January;REPORT;Positive;0.9079216718673706;further structural reforms should be rapidly implemented to make the euro area a more flexible dynamic and competitive economy
+2013-01-10;2013;January;REPORT;Positive;0.7658498287200928;in particular product market reforms to increase competition and competitiveness are essential accompanied by measures to improve the functioning of labour markets
+2013-01-10;2013;January;REPORT;Positive;0.9503383636474609;such reforms will boost the euro areas growth potential and employment and improve the adjustment capacities of the euro area countries
+2013-01-10;2013;January;REPORT;Positive;0.9629234671592712;they will also add further momentum to the progress being made with regard to unit labour costs and current account imbalances
+2013-01-10;2013;January;REPORT;Positive;0.992122232913971;as regards fiscal policies the recent significant decline in sovereign bond yields should be bolstered by further progress in fiscal consolidation in line with the commitments under the stability and growth pact

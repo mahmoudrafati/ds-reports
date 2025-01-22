@@ -1,0 +1,291 @@
+Date;Year;Month;Type;sentiment;sentiment_score;sentence
+2000-06-08;2000;June;REPORT;Neutral;0.948810338973999;ecb press conference introductory statement willem f duisenberg president of the european central bank christian noyer vicepresident of the european central bank frankfurt am main 8 june 2000 with the transcript of the questions and answers ladies and gentlemen the vicepresident and i are here to report on the outcome of todays meetings of the general council and the governing council of the ecb
+2000-06-08;2000;June;REPORT;Neutral;0.9570582509040833;the governing council took the following monetary policy decisions the interest rate on the main refinancing operations of the eurosystem will be raised by 050 percentage point to 425 and applied in the two operations which will be conducted as fixed rate tenders to be settled on 15 and 21 june 2000 the interest rate on the marginal lending facility will be raised by 050 percentage point to 525 with effect from 9 june 2000 the interest rate on the deposit facility will be raised by 050 percentage point to 325 with effect from 9 june 2000 starting from the operation to be settled on 28 june 2000 the main refinancing operations of the eurosystem will be conducted as variable rate tenders applying the multiple rate auction procedure
+2000-06-08;2000;June;REPORT;Neutral;0.986283540725708;the governing council has decided to set a minimum bid rate for these operations equal to 425
+2000-06-08;2000;June;REPORT;Neutral;0.9881603717803955;this is the same rate as that which will prevail for the two fixed rate tenders to be implemented following todays decision
+2000-06-08;2000;June;REPORT;Neutral;0.9691699743270874;let me start by commenting on the reasons for this rise in interest rates before the vicepresident says a few words about the move to a variable rate tender procedure
+2000-06-08;2000;June;REPORT;Negative;0.9784422516822815;over recent months the risks to price stability in the medium term have clearly continued to increase
+2000-06-08;2000;June;REPORT;Neutral;0.9867086410522461;this assessment has been supported by the information from both the first pillar and the second pillar of the eurosystems monetary policy strategy
+2000-06-08;2000;June;REPORT;Positive;0.9900566935539246;with regard to the first pillar strong growth of money and credit throughout 1999 and the pronounced expansion of money and credit aggregates over the first four months of 2000 have strengthened the view that liquidity conditions are ample
+2000-06-08;2000;June;REPORT;Negative;0.9845063090324402;as for the second pillar in a phase of strong growth upward risks to price stability currently relate mainly to the spillover of rising import prices to consumer prices owing both to the lagged effects of the exchange rate depreciation and to rising oil prices
+2000-06-08;2000;June;REPORT;Neutral;0.9895329475402832;in fact most inflation forecasts have been revised upwards over recent months
+2000-06-08;2000;June;REPORT;Negative;0.882501482963562;this is a matter of concern
+2000-06-08;2000;June;REPORT;Positive;0.9828868508338928;todays increase in ecb interest rates is a decisive step to address these upside risks to price stability and it will contribute to the continuation of noninflationary growth in the euro area
+2000-06-08;2000;June;REPORT;Neutral;0.9053657054901123;allow me to give you a more detailed overview of the main elements of our assessment of monetary financial market and other economic developments
+2000-06-08;2000;June;REPORT;Neutral;0.9543340802192688;let me start by addressing the latest monetary developments in the euro area
+2000-06-08;2000;June;REPORT;Neutral;0.9837903380393982;the threemonth average of the annual growth rates of m3 covering the period from february to april 2000 was 63 ie
+2000-06-08;2000;June;REPORT;Neutral;0.9680854082107544;significantly above the reference value of 4 12
+2000-06-08;2000;June;REPORT;Negative;0.5125011205673218;thus the most recent m3 data confirm that the liquidity situation in the euro area continues to be very generous
+2000-06-08;2000;June;REPORT;Positive;0.9357748627662659;m3 growth deviated from the reference value in 1999 and growth rates increased further in early 2000 this picture of very generous liquidity conditions in the euro area is complemented by the rapid expansion of credit to the private sector which remained close to or above 10 throughout 1999 and exceeded 11 in april 2000 taken together such developments would clearly point to upside risks to price stability over the medium term if not counteracted in time
+2000-06-08;2000;June;REPORT;Neutral;0.979303240776062;turning to the second pillar we have to consider economic and financial market developments as well as consumer price developments
+2000-06-08;2000;June;REPORT;Positive;0.9920233488082886;looking at economic developments the outlook for growth in the euro area has improved markedly over the past few months
+2000-06-08;2000;June;REPORT;Positive;0.9888423681259155;overall indicators for economic activity released since the end of last year point to continued strong growth following the upturn in real gdp growth in the second half of 1999 all the forecasts currently available from major international organisations and private institutions now project real gdp growth to be above 3 this year and next year which is significantly higher than expected at the end of last year
+2000-06-08;2000;June;REPORT;Positive;0.9908972382545471;this positive outlook reflects favourable domestic and external conditions for growth
+2000-06-08;2000;June;REPORT;Positive;0.9922717809677124;on the domestic side expansion of private consumption and investment should benefit in particular from ongoing employment growth and higher rates of capacity utilisation
+2000-06-08;2000;June;REPORT;Positive;0.9907006025314331;domestic demand is also supported by high business and consumer confidence
+2000-06-08;2000;June;REPORT;Positive;0.9922099113464355;on the external side the upturn of growth in the world economy appears to be stronger faster and more broadly based than was expected at the end of last year
+2000-06-08;2000;June;REPORT;Positive;0.9892276525497437;hence euro area exports should remain strong
+2000-06-08;2000;June;REPORT;Positive;0.9780009984970093;financial market developments also support the view that the economic expansion in the euro area is set to continue at a fast pace
+2000-06-08;2000;June;REPORT;Positive;0.9928258657455444;moreover the exchange rate of the euro appreciated at the end of may and in the first few days of june also reflecting expectations that robust economic growth will continue in the euro area
+2000-06-08;2000;June;REPORT;Negative;0.9875456690788269;notwithstanding the recent appreciation of the euro the extent and duration of its previous depreciation will still exert upward pressure on consumer prices
+2000-06-08;2000;June;REPORT;Negative;0.7406430244445801;against this background the outlook for consumer price developments had become less favourable prior to todays meeting
+2000-06-08;2000;June;REPORT;Neutral;0.9903846979141235;in april 2000 inflation  as measured by the harmonised index of consumer prices hicp  was 19 following 21 in march
+2000-06-08;2000;June;REPORT;Negative;0.9838539958000183;in the immediate future the strong rise in oil prices in may 2000 is pointing to renewed shortterm upward pressures
+2000-06-08;2000;June;REPORT;Neutral;0.8453576564788818;looking further ahead all available forecasts for consumer price inflation for this year and next are now higher than they were at the end of 1999 current projections of a rate of inflation of around 2 in 2000 and 2001 are clear warning signals
+2000-06-08;2000;June;REPORT;Neutral;0.727675199508667;in conclusion with todays decisions the governing council has acted in a forwardlooking manner in order to contribute to the maintenance of favourable conditions for a lasting noninflationary economic expansion
+2000-06-08;2000;June;REPORT;Positive;0.9610578417778015;this should help other economic actors to rely firmly on the maintenance of price stability in the medium term
+2000-06-08;2000;June;REPORT;Neutral;0.9767867922782898;they are also called upon to contribute to price stability and growth by means of appropriate wage settlements compatible with employment growth structural reform and fiscal consolidation
+2000-06-08;2000;June;REPORT;Negative;0.7119418978691101;at the current juncture they are especially encouraged to press ahead with structural reform and governments are particularly urged to avoid a procyclical loosening of fiscal policies
+2000-06-08;2000;June;REPORT;Negative;0.9729024171829224;this is particularly important in those countries where there is a risk of overheating
+2000-06-08;2000;June;REPORT;Neutral;0.9839771389961243;let me now give the floor to the vicepresident to say a few words about the decision to implement a variable rate tender procedure as from the main refinancing operation to be settled on 28 june 2000 the switch to variable rate tenders in the main refinancing operations is not intended as a further change in the monetary policy stance of the eurosystem
+2000-06-08;2000;June;REPORT;Neutral;0.952011227607727;the new tender mechanism is a response to the severe overbidding which has developed in the context of the current fixed rate tender procedure
+2000-06-08;2000;June;REPORT;Neutral;0.9939508438110352;for the purpose of signalling the monetary policy stance the minimum bid rate is designed to play the role performed until now by the rate in fixed rate tenders
+2000-06-08;2000;June;REPORT;Neutral;0.9897364377975464;this change does not in any way rule out the option that in the future the main refinancing operations of the eurosystem may be conducted in principle as fixed rate tenders
+2000-06-08;2000;June;REPORT;Neutral;0.9682323336601257;a press release setting out a comprehensive description of the new tender procedure will be issued during the course of next week
+2000-06-08;2000;June;REPORT;Neutral;0.9645622372627258;turning to todays other meeting the general council considered public finance developments in the eu
+2000-06-08;2000;June;REPORT;Neutral;0.9887443780899048;the general council also carried out its first annual review of the functioning of the erm ii in accordance with article 16 of the erm ii agreement
+2000-06-08;2000;June;REPORT;Neutral;0.9287391901016235;finally let me draw your attention to the calendar for meetings of the governing council and general council in 2001 a separate press release listing the dates as well as the related dates for the press conferences will be made available to you this afternoon
+2000-06-08;2000;June;REPORT;Neutral;0.772260844707489;in this context i should also like to point out that the press conference previously announced for 3 august 2000 has been cancelled
+2000-06-08;2000;June;REPORT;Neutral;0.9318070411682129;we are now at your disposal should you have any questions
+2000-06-08;2000;June;REPORT;Neutral;0.9272608160972595;transcript of the questions asked and the answers given by dr willem f duisenberg president of the ecb and christian noyer vicepresident of the ecb question i have a question regarding your new method of allocating money to the markets in three weeks time
+2000-06-08;2000;June;REPORT;Neutral;0.9741154909133911;it appears that you will in a way have an american auction system from 28 june onwards
+2000-06-08;2000;June;REPORT;Neutral;0.9814057946205139;at the same time you are saying that the minimum bid level is your target rate basically
+2000-06-08;2000;June;REPORT;Neutral;0.7681475877761841;is that a correct understanding
+2000-06-08;2000;June;REPORT;Neutral;0.9146499633789062;is that a target rate
+2000-06-08;2000;June;REPORT;Neutral;0.9689903855323792;are you combining an american system with a fedlike target rate system
+2000-06-08;2000;June;REPORT;Neutral;0.8525595664978027;and second are you not afraid now given that you have not introduced a ceiling  no bidding range only a minimum bid level  are you not afraid that the markets will drive up rates way above 425
+2000-06-08;2000;June;REPORT;Neutral;0.9803186058998108;in other words that you have now increased interest rates by 50 basis points plus an amount of growth which we cannot determine today as from three weeks time
+2000-06-08;2000;June;REPORT;Neutral;0.9739853739738464;noyer well in answer to your first question no you cannot say it is a target rate because the tender procedure which we will then use is technically very different from the procedure that the fed uses to influence the market
+2000-06-08;2000;June;REPORT;Neutral;0.9908466935157776;the signalling effect of what was previously our refinancing rate in a fixed rate tender will now be provided by the minimum bid rate
+2000-06-08;2000;June;REPORT;Neutral;0.9441310167312622;but we will not be targeting that rate as such
+2000-06-08;2000;June;REPORT;Neutral;0.986799418926239;now it is a fact of course and it is the experience of many national central banks which used different types of variable rate tenders before the euro that market rates normally come close to the minimum rate
+2000-06-08;2000;June;REPORT;Neutral;0.949912965297699;it is the market forces that bring them down it is not a target in the sense that you could say the federal reserve has a target
+2000-06-08;2000;June;REPORT;Neutral;0.9594177007675171;on your second question normally there are binding mechanisms which mean that it cannot move very far from the minimum
+2000-06-08;2000;June;REPORT;Neutral;0.757915735244751;but this is mainly due to market forces
+2000-06-08;2000;June;REPORT;Negative;0.668062150478363;if you bid very high then it is very likely that market rates will be lower than the rate at which you will be allocated central bank money
+2000-06-08;2000;June;REPORT;Negative;0.6647845506668091;so you risk losing money
+2000-06-08;2000;June;REPORT;Neutral;0.9633510112762451;a builtin mechanism brings rates closer to the minimum bid rate
+2000-06-08;2000;June;REPORT;Neutral;0.9567435383796692;question mr president or mr vicepresident why did you not add up the full allotment in fixed rate tenders instead of deciding to switch to variable tenders
+2000-06-08;2000;June;REPORT;Neutral;0.5509958863258362;why do you think that the latter is the better system or is it just the current situation
+2000-06-08;2000;June;REPORT;Neutral;0.9167697429656982;noyer well there are many possible technical devices
+2000-06-08;2000;June;REPORT;Neutral;0.9493066668510437;this one was seen as closer to the one that we had wanted from the beginning
+2000-06-08;2000;June;REPORT;Neutral;0.9544970989227295;i should like to remind you that from the outset we had said that we had two possible tools
+2000-06-08;2000;June;REPORT;Neutral;0.968966007232666;one was fixed rate tenders and the other was variable rate tenders
+2000-06-08;2000;June;REPORT;Neutral;0.9797273874282837;for the fixed rate tenders we started with the idea that we should be able to provide the market with approximately the liquidity that we thought it needed
+2000-06-08;2000;June;REPORT;Neutral;0.9847020506858826;this is very much how this was done before by most central banks in the euro area
+2000-06-08;2000;June;REPORT;Neutral;0.985886812210083;if you move to a 100 fixed rate allocation system a fixed rate tender allocation system then you leave the amount of liquidity that it would draw from the central bank completely in the hands of the market
+2000-06-08;2000;June;REPORT;Neutral;0.9306257963180542;it is quite a different system and the consequences would have to be studied extremely carefully
+2000-06-08;2000;June;REPORT;Neutral;0.9585123658180237;it has of course worked in small countries whether it can work in a large area is difficult to assess but this is certainly something we have considered
+2000-06-08;2000;June;REPORT;Neutral;0.9894809722900391;for variable rates by contrast we had said from the beginning that we wanted to have that tool available and we have studied the various possible features of this variable rate system for many months
+2000-06-08;2000;June;REPORT;Neutral;0.9655017852783203;now finally we have found out that the best possible way to use it would be relatively close in terms of signalling procedure to the fixed rate tender so that we could shift from one to the other without blurring market players at all ie
+2000-06-08;2000;June;REPORT;Neutral;0.9821733236312866;a combination of the variable rate tender with a minimum bid rate
+2000-06-08;2000;June;REPORT;Neutral;0.9873062372207642;then you have a tool which provides the signalling effect that we had before in the fixed rate tenders
+2000-06-08;2000;June;REPORT;Neutral;0.9537120461463928;duisenberg and i would like to reiterate and reemphasise that this switch to the variable rate tender procedure in no way implies a change in monetary policy stance
+2000-06-08;2000;June;REPORT;Negative;0.8732280731201172;it is purely inspired by the worsening situation in the bidding process whereby the last two allotment ratios were less than 1 each at 088 and 087 respectively which made it almost ridiculous
+2000-06-08;2000;June;REPORT;Neutral;0.9490965604782104;that is what triggered this move to the new system
+2000-06-08;2000;June;REPORT;Neutral;0.9526174068450928;but we still want to be as much in the lead in giving interest rate signals as we were under the fixed rate tender system
+2000-06-08;2000;June;REPORT;Neutral;0.7787463068962097;however i should also add that this switch in no way rules out the possibility that we may at some point return to the fixed rate tender system
+2000-06-08;2000;June;REPORT;Neutral;0.6711322665214539;question mr president in the past as recently as some testimony that you gave earlier this year in brussels you said that a halfpoint move by the european central bank could signal a hiatus in future moves
+2000-06-08;2000;June;REPORT;Neutral;0.7888912558555603;i was wondering if that is the signal you are trying to give now
+2000-06-08;2000;June;REPORT;Neutral;0.9222107529640198;duisenberg no one of the motives to move by half a point is that in our view such a move will clear the horizon for some time to come
+2000-06-08;2000;June;REPORT;Neutral;0.7439342737197876;we do not know for how long
+2000-06-08;2000;June;REPORT;Neutral;0.9562336802482605;we wanted to give certainty and clarity to the markets for some time to come
+2000-06-08;2000;June;REPORT;Neutral;0.9485328197479248;question so financial markets should not expect every six weeks
+2000-06-08;2000;June;REPORT;Neutral;0.9604933857917786;duisenberg well i do not know what financial markets will expect but we think with this move we have cleared the horizon although it may be a moving horizon
+2000-06-08;2000;June;REPORT;Neutral;0.7049289345741272;question translation mr president i would like to have your feeling on a few things
+2000-06-08;2000;June;REPORT;Neutral;0.8267050981521606;do you think that the previous rises in rates have had a favourable effect on the euro exchange rate which is now appreciating against the dollar
+2000-06-08;2000;June;REPORT;Neutral;0.9116002917289734;that is the first question
+2000-06-08;2000;June;REPORT;Neutral;0.9610432386398315;second question do you not think that we are going to accredit the idea that for the ecb a rate of growth of 3 is the maximum rate of growth that the euro area can support
+2000-06-08;2000;June;REPORT;Neutral;0.8762389421463013;duisenberg the previous hikes in interest rates may have had an effect on the turnaround in the sentiment about the exchange rate
+2000-06-08;2000;June;REPORT;Neutral;0.9744638800621033;if that is so then it is only welcome
+2000-06-08;2000;June;REPORT;Neutral;0.9580734968185425;but those interest rate moves and the one of today were in no way a reaction to the exchange rate developments because we do not have as you know an exchange rate target
+2000-06-08;2000;June;REPORT;Neutral;0.6659634709358215;yet as a side effect if they have helped to change the sentiment then we are only grateful
+2000-06-08;2000;June;REPORT;Neutral;0.9351691007614136;the current forecasts for growth for both years as i have said by many institutions and our own analysis point to a rate of growth in excess of 3 both in 2000 and in 2001 but there still is underutilisation of capacity  the output gap may be closing but i would not say that we would want to cap growth in any way at this stage and at this rate
+2000-06-08;2000;June;REPORT;Positive;0.9348506927490234;on the contrary we believe that the interest rate move of today creates the conditions for a sustained period of noninflationary but high growth
+2000-06-08;2000;June;REPORT;Neutral;0.9844776391983032;question laurent fabius suggested making proposals at the end of the month or the beginning of july to reinforce the euro11
+2000-06-08;2000;June;REPORT;Neutral;0.9764854907989502;at the same time the euro11 through its declaration of 8 may 2000 seems to have influenced the level of the euro exchange rate
+2000-06-08;2000;June;REPORT;Neutral;0.4581776559352875;in this respect are you in favour of strengthening this group or is it already strong enough
+2000-06-08;2000;June;REPORT;Neutral;0.6194812059402466;and the second question in its annual report published at the beginning of the week the bis explicitly questioned the clarity of the two pillars of the monetary policy strategy of the ecb
+2000-06-08;2000;June;REPORT;Neutral;0.9470571279525757;what is your opinion in terms of how the public understands your strategy
+2000-06-08;2000;June;REPORT;Neutral;0.9691886901855469;duisenberg on the euro11 that is still an informal organisation with which the ecb is in a continuous dialogue
+2000-06-08;2000;June;REPORT;Neutral;0.9806345701217651;the organisation of the euro11 is a matter for ministers and not for the european central bank
+2000-06-08;2000;June;REPORT;Neutral;0.664891242980957;the position of the european central bank is very clear and welldefined in the treaty of maastricht
+2000-06-08;2000;June;REPORT;Neutral;0.9661657810211182;so whatever way the ministers organise themselves it does not  i am inclined to say  affect the position or the cooperation of the european central bank
+2000-06-08;2000;June;REPORT;Neutral;0.9181681275367737;as for how the public perceives our twopillar strategy admittedly it is not a simple strategy
+2000-06-08;2000;June;REPORT;Positive;0.6265875697135925;we do our utmost to explain our two pillarbased strategy and we have the impression that it is becoming better and better understood
+2000-06-08;2000;June;REPORT;Neutral;0.9813232421875;i recall that in the past days a few outside experts  basing themselves explicitly on the reasoning in our twopillar strategy  came to the conclusion that if you applied this strategy then there was no question but to think that the ecb would raise interest rates by 50 basis points
+2000-06-08;2000;June;REPORT;Neutral;0.8971455693244934;well they at least had understood it
+2000-06-08;2000;June;REPORT;Neutral;0.7681018710136414;question mr duisenberg i have a followup question on the euro11
+2000-06-08;2000;June;REPORT;Neutral;0.9182989597320557;where are you drawing the line and what is an acceptable development
+2000-06-08;2000;June;REPORT;Neutral;0.9820871949195862;they say that the euro11 chairman would regularly comment on monetary policy the exchange rate and so on
+2000-06-08;2000;June;REPORT;Negative;0.7859033346176147;would that be a problem
+2000-06-08;2000;June;REPORT;Negative;0.8533031940460205;or where do you think there could be a problem
+2000-06-08;2000;June;REPORT;Negative;0.7013989090919495;duisenberg i do not really see a problem
+2000-06-08;2000;June;REPORT;Neutral;0.9840064644813538;the competence for exchange rates is also clearly defined in the treaty
+2000-06-08;2000;June;REPORT;Neutral;0.981787919998169;for daytoday business and if there are no specific exchange rate arrangements there is only one institution competent for exchange rates  and that is the european central bank
+2000-06-08;2000;June;REPORT;Neutral;0.9782688021659851;what ministers can do and may do at some point perhaps is to give general orientations
+2000-06-08;2000;June;REPORT;Neutral;0.980273962020874;they can only do so in consultation with or on a proposal from the european central bank
+2000-06-08;2000;June;REPORT;Negative;0.717315673828125;so i do not see any problem there
+2000-06-08;2000;June;REPORT;Neutral;0.8348158001899719;i must say that in the continuous dialogue which the european central bank has with the euro11 we have managed to an ever greater degree let me put it that way to restrain ourselves both governors and ministers from making comments about monetary or exchange rate developments
+2000-06-08;2000;June;REPORT;Positive;0.6012558937072754;admittedly we may not be 100 successful but to my mind we are increasingly successful in speaking with one voice  both ministers and governors
+2000-06-08;2000;June;REPORT;Neutral;0.9740007519721985;question mr president did you vote today or did you reach your decisions through discussions
+2000-06-08;2000;June;REPORT;Neutral;0.8858027458190918;duisenberg you will be aware that i never comment on that
+2000-06-08;2000;June;REPORT;Neutral;0.9593201279640198;we had an intensive discussion a prolonged discussion which was very useful and in the end resulted in a consensus on what we had to do
+2000-06-08;2000;June;REPORT;Negative;0.9501217603683472;question there have been no questions about the weak euro this time or where it stood three weeks ago
+2000-06-08;2000;June;REPORT;Negative;0.8651890158653259;when do you expect the questions about a too strong euro
+2000-06-08;2000;June;REPORT;Neutral;0.7819202542304993;duisenberg not today
+2000-06-08;2000;June;REPORT;Neutral;0.9666407704353333;question mr milton friedman the nobel prizewinning economist has said that the euro is up to 25 undervalued against the dollar
+2000-06-08;2000;June;REPORT;Neutral;0.8994506001472473;is that something you could adjust to
+2000-06-08;2000;June;REPORT;Neutral;0.9299538731575012;duisenberg i know that the exchange rate of the euro even after the recent appreciation does not yet reflect the fundamentals whatever they may be
+2000-06-08;2000;June;REPORT;Neutral;0.9160094857215881;but i am not in a position to declare a certain value to be the right value
+2000-06-08;2000;June;REPORT;Neutral;0.9579333662986755;that is what the markets decide
+2000-06-08;2000;June;REPORT;Neutral;0.9260194301605225;and when it does reflect the fundamentals you will not hear me saying anything either
+2000-06-08;2000;June;REPORT;Positive;0.9789177775382996;question the european finance ministers are expecting huge revenues from auctions of mobile licences and privatisation and possibly also higher tax incomes
+2000-06-08;2000;June;REPORT;Neutral;0.9608100652694702;do you have any advice on how they should spend that income  for instance on reducing the deficits or debt
+2000-06-08;2000;June;REPORT;Neutral;0.7295638918876648;duisenberg yes i already implicitly gave that advice in my introductory statement as we urge governments in this high growth period not to exert procyclical impulses through tax reductions which would endanger the inflation performance of the euro area economy
+2000-06-08;2000;June;REPORT;Neutral;0.9507784247398376;so by implication that means that we hope these extra revenues as they come in be they from privatisation or licensing of gsm features or from cyclically higher tax revenues will be used to the maximum extent possible to strengthen the process of consolidation of the public finances in other words to reduce the deficit and to reduce the burden of debt
+2000-06-08;2000;June;REPORT;Negative;0.9133945107460022;question i was wondering whether the ecb is just mirroring the fed and also whether there is a risk that this sort of rate rise is overkill given that there are still 18 million unemployed in europe
+2000-06-08;2000;June;REPORT;Neutral;0.6848921179771423;duisenberg on the first question i do not think that we are mirroring the fed
+2000-06-08;2000;June;REPORT;Negative;0.5623924136161804;on the question of overkill we had of course thought of that but we did not see that danger
+2000-06-08;2000;June;REPORT;Positive;0.9291577339172363;i would like to point out that even after the increase of today  and now i am talking about shortterm interest rates  rates are still at a level which should encourage growth given the prospects of the noninflationary environment promoted by this move
+2000-06-08;2000;June;REPORT;Positive;0.8018268346786499;it will promote growth rather than stifle it and i would also like to point out that the case of the united states proves that you can have a very high rate of growth with considerably higher interest rates than those prevailing in europe
+2000-06-08;2000;June;REPORT;Neutral;0.8830515146255493;question may i just go back to the tender
+2000-06-08;2000;June;REPORT;Neutral;0.9718261361122131;mr noyer you have pointed out that we are to get more details on the tender next week
+2000-06-08;2000;June;REPORT;Neutral;0.7217048406600952;could you go a little more into detail now
+2000-06-08;2000;June;REPORT;Neutral;0.9820727109909058;so say for example you get bids starting from 45 how would the allotment be effected
+2000-06-08;2000;June;REPORT;Neutral;0.9455634951591492;would you allot all the money down to 425 or are you intending to give quotas if there is a concentration of bids
+2000-06-08;2000;June;REPORT;Neutral;0.6912729144096375;could you detail that a little more
+2000-06-08;2000;June;REPORT;Neutral;0.9861543774604797;noyer trying to answer your request and at the same time keeping matters simple at this stage it will be in the form of an american auction ie
+2000-06-08;2000;June;REPORT;Neutral;0.9876447319984436;all the banks will get the liquidity at the price that they have requested down to what we call the marginal rate
+2000-06-08;2000;June;REPORT;Neutral;0.9850904941558838;that is the rate at which we stop providing liquidity or the last rate at which we will provide liquidity
+2000-06-08;2000;June;REPORT;Neutral;0.9879657626152039;all the requests made at higher levels of interest rates will be served 100
+2000-06-08;2000;June;REPORT;Neutral;0.9819583296775818;at the marginal rate the ecb may allot either 100 or less
+2000-06-08;2000;June;REPORT;Neutral;0.9204238057136536;that depends on the global amount we want to provide
+2000-06-08;2000;June;REPORT;Neutral;0.9026312232017517;and how will this amount of liquidity be decided
+2000-06-08;2000;June;REPORT;Neutral;0.9813521504402161;well more or less exactly as it was or is being done under the fixed rate tender system
+2000-06-08;2000;June;REPORT;Neutral;0.9798563718795776;we compute the level of liquidity we think the banking sector needs and then allocate according to these needs taking into account all the various factors not only the minimum reserves but all the factors that influence liquidity
+2000-06-08;2000;June;REPORT;Neutral;0.9775277972221375;for the purpose of giving some clarity to all market players it is our intention when we announce the tender to signal what we believe the liquidity needs to be
+2000-06-08;2000;June;REPORT;Neutral;0.8335723876953125;we will not say we will allocate x billion because this has to be finetuned until the last moment and we cannot  nobody can  know in advance exactly how much liquidity will be needed
+2000-06-08;2000;June;REPORT;Neutral;0.9538751840591431;our intention is to give some kind of forecast of the liquidity needs to the market so that it helps market participants to make their own computations of how they will make their proposals or requests in the tender procedure
+2000-06-08;2000;June;REPORT;Negative;0.5652878880500793;this has been much simplified but i hope it clarifies matters somewhat
+2000-06-08;2000;June;REPORT;Neutral;0.9543866515159607;if it does not i am sorry you will have to wait another week unless you ask me more precise questions that ill forget to answer
+2000-06-08;2000;June;REPORT;Neutral;0.6047658324241638;question mr president two questions for you
+2000-06-08;2000;June;REPORT;Negative;0.9252676367759705;one you said the current level of interest rates still promotes growth
+2000-06-08;2000;June;REPORT;Neutral;0.4961226284503937;would you say that the current monetary policy is still accommodative or have we reached a neutral stance
+2000-06-08;2000;June;REPORT;Neutral;0.9772376418113708;the second question is comparing todays moves with the last two interest rate hikes in february and march when you raised rates by 25 basis points whereas  today  you have raised them by 50 basis points something must have accelerated in the last six weeks
+2000-06-08;2000;June;REPORT;Neutral;0.8940675854682922;can you be a little bit more precise on what exactly triggered todays 50 basis point move
+2000-06-08;2000;June;REPORT;Neutral;0.5724000930786133;duisenberg
+2000-06-08;2000;June;REPORT;Neutral;0.8964322805404663;on the first question not knowing what the neutral rate is i cannot answer the question whether or not we are still accommodative
+2000-06-08;2000;June;REPORT;Neutral;0.7777895331382751;i think we are
+2000-06-08;2000;June;REPORT;Negative;0.6649667620658875;but even after this interest rate hike one thing is certain we are less accommodative than we were before
+2000-06-08;2000;June;REPORT;Neutral;0.724961519241333;on your second question well an assessment as i gave it to you of all recent indicators and comparing them with the assessment we had made towards the end of last year they increasingly point to significantly higher future inflation than we thought only four months ago
+2000-06-08;2000;June;REPORT;Negative;0.9905828237533569;and these are the monetary indicators the forecasts made by others the development of the exchange rates up until two weeks ago the development of oil prices  there has been some decline but an immediate rebound after that  all make us increasingly concerned that over the medium term inflation might  if we did not act decisively  exceed the 2 limit which we have set for ourselves
+2000-06-08;2000;June;REPORT;Negative;0.9637065529823303;we believe that with this move combined with the moves we have made since november last year we will avoid that danger
+2000-06-08;2000;June;REPORT;Neutral;0.8287793397903442;question translation mr president a further question
+2000-06-08;2000;June;REPORT;Neutral;0.8741104602813721;how long do you think you are going to need to raise the interest rates for them to bite
+2000-06-08;2000;June;REPORT;Neutral;0.9171708822250366;i mean there are american german dutch positions on that
+2000-06-08;2000;June;REPORT;Neutral;0.8750505447387695;this was the first question
+2000-06-08;2000;June;REPORT;Neutral;0.90944904088974;the second question is that the dollar is a yoyo
+2000-06-08;2000;June;REPORT;Neutral;0.9704388976097107;is the euro also a yoyo currency
+2000-06-08;2000;June;REPORT;Negative;0.5688273906707764;you said that you were not quite happy with the current exchange rate
+2000-06-08;2000;June;REPORT;Neutral;0.656725287437439;could you tell us exactly how unsatisfied you are
+2000-06-08;2000;June;REPORT;Neutral;0.9397509694099426;is it on a scale of 1 2 3
+2000-06-08;2000;June;REPORT;Negative;0.7071186900138855;duisenberg to answer the last question first i said the exchange rate in my opinion has  in the past in recent months  clearly overshot a level which could be regarded as being more in line with the fundamentals
+2000-06-08;2000;June;REPORT;Negative;0.6865190267562866;and the reversal which started about two weeks ago still leaves i believe some potential for further appreciation
+2000-06-08;2000;June;REPORT;Neutral;0.7956982254981995;to what level as i already said earlier i cannot say
+2000-06-08;2000;June;REPORT;Neutral;0.8896177411079407;the yoyo  no  the volatility is very high even in the course of a trading day
+2000-06-08;2000;June;REPORT;Neutral;0.9698758125305176;but a yoyo
+2000-06-08;2000;June;REPORT;Neutral;0.7754301428794861;i would not say that
+2000-06-08;2000;June;REPORT;Negative;0.9914010167121887;the euro has depreciated over the last 12 months at a steady almost continuous pace  there is nothing yoyo about that  and that trend now seems to have reversed
+2000-06-08;2000;June;REPORT;Neutral;0.9697985649108887;so if you call this a yoyo then at least it is a longterm yoyo
+2000-06-08;2000;June;REPORT;Neutral;0.9143662452697754;question translation i had asked whether the dollar being a yoyo currency means that the euro is one too
+2000-06-08;2000;June;REPORT;Neutral;0.9174558520317078;duisenberg i do not talk about currencies in terms of yoyos
+2000-06-08;2000;June;REPORT;Neutral;0.9022532105445862;question i have a question for each of you if i may
+2000-06-08;2000;June;REPORT;Neutral;0.9831485748291016;mr president was there anybody at todays meeting among the 17 members who thought that the rise would be possible by just going up by 025 basis points rather than a whole half percentage point
+2000-06-08;2000;June;REPORT;Neutral;0.9196321964263916;and for the vicepresident summing up the refinancing procedure that is starting at the end of this month could you say that it represents a decisive shift in favour of letting the market influence the interest rate more than the central bank
+2000-06-08;2000;June;REPORT;Negative;0.593052864074707;i was struck by what the president said to the effect that the ecb still wanted to have quite a bit influence over this
+2000-06-08;2000;June;REPORT;Neutral;0.8592631220817566;but on the face of it it looks like a move more toward the markets
+2000-06-08;2000;June;REPORT;Neutral;0.8690676093101501;duisenberg if i may answer the question first
+2000-06-08;2000;June;REPORT;Neutral;0.9727703332901001;when we started the discussion there was more than one who was inclined more to go for 25 than for 50 basis points
+2000-06-08;2000;June;REPORT;Neutral;0.966152012348175;but then you have a discussion which takes hours and you exchange all the arguments
+2000-06-08;2000;June;REPORT;Neutral;0.9872776865959167;and in the end as i said we reached a consensus that the measures would be what they are and as they have been decided
+2000-06-08;2000;June;REPORT;Neutral;0.9602130055427551;noyer on the second question i would not say that it is in any way a step towards giving the markets more influence on the decisions or monetary policy or actions  whatever you call it  of the central bank
+2000-06-08;2000;June;REPORT;Neutral;0.9883771538734436;i think you should consider what will be the average rate in the tenders or even the marginal rate as absolutely comparable to the market rates
+2000-06-08;2000;June;REPORT;Neutral;0.9902369379997253;so whatever difference there might be between the average rate of a tender the marginal rate and the minimum rate it should be considered in exactly the same way as you would consider the difference between overnight or oneweektwoweek rates as compared with the fixed tender rate
+2000-06-08;2000;June;REPORT;Neutral;0.9892536997795105;so really this is why i said the minimum rate has the same signalling effect as the fixed rate had in the fixed tender procedure
+2000-06-08;2000;June;REPORT;Neutral;0.9028477072715759;but of course there are technical differences
+2000-06-08;2000;June;REPORT;Neutral;0.8658233284950256;we are not tightening or keeping the market at a certain given rate through constant interventions in the money markets
+2000-06-08;2000;June;REPORT;Neutral;0.971549928188324;we will let the market play its role
+2000-06-08;2000;June;REPORT;Positive;0.6767997741699219;and what the market does is actually interesting
+2000-06-08;2000;June;REPORT;Neutral;0.9817461967468262;it provides us with information that is part a small part of our global assessment of what is going on and how market players themselves analyse the same sort of economic indicators we are looking at
+2000-06-08;2000;June;REPORT;Neutral;0.7602881789207458;question mr president i would like to take you up on the question of oil prices
+2000-06-08;2000;June;REPORT;Negative;0.9539909958839417;first of all how do you see oil prices evolving and do you feel that the reversal in oil prices is something that will continue and is a worrying trend
+2000-06-08;2000;June;REPORT;Negative;0.7570472955703735;you have obviously highlighted your concerns about inflation today that is quite clear
+2000-06-08;2000;June;REPORT;Neutral;0.9311822056770325;do you see that there is a longerterm average price for a barrel of crude that is acceptable in your eyes
+2000-06-08;2000;June;REPORT;Neutral;0.8181976079940796;and third how do you see this evolving into price anticipation of consumers given many of the commercial interests which mean that falling prices tend not to be passed on to the consumers as quickly as rising prices
+2000-06-08;2000;June;REPORT;Neutral;0.9772307276725769;duisenberg when we look at the oil prices we of course also look at futures
+2000-06-08;2000;June;REPORT;Neutral;0.938408613204956;and the futures indicate that the oil price may at some point fall but they have already done that for a long time
+2000-06-08;2000;June;REPORT;Negative;0.7310892343521118;the oil price is not falling and has not fallen
+2000-06-08;2000;June;REPORT;Neutral;0.9691325426101685;so we try to assess to the best of our knowledge what is not always an accurate guide
+2000-06-08;2000;June;REPORT;Neutral;0.9592851400375366;and i have actually asked the same question you have just asked me i asked my colleague from saudi arabia that question last weekend and i got an answer which was as vague as that which i am giving you
+2000-06-08;2000;June;REPORT;Neutral;0.8554637432098389;will it work its way through
+2000-06-08;2000;June;REPORT;Negative;0.5746538043022156;will it push consumer prices up or down
+2000-06-08;2000;June;REPORT;Neutral;0.9582250714302063;i think the evidence indicates yes with a lag but in both directions
+2000-06-08;2000;June;REPORT;Neutral;0.8332580327987671;when oil prices come down you will  after a while  also see petrol prices coming down for the consumer and you even saw that happening by a few cents this week and when they go up you see with a lag  which may be several months on average  that these prices work their way through to the consumer price level as well
+2000-06-08;2000;June;REPORT;Neutral;0.8855758309364319;whether there is an optimum price  as was asked  i would not know
+2000-06-08;2000;June;REPORT;Neutral;0.9604516625404358;there probably is but not for the central bank
+2000-06-08;2000;June;REPORT;Neutral;0.9659894704818726;question mr noyer am i right in assuming that with a minimum bid rate you signal the market that the rates should go up and with a maximum bid rate you would signal the market that the rates should go down
+2000-06-08;2000;June;REPORT;Negative;0.6462434530258179;noyer i think that very theoretically maximum bid rates can only work in a situation where there are strong expectations that the central bank might wish to cut rates
+2000-06-08;2000;June;REPORT;Neutral;0.9544159770011902;in that way yes
+2000-06-08;2000;June;REPORT;Neutral;0.9838613867759705;but in a normal stance where there is no great anticipation in one or the other direction  for very technical reasons but you may already have seen that with the fixed rate tender  money market rates are normally on average  that does not mean every day  a few basis points above the rate at which the central bank provides liquidity
+2000-06-08;2000;June;REPORT;Neutral;0.6870533227920532;for that reason the system can normally work much better with a minimum rate than with a maximum rate
+2000-06-08;2000;June;REPORT;Neutral;0.9729253649711609;so it is just that the signalling effect  even if theoretically it could be provided by both systems  works well only with a minimum rate system
+2000-06-08;2000;June;REPORT;Neutral;0.686528205871582;question mr president two months ago here at that point you said that inflation would come back to below 2
+2000-06-08;2000;June;REPORT;Neutral;0.8813726902008057;now your projection is around 2 inflation for 2000 and 2001 what has changed since that time
+2000-06-08;2000;June;REPORT;Neutral;0.6378399729728699;is the reason for your higher projection the oil price
+2000-06-08;2000;June;REPORT;Negative;0.9514062404632568;is inflation pressure coming from imported inflation
+2000-06-08;2000;June;REPORT;Neutral;0.9406981468200684;is it coming from rate inflation
+2000-06-08;2000;June;REPORT;Neutral;0.5075626969337463;or what has changed
+2000-06-08;2000;June;REPORT;Neutral;0.9392791390419006;duisenberg to answer the last question first i think you have to distinguish between two things
+2000-06-08;2000;June;REPORT;Neutral;0.9787107110023499;what i said two months ago was a statement about the monthtomonth path of inflation which was to be expected for the near future
+2000-06-08;2000;June;REPORT;Neutral;0.9610903263092041;and already then even earlier i gave an indication that it should not be excluded  as we saw the path developing  that temporarily it would even exceed 2 in the actual figures
+2000-06-08;2000;June;REPORT;Negative;0.4990013539791107;and i forecast that that would be only temporary that it would come down
+2000-06-08;2000;June;REPORT;Neutral;0.9166468977928162;so far i have been proven right by the facts  the april figure being under 2 again although the march figure was 21
+2000-06-08;2000;June;REPORT;Neutral;0.9868482947349548;in a mediumterm outlook  i am now talking about the average inflation figures for the full years 2000 and 2001  the average inflation figure is now expected to be very close to 2
+2000-06-08;2000;June;REPORT;Neutral;0.9567450881004333;perhaps on the basis of some forecasts it could even go over that average figure
+2000-06-08;2000;June;REPORT;Neutral;0.8319700956344604;and why is that so
+2000-06-08;2000;June;REPORT;Neutral;0.7928831577301025;that is because of the many factors i have mentioned
+2000-06-08;2000;June;REPORT;Positive;0.8767585754394531;and the main one is that the higher than expected import prices as a result of higher than expected oil prices other raw material prices and the prolonged depressed state of the exchange rate will work their way through more than could be anticipated two or four months ago
+2000-06-08;2000;June;REPORT;Neutral;0.6684680581092834;and it is to counter that development that we have taken measures today to prevent the forecasts for 2000 and 2001 from becoming true
+2000-06-08;2000;June;REPORT;Neutral;0.7467805743217468;question translation two questions
+2000-06-08;2000;June;REPORT;Neutral;0.8652434349060059;is my impression right that the first pillar of your strategy is gaining more and more in importance because it is reliable
+2000-06-08;2000;June;REPORT;Neutral;0.9419215321540833;second question the reference level of 4 12
+2000-06-08;2000;June;REPORT;Neutral;0.9731907248497009;you have a trend rate of growth of 2 12 as being calculated into that
+2000-06-08;2000;June;REPORT;Neutral;0.9121491312980652;now does that mean that over 3 economic growth at the moment is the reason why inflation could be above 2
+2000-06-08;2000;June;REPORT;Neutral;0.5710617899894714;or are you expecting a higher potential rate of growth
+2000-06-08;2000;June;REPORT;Neutral;0.9839773774147034;duisenberg there is no change in weighting since we have never weighted the first and the second pillars
+2000-06-08;2000;June;REPORT;Neutral;0.9880126714706421;and if we could give you a ratio a mathematical ratio between the weight of the first and that of the second pillar then we would also be in a position mathematically to reduce the two pillars to one
+2000-06-08;2000;June;REPORT;Neutral;0.9560051560401917;it is as simple as that
+2000-06-08;2000;June;REPORT;Neutral;0.9713929891586304;so there is no change in the weighting  which is a qualitative assessment
+2000-06-08;2000;June;REPORT;Positive;0.9893463253974915;the strong growth we foresee goes along also with what we are observing  a rather strong increase in productivity
+2000-06-08;2000;June;REPORT;Neutral;0.8349511623382568;and whether that will lead to a higher potential growth rate is something we do not know yet
+2000-06-08;2000;June;REPORT;Neutral;0.9909189939498901;the reference value of 4 12 was indeed based as you say on an estimate of the trend rate of growth or the potential rate of growth of output of about 2 14 which is the trend rate observed over the past 25 years
+2000-06-08;2000;June;REPORT;Neutral;0.9866586327552795;it is a reference value only something to use for comparison from which conclusions can be drawn
+2000-06-08;2000;June;REPORT;Neutral;0.9846066236495972;it will be reviewed every year
+2000-06-08;2000;June;REPORT;Neutral;0.9137428402900696;and then we have to come to a judgement on whether or not that 2 12 hypothesis can still be regarded as valid
+2000-06-08;2000;June;REPORT;Neutral;0.9633244276046753;but we will only do that in december this year
+2000-06-08;2000;June;REPORT;Neutral;0.9477076530456543;question mr duisenberg in may you said you will only talk about interventions when you do so
+2000-06-08;2000;June;REPORT;Neutral;0.9521583318710327;so did you do so today or in the last four weeks
+2000-06-08;2000;June;REPORT;Neutral;0.9436885714530945;the second question is about the horizon is the horizon cleared up to september given that you have cancelled the press conference in august
+2000-06-08;2000;June;REPORT;Neutral;0.8082547783851624;duisenberg in answer to the first question i did not talk about intervention today
+2000-06-08;2000;June;REPORT;Neutral;0.919407308101654;so you may conclude that we did not intervene
+2000-06-08;2000;June;REPORT;Neutral;0.949457585811615;and i said that i would only talk about interventions ex post ie
+2000-06-08;2000;June;REPORT;Neutral;0.9641457796096802;after we have intervened and then immediately thereafter
+2000-06-08;2000;June;REPORT;Neutral;0.7854469418525696;so no discussions about interventions
+2000-06-08;2000;June;REPORT;Neutral;0.735842764377594;and the fact that we cancelled the press conference on 3 august has nothing to do with our decisions today
+2000-06-08;2000;June;REPORT;Neutral;0.9851639270782471;it has everything to do  i shall be honest enough to say  with the fact that it is an awkward date to have a meeting
+2000-06-08;2000;June;REPORT;Neutral;0.9831216931343079;because in many countries the summer holidays will already have started and we are doing our utmost to arrange the agenda for that meeting in such a way that we can hold it by way of a teleconference
+2000-06-08;2000;June;REPORT;Neutral;0.9001098275184631;but if we have a teleconference we cannot have a press conference
+2000-06-08;2000;June;REPORT;Neutral;0.9545994997024536;that basically is the followup
+2000-06-08;2000;June;REPORT;Neutral;0.9842023849487305;contact european central bank directorate general communications sonnemannstrasse 20 60314 frankfurt am main germany 49 69 1344 7455 mediaecbeuropaeu reproduction is permitted provided that the source is acknowledged
+2000-06-08;2000;June;REPORT;Neutral;0.8690058588981628;media contacts

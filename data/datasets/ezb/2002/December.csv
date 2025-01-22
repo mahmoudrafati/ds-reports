@@ -1,0 +1,65 @@
+Date;Year;Month;Type;sentiment;sentiment_score;sentence
+2002-12-05;2002;December;REPORT;Neutral;0.940592885017395;introductory statement willem f duisenberg president of the european central bank lucas papademos vicepresident of the european central bank frankfurt 5 december 2002 with a transcript of the questions and answers ladies and gentlemen the vicepresident and i will now report on the outcome of todays meeting of the governing council of the ecb
+2002-12-05;2002;December;REPORT;Neutral;0.9893385171890259;we continued our indepth assessment of monetary financial and economic developments and the discussions we had in early november on the appropriate stance of monetary policy taking account of the new information
+2002-12-05;2002;December;REPORT;Positive;0.987957775592804;overall since our last meeting the arguments in favour of a cut in the key ecb interest rates have strengthened
+2002-12-05;2002;December;REPORT;Negative;0.9953849911689758;the evidence that inflationary pressures are easing has increased owing in particular to the sluggish economic expansion
+2002-12-05;2002;December;REPORT;Negative;0.9913275837898254;furthermore downside risks to economic growth have not vanished
+2002-12-05;2002;December;REPORT;Neutral;0.9683091044425964;as a result the governing council has decided to lower the key ecb interest rates by 50 basis points
+2002-12-05;2002;December;REPORT;Neutral;0.983586847782135;at todays meeting we also reviewed the reference value for monetary growth which has an important role under the first pillar of the ecbs monetary policy strategy
+2002-12-05;2002;December;REPORT;Neutral;0.9874957799911499;the governing council has decided to leave the current value unchanged at an annual growth rate of 4ï½ for the broad aggregate m3
+2002-12-05;2002;December;REPORT;Negative;0.5088828802108765;this decision was taken on the grounds that the evidence continues to support the assumptions which have formed the basis of the derivation of the reference value since 1999 namely those relating to trend potential output growth of 22ï½ per annum and to a trend decline in m3 income velocity of ï½1 per annum in the euro area
+2002-12-05;2002;December;REPORT;Neutral;0.9715761542320251;we will issue a separate press release this afternoon explaining in greater detail the background to this decision
+2002-12-05;2002;December;REPORT;Neutral;0.9772088527679443;when comparing current developments with the reference value it is important to remember that the reference value is a mediumterm concept
+2002-12-05;2002;December;REPORT;Neutral;0.9822033643722534;shortterm movements of m3 do not necessarily have implications for future price developments
+2002-12-05;2002;December;REPORT;Neutral;0.9879267811775208;moreover deviations of m3 from the reference value must be analysed in conjunction with other real and financial indicators in order to understand their implications for price stability
+2002-12-05;2002;December;REPORT;Neutral;0.9871917963027954;turning to the most recent data in the period from august to october 2002 the threemonth average of the annual growth rate of m3 was 71 unchanged from the previous threemonth average
+2002-12-05;2002;December;REPORT;Negative;0.9035763144493103;m3 growth has been influenced considerably by portfolio reallocations in an environment of general uncertainty and particularly by stress in financial markets
+2002-12-05;2002;December;REPORT;Negative;0.490391343832016;at the same time it also reflects the low level of interest rates in the euro area which makes the holding of liquid assets relatively attractive
+2002-12-05;2002;December;REPORT;Positive;0.907659649848938;there is ample liquidity in the euro area
+2002-12-05;2002;December;REPORT;Negative;0.9913526177406311;however in the light of the sluggish economic growth it is unlikely that this excess liquidity will translate into inflationary pressures in the near future
+2002-12-05;2002;December;REPORT;Negative;0.8393594622612;the recent moderation of the growth in loans to the private sector particularly to nonfinancial corporations supports this assessment
+2002-12-05;2002;December;REPORT;Positive;0.9620482921600342;turning to the second pillar recent information has strengthened the evidence of a decline in inflationary pressure
+2002-12-05;2002;December;REPORT;Negative;0.9929793477058411;the sluggishness of real gdp growth in the euro area was confirmed yesterday by eurostats first estimate which indicates that quarteronquarter growth was 03 in the third quarter
+2002-12-05;2002;December;REPORT;Neutral;0.5397606492042542;this was towards the lower end of expectations
+2002-12-05;2002;December;REPORT;Negative;0.9896768927574158;recent euro areawide survey data suggest that overall sentiment in the economy remains lacklustre with business confidence improving somewhat but consumer confidence falling further
+2002-12-05;2002;December;REPORT;Negative;0.9929922819137573;it is expected therefore that economic growth will also remain subdued in the coming months
+2002-12-05;2002;December;REPORT;Negative;0.9941837191581726;this disappointing picture mainly reflects the persistently high degree of uncertainty
+2002-12-05;2002;December;REPORT;Negative;0.993341863155365;geopolitical tensions with potential consequences for oil prices developments in financial markets the sluggish growth of the world economy and the persistence of global imbalances are all factors that weigh adversely on confidence
+2002-12-05;2002;December;REPORT;Negative;0.991672694683075;these factors also have negative effects on euro area consumption investment and the labour markets
+2002-12-05;2002;December;REPORT;Neutral;0.9515724778175354;as it is hard to predict when this uncertainty will start to abate it must be taken into account in the more mediumterm outlook for growth
+2002-12-05;2002;December;REPORT;Negative;0.8996457457542419;the subdued economic activity should limit potential upward risks to price stability and help to ease inflationary pressure
+2002-12-05;2002;December;REPORT;Neutral;0.7976797223091125;let me elaborate on this
+2002-12-05;2002;December;REPORT;Negative;0.9699310660362244;first when looking back we recognise that inflation has been rather persistent despite the economic slowdown
+2002-12-05;2002;December;REPORT;Neutral;0.9566282629966736;this persistence has partly reflected a series of transitory developments such as the indirect effect of previous oil and food price increases and a limited changeover effect
+2002-12-05;2002;December;REPORT;Neutral;0.946731686592102;however structural factors in the labour and product markets have also played a role as mirrored in particular in the upward trend in wage developments observed until recently
+2002-12-05;2002;December;REPORT;Negative;0.7100841403007507;this trend has only just shown signs of stabilisation
+2002-12-05;2002;December;REPORT;Negative;0.9944264888763428;services price inflation has also remained stubbornly high
+2002-12-05;2002;December;REPORT;Negative;0.8888044953346252;indeed structural rigidities have impeded an appropriate adjustment of wages and prices
+2002-12-05;2002;December;REPORT;Neutral;0.9866761565208435;as a result annual inflation rates have remained above 2 during most of 2002 including november as has been confirmed by eurostats flash estimate which indicates an annual hicp inflation rate of 22
+2002-12-05;2002;December;REPORT;Neutral;0.4840052127838135;second when looking forward from now until the early part of 2003 although recent developments in oil prices have lowered shortterm price pressures there are still some factors that could keep annual inflation rates above 2 for several months to come
+2002-12-05;2002;December;REPORT;Neutral;0.9841258525848389;yet this shortterm outlook is related both to base effects and to indirect taxes and administered prices ie
+2002-12-05;2002;December;REPORT;Neutral;0.8660216927528381;to temporary developments
+2002-12-05;2002;December;REPORT;Positive;0.9476160407066345;third when looking beyond the short term we consider that both the overall economic environment and the euro exchange rate which has strengthened since early this year will contribute further towards reducing inflationary pressure
+2002-12-05;2002;December;REPORT;Neutral;0.565683126449585;moreover we expect the indirect effects of previous increases in oil prices and other factors to further unwind
+2002-12-05;2002;December;REPORT;Negative;0.9477739334106445;although wagerelated risks remain in place they are judged less likely to materialise as long as the economic environment does not change substantially
+2002-12-05;2002;December;REPORT;Positive;0.7496210932731628;the assessment which guided todays monetary policy decision was that overall the prospect has strengthened for inflation to fall below 2 in the course of 2003 and to remain in line with price stability thereafter
+2002-12-05;2002;December;REPORT;Positive;0.9810359477996826;our decision should also help to improve the outlook for the euro area economy by providing a counterweight to some of the existing downside risks to economic growth thereby supporting confidence
+2002-12-05;2002;December;REPORT;Negative;0.5147576928138733;the most likely scenario is that economic growth will gradually recover in the course of 2003 towards rates more in line with potential
+2002-12-05;2002;December;REPORT;Positive;0.9883028864860535;falling inflation should support real disposable income and together with a reduction in the gap between perceived and actual inflation rates should underpin private consumption
+2002-12-05;2002;December;REPORT;Positive;0.9924263954162598;moreover we expect an improvement in world demand
+2002-12-05;2002;December;REPORT;Positive;0.9731382131576538;this and the low level of interest rates should benefit investment
+2002-12-05;2002;December;REPORT;Negative;0.9675242900848389;let me point out that with todays decision the key ecb interest rates have reached a very low level by historical standards
+2002-12-05;2002;December;REPORT;Neutral;0.9922539591789246;the governing council will continue to monitor closely all factors that may affect the prospects for inflation in the euro area
+2002-12-05;2002;December;REPORT;Neutral;0.876583993434906;the outlook for the euro area economy will also very much depend on visible progress in other policy areas
+2002-12-05;2002;December;REPORT;Positive;0.9891833066940308;regarding fiscal policies in the euro area i would like to reiterate that budgetary discipline strengthens the conditions for sustainable growth of gdp and employment
+2002-12-05;2002;December;REPORT;Neutral;0.5551022887229919;therefore sound fiscal positions as enshrined in the treaty and further developed in the stability and growth pact are in the interest of all the member states
+2002-12-05;2002;December;REPORT;Negative;0.54499751329422;given the disappointing fiscal developments in some countries and the challenges which have emerged to the eu fiscal framework we welcome the moves to correct or prevent excessive deficits ie
+2002-12-05;2002;December;REPORT;Neutral;0.5880739688873291;the implementation of excessive deficit procedures in the case of germany and portugal and the early warning issued to france
+2002-12-05;2002;December;REPORT;Neutral;0.9867836236953735;countries with remaining imbalances are urged to prepare sufficiently ambitious consolidation plans for their forthcoming stability programmes
+2002-12-05;2002;December;REPORT;Positive;0.9658411145210266;emphasis should be placed on a growthoriented consolidation policy that strengthens the productive forces of the economy
+2002-12-05;2002;December;REPORT;Positive;0.987065315246582;the governing council considers the recent commission communication to be a good starting point for rebuilding confidence in the budgetary framework
+2002-12-05;2002;December;REPORT;Positive;0.8145500421524048;as already reflected in the statement on the stability and growth pact of 24 october 2002 we fully support the commissions main objective namely to improve the implementation of the pact within the existing framework of rules
+2002-12-05;2002;December;REPORT;Negative;0.9037138223648071;finally i should like to stress again that there is still an urgent need to implement decisively the structural reform agenda
+2002-12-05;2002;December;REPORT;Negative;0.9653843641281128;we note with some concern the slow progress in many euro area countries and call on governments to take determined action
+2002-12-05;2002;December;REPORT;Neutral;0.7829126119613647;the mediumterm impact of these reforms on the economic growth potential of the euro area is likely to be substantial
+2002-12-05;2002;December;REPORT;Positive;0.9905325174331665;a prompt implementation of structural reforms in the labour product and financial markets is particularly important at this juncture since it would contribute to strengthening confidence in the euro area thereby also supporting economic activity in the short term

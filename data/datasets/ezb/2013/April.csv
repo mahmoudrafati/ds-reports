@@ -1,0 +1,48 @@
+Date;Year;Month;Type;sentiment;sentiment_score;sentence
+2013-04-04;2013;April;REPORT;Positive;0.48906031250953674;introductory statement to the press conference with qa mario draghi president of the ecbvítor constâncio vicepresident of the ecbfrankfurt am main 4 april 2013 jump to the transcript of the questions and answers ladies and gentlemen the vicepresident and i are very pleased to welcome you to our press conference
+2013-04-04;2013;April;REPORT;Neutral;0.9750279188156128;we will now report on the outcome of todays meeting of the governing council
+2013-04-04;2013;April;REPORT;Neutral;0.9895159006118774;based on our regular economic and monetary analyses we decided to keep the key ecb interest rates unchanged
+2013-04-04;2013;April;REPORT;Negative;0.8514868021011353;hicp inflation rates have declined further as anticipated and price developments over the medium term should remain contained
+2013-04-04;2013;April;REPORT;Negative;0.9942466616630554;monetary and loan dynamics remain subdued
+2013-04-04;2013;April;REPORT;Neutral;0.9817966222763062;inflation expectations for the euro area continue to be firmly anchored in line with our aim of maintaining inflation rates below but close to 2 over the medium term
+2013-04-04;2013;April;REPORT;Negative;0.9874020218849182;at the same time weak economic activity has extended into the early part of the year and a gradual recovery is projected for the second half of this year subject to downside risks
+2013-04-04;2013;April;REPORT;Neutral;0.9541236162185669;against this overall background our monetary policy stance will remain accommodative for as long as needed
+2013-04-04;2013;April;REPORT;Neutral;0.9853309392929077;in the coming weeks we will monitor very closely all incoming information on economic and monetary developments and assess any impact on the outlook for price stability
+2013-04-04;2013;April;REPORT;Neutral;0.8301125168800354;it is essential for governments to intensify the implementation of structural reforms at national level and to strengthen euro area governance including the implementation of the banking union
+2013-04-04;2013;April;REPORT;Positive;0.5155889391899109;they should also build on progress made in fiscal consolidation and proceed with financial sector restructuring
+2013-04-04;2013;April;REPORT;Neutral;0.936901867389679;we are also closely monitoring money market conditions and their potential impact on our monetary policy stance and its transmission to the economy
+2013-04-04;2013;April;REPORT;Neutral;0.988183319568634;as said on previous occasions we will continue with fixed rate tender procedures with full allotment for as long as necessary
+2013-04-04;2013;April;REPORT;Neutral;0.935492992401123;let me now explain our assessment in greater detail starting with the economic analysis
+2013-04-04;2013;April;REPORT;Negative;0.991797685623169;the outcome for real gdp in the fourth quarter of 2012 was weak with eurostats second estimate indicating a contraction of 06 quarter on quarter
+2013-04-04;2013;April;REPORT;Negative;0.9937240481376648;the decline was largely due to a fall in domestic demand but also reflected a drop in exports
+2013-04-04;2013;April;REPORT;Negative;0.9856547713279724;recent data and indicators confirm that the economic weakness extended into the early part of the year
+2013-04-04;2013;April;REPORT;Positive;0.9923869371414185;looking forward euro area export growth should benefit from a recovery in global demand and our monetary policy stance should contribute to support domestic demand
+2013-04-04;2013;April;REPORT;Positive;0.9775249361991882;furthermore the improvements in financial markets seen since last summer should work their way through to the real economy notwithstanding recent uncertainties
+2013-04-04;2013;April;REPORT;Positive;0.991302490234375;together this should help stabilise euro area economic activity and lead to a gradual recovery in the second part of the year
+2013-04-04;2013;April;REPORT;Negative;0.9923830628395081;at the same time necessary balance sheet adjustments in the public and private sectors and the associated tight credit conditions will continue to weigh on economic activity
+2013-04-04;2013;April;REPORT;Negative;0.9849646687507629;this economic outlook for the euro area remains subject to downside risks
+2013-04-04;2013;April;REPORT;Negative;0.9789404273033142;the risks include the possibility of even weaker than expected domestic demand and slow or insufficient implementation of structural reforms in the euro area
+2013-04-04;2013;April;REPORT;Negative;0.9905828237533569;these factors have the potential to dampen the improvement in confidence and thereby delay the recovery
+2013-04-04;2013;April;REPORT;Neutral;0.8348672389984131;according to eurostats flash estimate euro area annual hicp inflation was 17 in march 2013 down from 18 in february
+2013-04-04;2013;April;REPORT;Negative;0.9285042881965637;the ongoing decline in annual inflation rates mainly reflects the energy component of the price index
+2013-04-04;2013;April;REPORT;Negative;0.9934704303741455;looking ahead price developments over the medium term should remain contained in an environment of weak economic activity in the euro area
+2013-04-04;2013;April;REPORT;Neutral;0.8808137774467468;inflation expectations are firmly anchored and in line with price stability over the medium to long term
+2013-04-04;2013;April;REPORT;Negative;0.9059563875198364;risks to the outlook for price developments continue to be broadly balanced over the medium term with upside risks relating to stronger than expected increases in administered prices and indirect taxes as well as higher oil prices and downside risks stemming from weaker economic activity
+2013-04-04;2013;April;REPORT;Negative;0.9915593266487122;turning to the monetary analysis the underlying pace of monetary expansion continues to be subdued
+2013-04-04;2013;April;REPORT;Neutral;0.9433199763298035;the annual growth rate of m3 moderated to 31 in february down from 35 in january
+2013-04-04;2013;April;REPORT;Neutral;0.9692313075065613;the annual growth rate of the narrow monetary aggregate m1 increased to 70 in february from 66 in january
+2013-04-04;2013;April;REPORT;Positive;0.9832446575164795;at the same time mfi deposits in a number of stressed countries strengthened further in february
+2013-04-04;2013;April;REPORT;Neutral;0.9857267737388611;the annual growth rate of loans adjusted for loan sales and securitisation to nonfinancial corporations and households remained broadly unchanged in february at 14 and 04 respectively
+2013-04-04;2013;April;REPORT;Neutral;0.7913663983345032;to a large extent subdued loan dynamics reflect the current stage of the business cycle heightened credit risk and the ongoing adjustment of financial and nonfinancial sector balance sheets
+2013-04-04;2013;April;REPORT;Negative;0.9747620224952698;at the same time available information on nonfinancial corporates access to financing indicates tight credit conditions particularly for small and mediumsized enterprises in several euro area countries
+2013-04-04;2013;April;REPORT;Positive;0.5102086663246155;in order to ensure adequate transmission of monetary policy to the financing conditions in euro area countries it is essential that the fragmentation of euro area credit markets is reduced further and the resilience of banks strengthened where needed
+2013-04-04;2013;April;REPORT;Positive;0.8887677788734436;however considerable progress has been made since last summer in improving the funding situation of banks in strengthening the domestic deposit base in stressed countries and in reducing reliance on the eurosystem as reflected in repayments of the threeyear ltros
+2013-04-04;2013;April;REPORT;Positive;0.834953248500824;further decisive steps for establishing a banking union will help to accomplish this objective
+2013-04-04;2013;April;REPORT;Neutral;0.759411633014679;in particular in the light of recent experience we must emphasise that the future single supervisory mechanism and a single resolution mechanism are crucial elements for moving towards reintegrating the banking system and therefore require swift implementation
+2013-04-04;2013;April;REPORT;Neutral;0.86411052942276;to sum up taking into account todays decision the economic analysis indicates that price developments should remain in line with price stability over the medium term
+2013-04-04;2013;April;REPORT;Neutral;0.6049624085426331;a crosscheck with the signals from the monetary analysis confirms this picture
+2013-04-04;2013;April;REPORT;Positive;0.9884213209152222;as regards fiscal policies euro area countries should build on their efforts to reduce government budget deficits and continue to implement structural reforms thereby mutually reinforcing fiscal sustainability and economic growth
+2013-04-04;2013;April;REPORT;Neutral;0.8980802893638611;fiscal policy strategies need to be complemented by growthenhancing structural reforms
+2013-04-04;2013;April;REPORT;Neutral;0.7402126789093018;such reforms should be ambitious and broadranging encompassing product markets including network industries labour markets and the modernisation of public administration
+2013-04-04;2013;April;REPORT;Positive;0.852992832660675;to support employment wagesetting should become more flexible and better aligned with productivity
+2013-04-04;2013;April;REPORT;Positive;0.9880343079566956;these reforms will help countries in their efforts to regain competitiveness set the foundations for sustainable growth and support the return of macroeconomic confidence

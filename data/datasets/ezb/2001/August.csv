@@ -1,0 +1,96 @@
+Date;Year;Month;Type;sentiment;sentiment_score;sentence
+2001-08-30;2001;August;REPORT;Neutral;0.944744348526001;introductory statement willem f duisenberg president of the european central bank christian noyer vicepresident of the european central bank frankfurt am main 30 august 2001 with a transcript of the questions and answers ladies and gentlemen i am here to report on the outcome of todays meeting of the governing council of the ecb which was also attended by mr reynders president of the eu council and mr solbes from the european commission
+2001-08-30;2001;August;REPORT;Neutral;0.985283613204956;following its regular examination of monetary and economic developments and analysis of their implications for the maintenance of price stability in the euro area the governing council decided to lower the key ecb interest rates by 25 basis points
+2001-08-30;2001;August;REPORT;Neutral;0.9294115304946899;the governing council considers that the available evidence points to an improvement in the outlook for price developments
+2001-08-30;2001;August;REPORT;Negative;0.9759126901626587;this is particularly apparent from the information under the second pillar of the ecbs monetary policy strategy while that related to the first pillar remains consistent with a favourable outlook for price stability in the medium term
+2001-08-30;2001;August;REPORT;Neutral;0.9861745834350586;let me elaborate somewhat on the assessment provided under the two pillars of the monetary policy strategy of the ecb
+2001-08-30;2001;August;REPORT;Neutral;0.9837446212768555;with regard to the first pillar the threemonth average of the annual growth rates of m3 was 59 in the period from may to july 2001 however this figure needs to be corrected for holdings of money market paper and shortterm debt securities by nonresidents of the euro area which according to preliminary estimates have contributed around threequarters of a percentage point to annual m3 growth
+2001-08-30;2001;August;REPORT;Neutral;0.9855538010597229;the increase in the rate of growth of m3 over the past few months must be interpreted carefully
+2001-08-30;2001;August;REPORT;Neutral;0.7788697481155396;it reflects the relatively flat yield curve and the recent weakness in stock markets both of which made the holding of shortterm deposits and marketable paper included in m3 attractive
+2001-08-30;2001;August;REPORT;Neutral;0.9368007779121399;as it also reflects the fact that consumers needed a higher level of transaction balances to finance the past rise in energy and food prices recent increases in m3 growth may be transitory and hence do not necessarily have implications for price stability in the medium term
+2001-08-30;2001;August;REPORT;Neutral;0.6317837834358215;in addition the annual rate of growth of loans to the private sector although still high has continued to decline over recent months
+2001-08-30;2001;August;REPORT;Negative;0.9637095928192139;regarding the second pillar there are clear signals of lower inflationary pressures from the demand side
+2001-08-30;2001;August;REPORT;Negative;0.9948340654373169;recent data on economic activity indicate that real gdp growth in 2001 will most likely be lower than was expected a few months ago
+2001-08-30;2001;August;REPORT;Negative;0.994797945022583;this is due in part to external demand which has remained weak and below expectations owing to slow growth in economic activity in the united states and persistent economic weakness in japan which have spilled over to other regions of the world
+2001-08-30;2001;August;REPORT;Negative;0.9953278303146362;in addition consumption growth in the euro area has been dampened by losses in real disposable income related to past increases in consumer prices
+2001-08-30;2001;August;REPORT;Negative;0.9883694648742676;all these factors also had a negative impact on investment
+2001-08-30;2001;August;REPORT;Positive;0.9912464022636414;this notwithstanding over time the expected decline in consumer price inflation to which the strengthening of the exchange rate has contributed should support the growth of domestic demand
+2001-08-30;2001;August;REPORT;Positive;0.9908464550971985;further positive effects on euro area economic growth should stem from the full impact of tax reductions in several euro area countries and from the fact that financing conditions in the euro area are favourable
+2001-08-30;2001;August;REPORT;Negative;0.9921703934669495;a concern with regard to the outlook for price stability in the coming years has been the possible emergence of secondround effects via wages of past increases in consumer price inflation
+2001-08-30;2001;August;REPORT;Negative;0.681403636932373;the information available shows that wage moderation prevailed in the first quarter of 2001 it is essential that this trend continues and at the current juncture two factors support the view that this should indeed be the case
+2001-08-30;2001;August;REPORT;Negative;0.9912450909614563;first the slowdown in economic activity which i just mentioned may contribute to containing inflationary pressure stemming from the labour market
+2001-08-30;2001;August;REPORT;Positive;0.9851754307746887;second there are encouraging signs such as those coming from data on consumer and producer prices which confirm that the increase in consumer price inflation was temporary and that in the absence of further unfavourable shocks it is likely that price stability will be restored in the not too distant future
+2001-08-30;2001;August;REPORT;Positive;0.9477752447128296;the downward movement in import prices which has gradually been taking place over the past few months should support this process
+2001-08-30;2001;August;REPORT;Neutral;0.9669162034988403;the falling trend in consumer price inflation will contribute to containing inflation expectations of economic agents thereby influencing price and wagesetting behaviour
+2001-08-30;2001;August;REPORT;Positive;0.7049672603607178;this view is confirmed by bond yields which indicate that financial markets expect inflation developments to be well in line with price stability in the medium term
+2001-08-30;2001;August;REPORT;Positive;0.957321047782898;overall as several indicators are pointing to an abatement of inflationary pressures the new level of interest rates is compatible with the maintenance of price stability over the medium term which in turn is essential to create a favourable environment for sustainable economic growth
+2001-08-30;2001;August;REPORT;Negative;0.9905182719230652;at this juncture i should like to express concern about the impact that slower growth may have on the determination of the governments of some countries to adhere strictly to the stability and growth pact in the context of their existing stability programmes
+2001-08-30;2001;August;REPORT;Neutral;0.9859098196029663;under the present circumstances the automatic stabilisers should only be allowed to work fully in those countries whose budget positions are close to balance or in surplus
+2001-08-30;2001;August;REPORT;Neutral;0.9856278896331787;let me emphasise that a mediumterm perspective is essential for the conduct of fiscal policies in all euro area countries
+2001-08-30;2001;August;REPORT;Positive;0.9026785492897034;shortterm discretionary measures aimed at strengthening domestic demand risk having an unwelcome impact on the economy not least on account of time lags
+2001-08-30;2001;August;REPORT;Negative;0.903516948223114;in addition if such measures are not consistent with the pact they may undermine the credibility of the consolidation process
+2001-08-30;2001;August;REPORT;Positive;0.9829424619674683;in their efforts to set the conditions for further expanding the production potential of the euro area governments should also give more impetus to the implementation of structural reforms
+2001-08-30;2001;August;REPORT;Positive;0.7005700469017029;selective fiscal reforms including those related to pension reforms should provide the correct incentives to economic agents
+2001-08-30;2001;August;REPORT;Positive;0.9872077107429504;labour and product market reforms will be beneficial to employment growth in the euro area and improve the resilience of the euro area economy to adverse shocks in the future
+2001-08-30;2001;August;REPORT;Neutral;0.9450927376747131;finally i should like to draw your attention to a press release that was issued today on the ecb decision on the denominations specifications reproduction exchange and withdrawal of euro banknotes
+2001-08-30;2001;August;REPORT;Neutral;0.9252848029136658;i am now at your disposal for questions
+2001-08-30;2001;August;REPORT;Neutral;0.9672954082489014;after this question and answer session we will proceed with the unveiling of the security features of the euro banknotes and the launch of the euro 2002 information campaign
+2001-08-30;2001;August;REPORT;Neutral;0.9402662515640259;transcript of the questions asked and the answers given by dr willem f duisenberg president of the ecb question mr duisenberg can you tell us whether your monetary policy now has an easing bias or indeed whether you think that interest rates will be on hold for some time to come
+2001-08-30;2001;August;REPORT;Neutral;0.9280616044998169;duisenberg i cannot forecast when another move will come or in what direction it might be
+2001-08-30;2001;August;REPORT;Neutral;0.9823899269104004;when new information becomes available we will take a decision on the course of action required
+2001-08-30;2001;August;REPORT;Neutral;0.8616368770599365;but i should say that there is no such thing as a bias in our decision today
+2001-08-30;2001;August;REPORT;Neutral;0.5760245323181152;we are of the opinion that we have today set the monetary policy stance at an appropriate level to preserve price stability over the medium term
+2001-08-30;2001;August;REPORT;Negative;0.9103202223777771;question do you think you and your fellow council members underestimated the impact that the us slowdown would have on the euro area
+2001-08-30;2001;August;REPORT;Negative;0.7462436556816101;duisenberg i do not think we underestimated its impact
+2001-08-30;2001;August;REPORT;Negative;0.9828193783760071;what we did underestimate was the length and the severity of the us slowdown
+2001-08-30;2001;August;REPORT;Negative;0.985071063041687;we obviously  and may i say together with the us authorities  tended to be too optimistic about the duration and the depth of the slowdown in the united states
+2001-08-30;2001;August;REPORT;Negative;0.7455505728721619;question translation mr president when you last reduced interest rates in may the development of money supply was lower than it is at the moment
+2001-08-30;2001;August;REPORT;Negative;0.9201654195785522;and even back then when you took that decision you said that it was due to the fact that you did not want to create major worries concerning the wage rounds and the secondround effects
+2001-08-30;2001;August;REPORT;Negative;0.6775601506233215;why did you wait so long
+2001-08-30;2001;August;REPORT;Negative;0.9705058336257935;despite the fact that the economic cycle had already weakened earlier you cut interest rates only today
+2001-08-30;2001;August;REPORT;Negative;0.8532041907310486;if you look at your two pillar theory the situation developed rather negatively i would say especially concerning m3
+2001-08-30;2001;August;REPORT;Negative;0.9897149205207825;duisenberg the information we have today which we have only just received supports what i just said about the fact that the slowdown in economic growth emanating from the slowdown in the united states is larger deeper and more prolonged than had been anticipated earlier
+2001-08-30;2001;August;REPORT;Neutral;0.9747812747955322;and we now have clear indications that that of course has an impact on europe and will also have an impact on inflationary developments in the near future
+2001-08-30;2001;August;REPORT;Positive;0.7772144675254822;which is in itself beneficial and permits us now and not any earlier to lower interest rates without endangering the achievement of price stability in the near future
+2001-08-30;2001;August;REPORT;Neutral;0.8353381752967834;question translationpresident duisenberg how satisfied are you or how unhappy are you with the euro the level of the euro the development of the euroand the second question did the fed decision help you to take your decision today to say that you are going to reduce interest rates today
+2001-08-30;2001;August;REPORT;Neutral;0.8358418345451355;and the third question how do you think this interest rate reduction will impact on the various market rates
+2001-08-30;2001;August;REPORT;Neutral;0.8366026282310486;duisenberg first of all the question of how satisfied i am with the euro
+2001-08-30;2001;August;REPORT;Neutral;0.962989330291748;i assume you refer in your question to the exchange rate and not to the colour
+2001-08-30;2001;August;REPORT;Positive;0.987036943435669;i am very satisfied with the development of the euro but i continue to believe that in the future too the euro has given the performance of the european economy and of the us economy strong potential to appreciate
+2001-08-30;2001;August;REPORT;Neutral;0.9821181297302246;the us decision we do of course take all new developments into account including the us decision or decisions
+2001-08-30;2001;August;REPORT;Neutral;0.9547381401062012;but independently they have had no impact whatsoever
+2001-08-30;2001;August;REPORT;Neutral;0.8321524262428284;and what impact do i expect on market rates
+2001-08-30;2001;August;REPORT;Neutral;0.9825976490974426;i expect the markets to follow the example we set today
+2001-08-30;2001;August;REPORT;Neutral;0.6978789567947388;question two questions mr duisenberg
+2001-08-30;2001;August;REPORT;Neutral;0.7243593335151672;the first one on the stability pact
+2001-08-30;2001;August;REPORT;Neutral;0.9665830731391907;there were some recent statements from the german finance minister mr eichel which suggested some possible formal changes to the criteria on the stability pact
+2001-08-30;2001;August;REPORT;Neutral;0.8972885608673096;i would like to hear your comments on that
+2001-08-30;2001;August;REPORT;Neutral;0.8593336343765259;and the second question is are you going to revise your growth forecast for the euro zone for 2001
+2001-08-30;2001;August;REPORT;Neutral;0.8220847845077515;duisenberg i can only say that i was very pleased when while driving in the neighbourhood of avignon in france i received a phone call from mr eichel
+2001-08-30;2001;August;REPORT;Neutral;0.8857784271240234;he told me that he had been misinterpreted and misquoted in the press the previous day and that there was no intention on the part of the german government to enter into a discussion of the stability and growth pact and that he wanted to assure me of this
+2001-08-30;2001;August;REPORT;Positive;0.4250997304916382;and i was very grateful to him that he did so
+2001-08-30;2001;August;REPORT;Neutral;0.89924156665802;and now to your second question
+2001-08-30;2001;August;REPORT;Neutral;0.9736098647117615;we published the results of our forecasting exercise  when was it
+2001-08-30;2001;August;REPORT;Neutral;0.9800092577934265; in june i believe and of course we update these continuously
+2001-08-30;2001;August;REPORT;Neutral;0.8980674147605896;we have come to the conclusion that we can no longer say that economic growth in 2001 will reach the potential rate of growth which can be put at 2 to 2½
+2001-08-30;2001;August;REPORT;Neutral;0.7817506790161133;we do believe that we will have to revise that figure downwards
+2001-08-30;2001;August;REPORT;Neutral;0.9665998816490173;but there will be no new broad forecast before december
+2001-08-30;2001;August;REPORT;Neutral;0.7134838104248047;question translation mr president core inflation has not really changed over the last three months
+2001-08-30;2001;August;REPORT;Neutral;0.9217714667320251;it is still around 2
+2001-08-30;2001;August;REPORT;Neutral;0.943462610244751;so it is still at the upper level of the mediumterm target
+2001-08-30;2001;August;REPORT;Negative;0.7383396625518799;when looking at core inflation do you think there are any signs that in the next couple of months this core inflation will come down significantly
+2001-08-30;2001;August;REPORT;Neutral;0.607288658618927;duisenberg we believe that the socalled core inflation rate will come down but implied in your question is whether this will happen in the next few months it may take a little bit longer
+2001-08-30;2001;August;REPORT;Negative;0.5200623273849487;we expect the overall inflation rate to be below the desired 2 level in the course of the first half of next year
+2001-08-30;2001;August;REPORT;Neutral;0.9419093728065491;question has the ecb enacted a new communication strategy since june
+2001-08-30;2001;August;REPORT;Neutral;0.913395345211029;because that is the talk among some analysts in frankfurt
+2001-08-30;2001;August;REPORT;Neutral;0.6794765591621399;and if it has do you think it has been a success in preparing the markets for changes in interest rates
+2001-08-30;2001;August;REPORT;Neutral;0.888319194316864;duisenberg well as regards the first part of your question  has the ecb been engaged in a new communication strategy
+2001-08-30;2001;August;REPORT;Neutral;0.9100109338760376; the answer is no
+2001-08-30;2001;August;REPORT;Negative;0.46426352858543396;we have continuously tried to improve on our communication whenever it has been perceived as not being good enough
+2001-08-30;2001;August;REPORT;Neutral;0.754420280456543;but the strategy as such has not been changed and we have  may i say with some selfconfidence  been satisfied with the outcome of our communication over the past few months
+2001-08-30;2001;August;REPORT;Neutral;0.8520750403404236;question i imagine that in todays decision it was not necessarily easy to reach a consensus
+2001-08-30;2001;August;REPORT;Neutral;0.9136771559715271;did you take a vote
+2001-08-30;2001;August;REPORT;Neutral;0.9197602272033691;duisenberg i do not answer questions on voting
+2001-08-30;2001;August;REPORT;Neutral;0.5854586362838745;and your imagination i believe is going too far
+2001-08-30;2001;August;REPORT;Neutral;0.9842023849487305;contact european central bank directorate general communications sonnemannstrasse 20 60314 frankfurt am main germany 49 69 1344 7455 mediaecbeuropaeu reproduction is permitted provided that the source is acknowledged
+2001-08-30;2001;August;REPORT;Neutral;0.8690058588981628;media contacts

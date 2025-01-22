@@ -1,3 +1,62 @@
 Date;Year;Month;Type;sentiment;sentiment_score;sentence
-2004-03-04;2004;March;Monetary Policy Decisions;Neutral;0.9797464609146118;the president of the ecb will comment on the considerations underlying these decisions at a press conference starting at 230 pm today
-2004-03-04;2004;March;Monetary Policy Decisions;Neutral;0.9920690059661864;at todays meeting the governing council of the ecb decided that the minimum bid rate on the main refinancing operations and the interest rates on the marginal lending facility and the deposit facility will remain unchanged at 200 300 and 100 respectively
+2004-03-04;2004;March;REPORT;Neutral;0.5654596090316772;introductory statement to the press conference jeanclaude trichet president of the ecblucas papademos vice president of the ecbfrankfurt am main 4 march 2004 ladies and gentlemen welcome again to our monthly press conference
+2004-03-04;2004;March;REPORT;Neutral;0.9568964838981628;the vicepresident and i will now report on the outcome of todays meeting of the governing council of the ecb
+2004-03-04;2004;March;REPORT;Neutral;0.769656240940094;overall the governing council confirmed its previous assessment of a favourable outlook for price stability in the euro area over the medium term
+2004-03-04;2004;March;REPORT;Neutral;0.9774420261383057;against this background we concluded that the current stance of monetary policy remains appropriate
+2004-03-04;2004;March;REPORT;Neutral;0.9637829661369324;the key ecb interest rates have therefore been left unchanged at their low levels
+2004-03-04;2004;March;REPORT;Positive;0.9167700409889221;our monetary policy stance provides support to the economic recovery in the euro area
+2004-03-04;2004;March;REPORT;Neutral;0.9748492240905762;we will continue to monitor carefully all developments that could affect our assessment of risks to price stability over the medium term
+2004-03-04;2004;March;REPORT;Neutral;0.8307791352272034;let me now turn to the details of our economic analysis
+2004-03-04;2004;March;REPORT;Positive;0.7181092500686646;according to eurostat in the fourth quarter of 2003 real gdp in the euro area grew by 03 quarter on quarter following growth of 04 in the third quarter
+2004-03-04;2004;March;REPORT;Positive;0.9878023266792297;these data confirm that a gradual recovery in economic activity in the euro area took place in the second half of 2003 more recent indicators point to moderate economic growth also in early 2004 while growth has been relatively modest so far both external and domestic factors give reason to expect a strengthening of the recovery through 2004 and beyond
+2004-03-04;2004;March;REPORT;Positive;0.9824973940849304;on the external side all recent indications confirm that global economic growth in 2004 will be robust and broadly based across different regions of the world
+2004-03-04;2004;March;REPORT;Positive;0.9445709586143494;overall euro area exports should grow significantly this year and next
+2004-03-04;2004;March;REPORT;Neutral;0.7415452003479004;on the domestic side the conditions for a recovery in private demand are in place
+2004-03-04;2004;March;REPORT;Negative;0.9635054469108582;over recent months there have been signs of a stabilisation in investment
+2004-03-04;2004;March;REPORT;Positive;0.6312342286109924;according to eurostat fixed capital investment grew again in the last quarter of 2003 after recording three successive quarteronquarter declines
+2004-03-04;2004;March;REPORT;Positive;0.9864296913146973;corporate earnings have generally improved in the euro area following a protracted restructuring of corporate balance sheets over the last few years
+2004-03-04;2004;March;REPORT;Negative;0.525363564491272;the financing conditions faced by corporations in the euro area are very favourable at present
+2004-03-04;2004;March;REPORT;Positive;0.9831215143203735;all of these factors should support a further recovery in investment
+2004-03-04;2004;March;REPORT;Positive;0.7840193510055542;there are also reasons to expect a gradual increase in consumption growth during this year following the subdued developments of last year
+2004-03-04;2004;March;REPORT;Positive;0.9913619160652161;in the short term growth in real disposable income is supported by lower import prices and tax cuts while later on the gradual improvement in labour market conditions should become an additional factor supporting income growth and confidence
+2004-03-04;2004;March;REPORT;Negative;0.9385784864425659;the financial situation of households in the euro area is sound not least in comparison with a number of other industrial economies and there is no financial impediment to a pickup in private consumption
+2004-03-04;2004;March;REPORT;Positive;0.6717361807823181;for all these reasons our main scenario of a continued gradual recovery in the course of 2004 and 2005 remains valid
+2004-03-04;2004;March;REPORT;Neutral;0.9836369156837463;this view is shared by available forecasts and projections and is also broadly reflected in financial market developments
+2004-03-04;2004;March;REPORT;Negative;0.7027906775474548;we continue to see the risks to this scenario as broadly balanced
+2004-03-04;2004;March;REPORT;Negative;0.9884317517280579;however there are uncertainties related to euro area private consumption and the persistent imbalances in some regions of the world and their potential repercussions on the sustainability of global economic growth
+2004-03-04;2004;March;REPORT;Neutral;0.7374104261398315;turning to price developments according to the eurostat flash estimate the annual hicp inflation rate declined to 16 in february 2004 from 19 in january
+2004-03-04;2004;March;REPORT;Neutral;0.9296226501464844;this fall was mainly due to base effects stemming from energy prices as a sharp increase in oil prices which occurred in early 2003 dropped out of the calculation of the annual rate in february 2004 over the coming months volatility in annual inflation rates is likely to be observed mainly due to further base effects from energy prices as well as to increases in indirect taxes
+2004-03-04;2004;March;REPORT;Neutral;0.8437688946723938;related to this annual inflation rates are likely to edge up again temporarily in the second quarter of 2004 looking beyond shortterm fluctuations in the most volatile components of the hicp we expect inflation to remain in line with price stability
+2004-03-04;2004;March;REPORT;Negative;0.9867588877677917;at the current juncture we see little upward pressure on inflation
+2004-03-04;2004;March;REPORT;Negative;0.6489760279655457;given the anticipated gradual nature of the recovery in economic activity and the high level of unemployment in the euro area wage developments should remain moderate
+2004-03-04;2004;March;REPORT;Neutral;0.9832606911659241;while our assessment is in line with available forecasts and projections we are aware of the conditional nature of such exercises
+2004-03-04;2004;March;REPORT;Neutral;0.9735147356987;we will therefore continue to monitor all indicators closely
+2004-03-04;2004;March;REPORT;Neutral;0.547190248966217;inflation expectations in particular deserve close attention
+2004-03-04;2004;March;REPORT;Negative;0.9923036098480225;turning to the monetary analysis m3 growth has moderated over recent months
+2004-03-04;2004;March;REPORT;Neutral;0.5619284510612488;however it appears that the reallocation of economic agents portfolios into longerterm assets is proceeding rather cautiously
+2004-03-04;2004;March;REPORT;Positive;0.9617542624473572;in this respect the generally low level of interest rates continues to support the demand for liquid assets
+2004-03-04;2004;March;REPORT;Positive;0.9823905229568481;the low level of interest rates also supports the growth of loans to the private sector
+2004-03-04;2004;March;REPORT;Negative;0.8285878300666809;the high liquidity in the euro area needs to be assessed with caution
+2004-03-04;2004;March;REPORT;Neutral;0.9418014883995056;its effects on inflation over the medium term will greatly depend on the extent and pace of the future reversal of past portfolio shifts and on the future strength of economic growth
+2004-03-04;2004;March;REPORT;Negative;0.9918726086616516;should excess liquidity persist it could lead to inflationary pressures over the medium term
+2004-03-04;2004;March;REPORT;Neutral;0.9725642800331116;to sum up the economic analysis continues to indicate that the main scenario for price developments in the coming years is in line with price stability
+2004-03-04;2004;March;REPORT;Neutral;0.9713925719261169;crosschecking with the monetary analysis does not alter this picture for the time being
+2004-03-04;2004;March;REPORT;Neutral;0.8446022272109985;with regard to fiscal policies we noted the progress in fiscal consolidation envisaged in countries stability programmes
+2004-03-04;2004;March;REPORT;Negative;0.988524854183197;nonetheless there continues to be reason for concern
+2004-03-04;2004;March;REPORT;Negative;0.9752948880195618;in some countries contrary to their commitments adjustment efforts are insufficient to mitigate the risk of excessive deficits
+2004-03-04;2004;March;REPORT;Negative;0.9189200401306152;moreover several countries do not plan to attain sound budgetary positions by the end of their respective programme horizons despite favourable growth prospects
+2004-03-04;2004;March;REPORT;Negative;0.9597761631011963;this would risk a repetition of the policy errors of the last economic upswing when insufficient consolidation efforts and tax cuts without adequate expenditure restraint laid the foundations for the recent fiscal difficulties
+2004-03-04;2004;March;REPORT;Positive;0.9857337474822998;all countries would benefit from the strengthening of the sustainability of their public finances especially in the expected upward phase of the cycle by eliminating imbalances over the coming years and avoiding or correcting as soon as possible excessive deficits
+2004-03-04;2004;March;REPORT;Positive;0.9870542883872986;moreover the determined implementation of comprehensive structural reforms on both the expenditure side and the revenue side will bring additional mediumterm rewards in the form of higher growth and more sustainable public finances
+2004-03-04;2004;March;REPORT;Positive;0.9420484304428101;such consolidation and reform strategies are needed to secure a sound macroeconomic environment in the euro area
+2004-03-04;2004;March;REPORT;Neutral;0.9085913896560669;the euro area also requires further structural reforms in financial product and labour markets
+2004-03-04;2004;March;REPORT;Neutral;0.9702825546264648;the lisbon strategy provides the appropriate blueprint for progress
+2004-03-04;2004;March;REPORT;Positive;0.9851168394088745;we welcome that the forthcoming spring meeting of the european council is set to give renewed impetus to the lisbon agenda speed up the pace of reforms and strengthen the effectiveness of the decisionmaking process
+2004-03-04;2004;March;REPORT;Positive;0.9786466956138611;structural reforms will have enormous benefits for the citizens of the euro area
+2004-03-04;2004;March;REPORT;Positive;0.7557752728462219;these reforms are crucial for sustained noninflationary growth and employment and they are therefore also important for maintaining social cohesion in the long run
+2004-03-04;2004;March;REPORT;Positive;0.9915847778320312;confidence among european citizens in the future is vital for a stronger economic recovery and sustained growth
+2004-03-04;2004;March;REPORT;Negative;0.966112494468689;the governing council recognises that the still low level of consumer confidence is related to prevailing uncertainties including the debate about the appropriate path for structural reforms in many countries of the euro area
+2004-03-04;2004;March;REPORT;Negative;0.5063554644584656;it is also partly linked to the continued perception by european citizens of higher inflation than measured by official indices
+2004-03-04;2004;March;REPORT;Neutral;0.9791495203971863;the governing council notes that inflation is now back at a level consistent with price stability
+2004-03-04;2004;March;REPORT;Positive;0.9785799980163574;the european public can rest assured about our determination to preserve the purchasing power of our money in the years to come and thus make our contribution to enhance confidence in the future
+2004-03-04;2004;March;REPORT;Positive;0.9917702674865723;stable prices together with further progress in the implementation of necessary structural reforms are the key to stronger confidence and they create the conditions for increased consumption and investment and thus for growth and job creation

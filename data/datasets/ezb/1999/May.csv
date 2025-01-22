@@ -1,5 +1,141 @@
 Date;Year;Month;Type;sentiment;sentiment_score;sentence
-1999-05-06;1999;May;Monetary Policy Decisions;Neutral;0.9805396795272828;the president of the ecb will comment on the considerations underlying these decisions at a press conference starting at 2 pm today
-1999-05-06;1999;May;Monetary Policy Decisions;Neutral;0.9920511841773988;at todays meeting the governing council of the ecb decided that the interest rates on the main refinancing operations the marginal lending facility and the deposit facility will remain unchanged at 25 35 and 15 respectively
-1999-05-20;1999;May;Monetary Policy Decisions;Neutral;0.9439016580581664;in addition the governing council decided to change the maturity of the longerterm refinancing scheduled to be settled on 30 september 1999 the redemption date of this operation will be brought forward from 30 december to 23 december 1999 related to this the longerterm refinancing operation originally scheduled to be announced on 27 december 1999 and to be allotted and settled on 30 december 1999 will instead be announced on 21 december allotted on 22 december and settled on 23 december 1999 this rescheduling of operations is intended to alleviate the working procedures for the financial market participants at the turn of the year
-1999-05-20;1999;May;Monetary Policy Decisions;Neutral;0.9920511841773988;at todays meeting the governing council of the ecb decided that the interest rates on the main refinancing operations the marginal lending facility and the deposit facility will remain unchanged at 25 35 and 15 respectively
+1999-05-06;1999;May;REPORT;Neutral;0.9441571831703186;ecb press conference introductory statement willem f duisenberg president of the european central bank thursday 6 may 1999 with the transcript of the questions and answers ladies and gentlemen the vicepresident and i are here today to report on the outcome of todays meeting of the governing council of the ecb
+1999-05-06;1999;May;REPORT;Neutral;0.9899847507476807;the governing council reviewed as usual the main monetary financial and other economic indicators in line with its monetary policy strategy
+1999-05-06;1999;May;REPORT;Neutral;0.9871383309364319;following this discussion it decided to keep the ecbs interest rates unchanged
+1999-05-06;1999;May;REPORT;Neutral;0.981342613697052;the interest rate on the main refinancing operations will thus remain 25
+1999-05-06;1999;May;REPORT;Neutral;0.9810741543769836;in addition the interest rate on the marginal lending facility will continue to be 35 and that on the deposit facility will remain 15
+1999-05-06;1999;May;REPORT;Neutral;0.9856727123260498;let me give you some details about our latest assessment of the monetary policy stance and thereby provide explanations for the decisions taken today
+1999-05-06;1999;May;REPORT;Neutral;0.6173232197761536;overall monetary developments and our broadly based assessment of future price developments do not signal dangers to price stability over the short and medium term
+1999-05-06;1999;May;REPORT;Neutral;0.987136721611023;with regard to monetary developments in the euro area in march 1999 the 12month rate of growth of m3 remained constant at 51
+1999-05-06;1999;May;REPORT;Positive;0.9764387607574463;while the pace of increase in overnight deposits reduced further signalling the waning influence of the uncertainties surrounding the launch of the euro deposits with an agreed maturity of up to two years grew at a stronger pace in march than in february 1999 the latest figure for the threemonth moving average of m3 growth covering the first quarter of 1999 was 52
+1999-05-06;1999;May;REPORT;Neutral;0.978628396987915;this was 02 percentage point higher than in the previous threemonth period covering the period december 1998 to february 1999 the governing council also noted that the annual rate of growth of total credit was broadly stable at 75 in march 1999 in line with the assessment it had made on the occasion of its previous meetings the governing council took the view that recent monetary trends should not be seen as a warning signal with regard to the future evolution of inflation
+1999-05-06;1999;May;REPORT;Neutral;0.9452804923057556;as we have emphasised in the past the monetary data in early 1999 may be affected by the special circumstances related to the changeover to stage three of emu
+1999-05-06;1999;May;REPORT;Neutral;0.9842923879623413;in addition the threemonth moving average of m3 growth remains relatively close to the reference value of 4½
+1999-05-06;1999;May;REPORT;Neutral;0.9833900332450867;as regards financial indicators i should like to stress that recent developments in bond yields in the euro area were accompanied by some decoupling of yields from those in the united states as differentials between euro area longterm interest rates and comparable rates in the united states have widened
+1999-05-06;1999;May;REPORT;Neutral;0.5543999671936035;as regards the evolution of the world economy recent developments tend to confirm the picture of a mild overall improvement in the external environment beyond the euro area
+1999-05-06;1999;May;REPORT;Negative;0.9275725483894348;as before however the main features range from continuously strong growth of the us economy to continuously weak output in japan
+1999-05-06;1999;May;REPORT;Neutral;0.9806661009788513;for the euro area only a few additional data for economic indicators have become available and the assessment of forthcoming gdp developments is currently complicated by the fact that the next release will be based on revised data in accordance with the new concept of the european system of accounts esa 95
+1999-05-06;1999;May;REPORT;Positive;0.9879565834999084;industrial production declined at the beginning of this year and data on retail sales volumes suggest that the pace of growth slowed down somewhat around the turn of the year but recently there are preliminary indications of some improvement
+1999-05-06;1999;May;REPORT;Negative;0.9947549104690552;recent developments in the labour market show a somewhat decelerating employment growth towards the end of last year
+1999-05-06;1999;May;REPORT;Negative;0.903685986995697;the rate of unemployment remained unchanged in march 1999 following two consecutive declines in january and february
+1999-05-06;1999;May;REPORT;Positive;0.9690096378326416;industrial confidence declined further in the first quarter of 1999 but preliminary april figures from the european commission point to a slight improvement
+1999-05-06;1999;May;REPORT;Negative;0.9861735105514526;given the latest developments up to april it would appear that consumer confidence reached a peak at the beginning of this year since when it has moderated slightly
+1999-05-06;1999;May;REPORT;Neutral;0.7496956586837769;as expected the trend towards decreasing inflation rates appears to have been reversed in march
+1999-05-06;1999;May;REPORT;Neutral;0.9916760921478271;in march the annual rate of increase of consumer prices as measured by the harmonised index of consumer prices hicp was 10 compared with 08 in the previous four months
+1999-05-06;1999;May;REPORT;Negative;0.3891980051994324;this was essentially a consequence of the substantial rise in oil prices which began in midfebruary feeding through to energy prices in the hicp
+1999-05-06;1999;May;REPORT;Negative;0.9824861288070679;in addition unprocessed food prices have continued to exert some upward pressure on overall price increases in recent months
+1999-05-06;1999;May;REPORT;Neutral;0.9757773876190186;excluding the more volatile hicp components of energy and food the rate of increase in consumer prices in march remained at 11  ie
+1999-05-06;1999;May;REPORT;Neutral;0.8236926794052124;unchanged from the rate observed in february and marginally lower than that recorded at the turn of the year
+1999-05-06;1999;May;REPORT;Negative;0.9667510390281677;in conclusion at this point in time the general outlook for price stability remains favourable
+1999-05-06;1999;May;REPORT;Negative;0.9777612686157227;although the lower effective exchange rate of the euro and the rise in oil prices may lead to some upward pressure on headline hicp inflation in the coming months the current economic situation is likely to contribute to containing this upward pressure
+1999-05-06;1999;May;REPORT;Neutral;0.9788504242897034;at the same time current monetary developments and other available indicators do not point to inflationary risks over the medium term
+1999-05-06;1999;May;REPORT;Neutral;0.9899901151657104;on the basis of this assessment the governing council decided to keep the ecbs interest rates at their current levels
+1999-05-06;1999;May;REPORT;Neutral;0.9878694415092468;in additionto reviewing the mainmonetary financial and other economic indicators the governing council considered a report prepared by the ecbs banking supervision committee on the effects of technology on the eu banking systems
+1999-05-06;1999;May;REPORT;Neutral;0.9867773652076721;the report assesses the extent to which technological developments have taken place and are expected to occur in the eu banking systems the main categories of banking risks affected by these developments and the strategic responses that eu banks are devising
+1999-05-06;1999;May;REPORT;Neutral;0.9844653010368347;the governing council agreed to publish the report which will be made available in due course
+1999-05-06;1999;May;REPORT;Neutral;0.9318070411682129;we are now at your disposal should you have any questions
+1999-05-06;1999;May;REPORT;Negative;0.9575594067573547;transcript of the questions asked and the answers given by dr willem f duisenberg president of the ecb and christian noyer vicepresident of the ecb question a couple of months ago you told us here that you were not worried about the weakness of the euro in relation to the dollar but you also said that if it continued to fall it could give cause for concern
+1999-05-06;1999;May;REPORT;Negative;0.6216911673545837;well it is still falling not only against the dollar but also against the pound sterling and i am wondering if you are concerned now and if not why not
+1999-05-06;1999;May;REPORT;Neutral;0.8945218920707703;duisenberg i should like to contradict you with respect to your last statement
+1999-05-06;1999;May;REPORT;Negative;0.43977662920951843;over the past few days the euro has been strengthening
+1999-05-06;1999;May;REPORT;Neutral;0.49264782667160034;just last week it was at a level of usd 10550 when i entered this conference hall it was at a level of usd 108 so i am still not concerned but have seen with some appreciation i might even use this term the recent appreciation of the euro
+1999-05-06;1999;May;REPORT;Neutral;0.8556278347969055;question one month ago when you cut the interest rates you mentioned that that was it
+1999-05-06;1999;May;REPORT;Positive;0.9884995818138123;now we have heard some positive signs from the real economy
+1999-05-06;1999;May;REPORT;Negative;0.9160026907920837;are you more convinced that we are now at the turning point in interest rates so that the falling trend has finished
+1999-05-06;1999;May;REPORT;Neutral;0.9165543913841248;duisenberg let me only say that in todays statement which reflects the decision of the governing council this is still it
+1999-05-06;1999;May;REPORT;Neutral;0.7298758625984192;question in the last week or so in line with this speakingwithonevoice idea we have seen ecb officials taking a stronger line on saying that the euro can only fall so far
+1999-05-06;1999;May;REPORT;Neutral;0.9005276560783386;did you all make a decision to start speaking somewhat differently
+1999-05-06;1999;May;REPORT;Neutral;0.8643684983253479;duisenberg no we did not speak differently
+1999-05-06;1999;May;REPORT;Negative;0.951758623123169;but we were somewhat concerned that it had been alluded in the european parliament that we were following a policy of neglect visàvis the euro so that we deliberately wanted to contradict that
+1999-05-06;1999;May;REPORT;Neutral;0.9165990352630615;we are not by any means neglecting the exchange rate of the euro
+1999-05-06;1999;May;REPORT;Neutral;0.9726364612579346;we regard the exchange rate as one of the main indicators we follow in assessing the outlook for price movements and price stability over the medium term
+1999-05-06;1999;May;REPORT;Neutral;0.9624972343444824;so that is what we discussed and what we decided to emphasise which is not a change of policy only a confirmation of policy which apparently did not come across sufficiently well
+1999-05-06;1999;May;REPORT;Negative;0.6412789821624756;question i understand that just over an hour ago before the press conference mr rojo one of the council members effectively leaked todays interest rate decision to the press
+1999-05-06;1999;May;REPORT;Neutral;0.9827874898910522;he was reported as saying that you left interest rates unchanged
+1999-05-06;1999;May;REPORT;Neutral;0.9599782824516296;are you aware of that and do you think that this is an appropriate way for information to be released
+1999-05-06;1999;May;REPORT;Neutral;0.6136475205421448;duisenberg i am aware of what has been reported
+1999-05-06;1999;May;REPORT;Neutral;0.9314188957214355;i think that if he said that we should ask for some foregiveness in this particular case because it happens that the spokesman you quote is celebrating his 65th birthday today
+1999-05-06;1999;May;REPORT;Neutral;0.6821103692054749;question have you intervened in the markets in any way to boost the euro
+1999-05-06;1999;May;REPORT;Neutral;0.8913240432739258;has the ecb intervened in the markets in any way to boost the euros value
+1999-05-06;1999;May;REPORT;Neutral;0.556351900100708;duisenberg it has not
+1999-05-06;1999;May;REPORT;Neutral;0.9803311228752136;question some ecb watchers consider that within the council of the european central bank there are differences in the emphasis on the value attached to the exchange rate of the euro
+1999-05-06;1999;May;REPORT;Neutral;0.9588695764541626;there are perhaps differences in views slight differences of view between duisenberg and tietmeyer
+1999-05-06;1999;May;REPORT;Neutral;0.93785560131073;one says a euro is a euro and the other says as long as the stability goal is not endangered the exchange rate does not mean very much
+1999-05-06;1999;May;REPORT;Neutral;0.936051607131958;are there these differences of view and do they mean anything
+1999-05-06;1999;May;REPORT;Neutral;0.949120819568634;or are there really differences in view in the european central bank council about the exchange rate of the euro
+1999-05-06;1999;May;REPORT;Neutral;0.9200407862663269;duisenberg if there were different opinions in the council i would not tell you about it
+1999-05-06;1999;May;REPORT;Neutral;0.9618890285491943;but i can tell you that of course all these matters are subject of discussion
+1999-05-06;1999;May;REPORT;Neutral;0.9758948683738708;and in all cases in our history which is admittedly not a long history we have easily been able to reach a consensus about our views and of course sometimes someone enters the discussion with a view which may differ from the view that is being held at the end of the discussion
+1999-05-06;1999;May;REPORT;Neutral;0.9723621606826782;there is no way to define or discover at least i could not do that a split in thinking or differences of views which are of any significance
+1999-05-06;1999;May;REPORT;Neutral;0.9790883660316467;question this afternoon when the ecb made its normal statement about interest rates to news agencies it did not mention the number of weeks that the securities refinancing rate would be conducted at 25 percent
+1999-05-06;1999;May;REPORT;Neutral;0.8789089918136597;will it be done for the next two weeks as it has been in the past or was this an intentional omission
+1999-05-06;1999;May;REPORT;Neutral;0.9288912415504456;noyer no it was not an omission
+1999-05-06;1999;May;REPORT;Neutral;0.9827965497970581;normally we simply mentioned the number of weeks between two council meetings
+1999-05-06;1999;May;REPORT;Neutral;0.9456080198287964;there is no particular intention behind that
+1999-05-06;1999;May;REPORT;Neutral;0.969769299030304;that will be for the next two weeks yes
+1999-05-06;1999;May;REPORT;Neutral;0.7898984551429749;question we heard from the german government that savings are going to be applied only from 2000 generally speaking we see that all of the governments are starting to look more at the war in kosovo than at controlling their expenditure
+1999-05-06;1999;May;REPORT;Negative;0.9541417360305786;do you think confidence is declining
+1999-05-06;1999;May;REPORT;Negative;0.8600818514823914;do you think that this is also a major danger for the euro the fact that these reforms are just being put off and put off and nobody seems to apply them
+1999-05-06;1999;May;REPORT;Neutral;0.8871421813964844;duisenberg it is too early to assess the impact of a conflict that has not yet ended on future budgetary developments
+1999-05-06;1999;May;REPORT;Neutral;0.9646041989326477;we are actively studying that
+1999-05-06;1999;May;REPORT;Negative;0.514071524143219;but it is too early still to come to conclusions
+1999-05-06;1999;May;REPORT;Neutral;0.8170143961906433;for the time being we do not think that it should nor that it will have a significant impact on budgetary developments
+1999-05-06;1999;May;REPORT;Neutral;0.5850919485092163;in the future it might lead to a rearrangement of priorities within budgets
+1999-05-06;1999;May;REPORT;Neutral;0.9205278158187866;i do not exclude that
+1999-05-06;1999;May;REPORT;Neutral;0.9315693974494934;but as for the impact on the euro as you have mentioned it it is true to say that the news that comes by the hour on the conflict in yugoslavia has an impact on the volatility of the euro
+1999-05-06;1999;May;REPORT;Neutral;0.983730137348175;just when i was entering this room there was a statement by the vicepresident of the united states which immediately caused the euro to lose a couple of hundredths of a percent but then maybe there already is another statement which goes in the other direction
+1999-05-06;1999;May;REPORT;Negative;0.8706251978874207;so the volatility has increased
+1999-05-06;1999;May;REPORT;Negative;0.7357540130615234;we believe it is too early to assess what the basic reasons are that the euro has been let me call it recovering so strongly in the last few days
+1999-05-06;1999;May;REPORT;Negative;0.9841246604919434;question at the start of the year you were expressing some concern about the level of fiscal discipline used by governments in the euro zone
+1999-05-06;1999;May;REPORT;Negative;0.5539883375167847;have you seen any signs of improvements in that area
+1999-05-06;1999;May;REPORT;Neutral;0.6533557176589966;do you think that there is a greater understanding now of the need for budgetary discipline and also for structural reforms and labour and product markets
+1999-05-06;1999;May;REPORT;Negative;0.47141602635383606;duisenberg excluding as i just did the war from those considerations we have not yet seen signs of a significant improvement of let me call them the fiscal authorities
+1999-05-06;1999;May;REPORT;Negative;0.8323436379432678;now that we know all the stabilisation programmes which have been introduced or published we see an only moderate further decline in public deficits across euroland  very moderate on average  which still leaves the combined deficit for euroland in the year 2001 or 2002 at a level above that which is called for by the stability and growth pact
+1999-05-06;1999;May;REPORT;Negative;0.9897869825363159;so in that sense our concerns have not diminished
+1999-05-06;1999;May;REPORT;Neutral;0.9741584658622742;question translation what was your impression of the meeting of the g7 countries where you represented the euro and monetary policy while the euro 11 ministers of finance have not yet agreed on how they should present themselves there
+1999-05-06;1999;May;REPORT;Negative;0.5386897921562195;do you regard this as a problem or not
+1999-05-06;1999;May;REPORT;Neutral;0.9431726932525635;and another question the germanfrench financial and economic council will be meeting next sunday in france
+1999-05-06;1999;May;REPORT;Neutral;0.9673820734024048;the president of the deutsche bundesbank and the president of the banque de france will be meeting there
+1999-05-06;1999;May;REPORT;Neutral;0.8857855796813965;is this institution this arrangement really still appropriate now that we have a monetary union
+1999-05-06;1999;May;REPORT;Neutral;0.7953549027442932;what are your views on this
+1999-05-06;1999;May;REPORT;Neutral;0.9440473914146423;will you be attending the meeting
+1999-05-06;1999;May;REPORT;Neutral;0.892622172832489;duisenberg the results of the g7 meeting have been communicated to you in an extensive communiqué
+1999-05-06;1999;May;REPORT;Neutral;0.8932496309280396;it was not the first time i participated
+1999-05-06;1999;May;REPORT;Neutral;0.9799428582191467;it was the third time that i participated in the g7 meeting on behalf of the european system of central banks
+1999-05-06;1999;May;REPORT;Neutral;0.9838846325874329;i was in a position there to explain and discuss monetary policy aspects of euro area politics
+1999-05-06;1999;May;REPORT;Neutral;0.9652970433235168;for fiscal policies of course i am not competent to speak
+1999-05-06;1999;May;REPORT;Neutral;0.9803670644760132;but for monetary policies and a discussion of the general economic outlook for the euro area i was fully competent and that was recognised
+1999-05-06;1999;May;REPORT;Neutral;0.9640726447105408;and i was able actively to participate in the discussion
+1999-05-06;1999;May;REPORT;Neutral;0.9865310788154602;on the frenchgerman combination the national central bank governors will be present
+1999-05-06;1999;May;REPORT;Neutral;0.9591893553733826;i assume they will be there in their traditional role which is still their role and will remain their role as the main economic advisor of their government and to that extent i have no objections whatsoever and i have no inclination to be present either
+1999-05-06;1999;May;REPORT;Neutral;0.905092179775238;question mr duisenberg i have a question regarding the allocation ratio at the weekly tender
+1999-05-06;1999;May;REPORT;Negative;0.9816409945487976;you said two months ago that you were worried about the low allocation ratios
+1999-05-06;1999;May;REPORT;Negative;0.9890774488449097;we are now again seeing low allocation ratios
+1999-05-06;1999;May;REPORT;Negative;0.4985560178756714;are you still worried are you worried again and what are you intending to do about it
+1999-05-06;1999;May;REPORT;Neutral;0.8075306415557861;noyerwe think that for the moment it is extremely difficult to assess because every time we have a different configuration
+1999-05-06;1999;May;REPORT;Neutral;0.9613515138626099;the number of counterparties taking part in the operations changes
+1999-05-06;1999;May;REPORT;Neutral;0.8817887306213379;there has been an evolution an evolution more in the main refinancing operations than in the longterm refinancing operations
+1999-05-06;1999;May;REPORT;Neutral;0.5533653497695923;we have had of course a very sharp increase in the allocation ratio at the end of the maintenance period
+1999-05-06;1999;May;REPORT;Negative;0.9896221160888672;now it is declining again
+1999-05-06;1999;May;REPORT;Neutral;0.9397214651107788;we do not have  and we all share this view  we do not have the experience to make a final judgement on that and on whether we should stay on that sort of level
+1999-05-06;1999;May;REPORT;Negative;0.7571357488632202;that would be the real problem to be addressed
+1999-05-06;1999;May;REPORT;Neutral;0.7241679430007935;so we have decided to wait and gain a little more experience before making a final assessment on that
+1999-05-06;1999;May;REPORT;Neutral;0.9544973969459534;for the time being we think that it could very well be that the allotment ratio will come up again to a certain point of equilibrium but it is not possible to make a final judgement
+1999-05-06;1999;May;REPORT;Neutral;0.861138641834259;question i wonder and despite the fact that the ecb does not feel competent to speak on fiscal policy i wonder if you see any role at all for the central bank in helping mr prodi organise matters at the brussels level in terms of the fiscal side specifically the european commission
+1999-05-06;1999;May;REPORT;Neutral;0.9871219992637634;you know yourself about the paris proposals for boosting the role of the european commission in the fiscal debate and of course it goes together with the policy mix in which the ecb is of course one of the actors
+1999-05-06;1999;May;REPORT;Neutral;0.9688374400138855;is there any role therefore for the ecb in helping mr prodi organise or advising him in any way on how to organise the brussels commission
+1999-05-06;1999;May;REPORT;Neutral;0.9481920599937439;duisenberg the specific question being the last one how to organise the european commission
+1999-05-06;1999;May;REPORT;Neutral;0.9603185057640076;there is no role for the ecb in that respect
+1999-05-06;1999;May;REPORT;Neutral;0.8783212900161743;question mr president i would appreciate it if you could comment on the wage developments in europe some of the wage increases especially in germany
+1999-05-06;1999;May;REPORT;Neutral;0.9002686738967896;have you any opinion on these developments
+1999-05-06;1999;May;REPORT;Neutral;0.9876558780670166;duisenberg there is of course only incidental information across euroland about the areas in which wage contracts have been concluded
+1999-05-06;1999;May;REPORT;Negative;0.9877306818962097;at an earlier stage we already indicated that there were instances where wage settlements seem to have been concluded well in excess of the likely rise in productivity and that itself is one of the risks we see for the future
+1999-05-06;1999;May;REPORT;Negative;0.9832565188407898;but it is not enough of a risk to make us concerned about the future inflationary developments
+1999-05-06;1999;May;REPORT;Neutral;0.5638941526412964;otherwise we would not have lowered the interest rates a few weeks ago
+1999-05-06;1999;May;REPORT;Neutral;0.8723715543746948;question mr president i just wanted to follow up on your this is it comment
+1999-05-06;1999;May;REPORT;Neutral;0.5186819434165955;does that mean you actually have a tightening bias at this point and also in light of your saying that there is a moderate bettering of the current condition
+1999-05-06;1999;May;REPORT;Neutral;0.9016966223716736;duisenberg no i know that every word i say is being interpreted differently by different people
+1999-05-06;1999;May;REPORT;Neutral;0.9296847581863403;so i can only emphasise that in my words and in my thinking there is no bias
+1999-05-06;1999;May;REPORT;Neutral;0.9463491439819336;yes there is no bias and that means none in either direction
+1999-05-06;1999;May;REPORT;Neutral;0.9842023849487305;contact european central bank directorate general communications sonnemannstrasse 20 60314 frankfurt am main germany 49 69 1344 7455 mediaecbeuropaeu reproduction is permitted provided that the source is acknowledged
+1999-05-06;1999;May;REPORT;Neutral;0.8690058588981628;media contacts

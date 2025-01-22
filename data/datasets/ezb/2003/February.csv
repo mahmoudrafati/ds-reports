@@ -1,3 +1,228 @@
 Date;Year;Month;Type;sentiment;sentiment_score;sentence
-2003-02-06;2003;February;Monetary Policy Decisions;Neutral;0.9797464609146118;the president of the ecb will comment on the considerations underlying these decisions at a press conference starting at 230 pm today
-2003-02-06;2003;February;Monetary Policy Decisions;Neutral;0.9911808967590332;at todays meeting the governing council of the ecb decided that the minimum bid rate on the main refinancing operations and the interest rates on the marginal lending facility and the deposit facility will remain unchanged at 275 375 and 175 respectively
+2003-02-06;2003;February;REPORT;Neutral;0.9431644082069397;introductory statement willem f duisenberg president of the european central bank lucas papademos vicepresident of the european central bank frankfurt 6 february 2003 with a transcript of the questions and answers ladies and gentlemen the vicepresident and i will report on the outcome of todays meeting of the governing council of the ecb
+2003-02-06;2003;February;REPORT;Neutral;0.979530930519104;we have reviewed monetary financial and economic developments and have incorporated new information into our assessment
+2003-02-06;2003;February;REPORT;Neutral;0.9123093485832214;overall the current monetary policy stance remains appropriate to preserve a favourable outlook for price stability in the medium term
+2003-02-06;2003;February;REPORT;Neutral;0.9730509519577026;consequently we have kept our key interest rates unchanged
+2003-02-06;2003;February;REPORT;Positive;0.8381004929542542;their low level should help counterbalance the negative effects on economic activity that currently stem from the high degree of worldwide uncertainty and should thereby contribute to a sustainable economic recovery in the course of 2003 for the time being we still assume that the high degree of uncertainty will decline in the course of this year
+2003-02-06;2003;February;REPORT;Negative;0.9360458254814148;however at this juncture it is very difficult if not impossible to form a conclusive judgement on the impact of geopolitical developments on the world economy in general and the euro area in particular
+2003-02-06;2003;February;REPORT;Positive;0.9871189594268799;turning to the analysis under the first pillar of our monetary policy strategy the threemonth average of the annual growth rates of m3 declined to 69 in the period from october to december 2002 from 71 in the period from september to november 2002 the continued strong monetary growth reflects an ongoing pronounced preference for liquidity in an environment of high financial economic and geopolitical uncertainty
+2003-02-06;2003;February;REPORT;Neutral;0.9137476086616516;however it also mirrors the low level of shortterm and longterm interest rates in the euro area
+2003-02-06;2003;February;REPORT;Negative;0.9913882613182068;although liquidity remains ample it is unlikely at this stage that it will give rise to inflationary pressures given the current economic environment and the expectation that some of the portfolio shifts will be reversed once the financial market uncertainty diminishes
+2003-02-06;2003;February;REPORT;Neutral;0.8169212341308594;this assessment is also supported by the continuing moderate growth of loans to the private sector
+2003-02-06;2003;February;REPORT;Negative;0.99103844165802;as regards the information under the second pillar economic activity in the euro area remained subdued around the turn of the year as suggested by recently published data and survey information
+2003-02-06;2003;February;REPORT;Positive;0.8828888535499573;these indications are broadly in line with previous expectations which suggest a gradual increase starting in the second half of the year in real gdp growth rates to levels close to potential
+2003-02-06;2003;February;REPORT;Positive;0.9921780228614807;whereas the appreciation of the euro over recent months may contribute to dampening export growth to some extent the price competitiveness of euro area companies remains favourable in a mediumterm perspective and export growth should benefit from the expected recovery of the world economy
+2003-02-06;2003;February;REPORT;Neutral;0.9836925268173218;therefore recent exchange rate movements should not fundamentally affect the main scenario for the economic outlook
+2003-02-06;2003;February;REPORT;Negative;0.9681268334388733;at the same time several factors contributing to the general climate of uncertainty are still in place
+2003-02-06;2003;February;REPORT;Negative;0.9862733483314514;in particular investors remain risk averse against the background of ongoing geopolitical tension
+2003-02-06;2003;February;REPORT;Negative;0.9871721863746643;further turbulence in the oil markets could have a negative impact on economic activity throughout the world and thereby also on euro area employment
+2003-02-06;2003;February;REPORT;Negative;0.9931851029396057;these concerns are also weighing on consumer confidence
+2003-02-06;2003;February;REPORT;Negative;0.9931564927101135;finally the accumulated macroeconomic imbalances give rise to uncertainty about the strength of the recovery in other major economies
+2003-02-06;2003;February;REPORT;Negative;0.9933383464813232;taken together there remain downside risks to the outlook for euro area economic activity
+2003-02-06;2003;February;REPORT;Neutral;0.9528113007545471;considering price developments according to eurostats flash estimate annual hicp inflation decreased to 21 in january 2003 from 23 in the previous month
+2003-02-06;2003;February;REPORT;Neutral;0.9377325773239136;as usual these estimates are subject to uncertainty and there is no precise breakdown available as yet
+2003-02-06;2003;February;REPORT;Negative;0.9904994368553162;however it appears that compensating factors played a role on the one hand there was upward pressure from the recent hike in oil prices and from various increases in indirect taxes and administered prices at the beginning of 2003 on the other hand the strengthening of the euro and benign base effects are dampening consumer price increases
+2003-02-06;2003;February;REPORT;Positive;0.9144218564033508;these two latter factors should also help to further reduce annual rates of hicp inflation over the next few months
+2003-02-06;2003;February;REPORT;Negative;0.9772447943687439;however given the high volatility in oil markets shortterm forecasts for hicp inflation are currently subject to a particularly high degree of uncertainty
+2003-02-06;2003;February;REPORT;Positive;0.9822633862495422;beyond the immediate future the gradual passthrough of the appreciation of the euro together with the expected moderate improvement in economic growth should reduce inflationary pressures
+2003-02-06;2003;February;REPORT;Negative;0.8761491179466248;the most likely outcome remains that inflation will fall and eventually stabilise at a level below 2 in the course of 2003 a major condition for price stability to also prevail in the medium term will be moderate wage developments
+2003-02-06;2003;February;REPORT;Positive;0.9897985458374023;wage moderation would also help improve the prospects for economic growth and further employment creation
+2003-02-06;2003;February;REPORT;Negative;0.9653893709182739;it is therefore of particular importance that the upward trend in wage growth finally comes to a halt
+2003-02-06;2003;February;REPORT;Negative;0.9887925982475281;however the indications for this are still mixed despite weak economic activity throughout last year
+2003-02-06;2003;February;REPORT;Negative;0.8741979002952576;as for fiscal policy the framework laid down in the treaty and the stability and growth pact limits the risk of fiscal imbalances occurring and therefore contributes significantly to favourable financing conditions for the private sector
+2003-02-06;2003;February;REPORT;Positive;0.4908379316329956;at the same time it allows an appropriate mediumterm orientation of fiscal policy which fosters confidence and thereby growth
+2003-02-06;2003;February;REPORT;Neutral;0.8867666125297546;in order to fully reap the benefits of this framework it is important that countries respect its objectives and implement appropriate consolidation plans where needed
+2003-02-06;2003;February;REPORT;Neutral;0.9823692440986633;hence the commitments made in the stability programmes and the requests to further improve fiscal positions as subsequently agreed in the ecofin council must be met in full
+2003-02-06;2003;February;REPORT;Negative;0.7613945603370667;these benefits would be magnified if the underlying policy measures were part of a comprehensive reform strategy to support economic growth
+2003-02-06;2003;February;REPORT;Positive;0.9641232490539551;it is in fact the implementation of structural reforms at the micro level that ultimately raises the production potential improves flexibility in the economy and makes the euro area more resilient to external shocks
+2003-02-06;2003;February;REPORT;Negative;0.9937147498130798;clearly lack of progress in structural reform is one of the key factors currently hampering a recovery in confidence
+2003-02-06;2003;February;REPORT;Neutral;0.9866935610771179;therefore the governing council welcomes a recent communication by the commission on the implementation of the broad economic policy guidelines
+2003-02-06;2003;February;REPORT;Positive;0.5427821278572083;it emphasises the need to step up the pace of labour market reform to achieve the lisbon objectives to fully implement the internal market and to enhance competition in product markets as well as to foster capital market integration entrepreneurship a knowledgebased economy and research and development
+2003-02-06;2003;February;REPORT;Neutral;0.9762444496154785;we fully share the commissions assessment that policy inertia and backtracking are widespread
+2003-02-06;2003;February;REPORT;Positive;0.9711297154426575;against this background renewed momentum in the process of structural reform will be crucial to foster confidence among consumers and investors
+2003-02-06;2003;February;REPORT;Negative;0.9202549457550049;transcript of the questions asked and the answers given by dr willem f duisenberg president of the ecb dr lucas papademos vicepresident of the ecb question given the fact that the inflation rate looks benign and that there are still downside risks to growth which impediments do you have to cutting rates
+2003-02-06;2003;February;REPORT;Negative;0.8998886346817017;duisenberg the impediments to cutting rates at this moment are the big uncertainties that still surround the figures that you mentioned
+2003-02-06;2003;February;REPORT;Negative;0.9810228943824768;the uncertainties relating to oil prices the geopolitical uncertainties and well let me say this we were afraid that if one were to cut at this moment it would be a drop that would drown in the sea of uncertainties
+2003-02-06;2003;February;REPORT;Neutral;0.9096742868423462;question mr duisenberg could you comment on whether you think this is the time for eu leaders to select an alternate candidate to succeed you given that mr trichet has not yet been cleared on the trial
+2003-02-06;2003;February;REPORT;Neutral;0.9635905623435974;and secondly would you also comment on a study that the ecb staff is conducting on the erm what are the purposes of this study and when will it be completed
+2003-02-06;2003;February;REPORT;Neutral;0.8688425421714783;duisenberg on the first i will not comment
+2003-02-06;2003;February;REPORT;Neutral;0.9701874256134033;all i can say is that i have written my usual letter to mr solana requesting him to set in motion the process of appointing or nominating a successor to both ms hämäläinen and me
+2003-02-06;2003;February;REPORT;Neutral;0.9484736323356628;that is all i can say about this at this moment
+2003-02-06;2003;February;REPORT;Neutral;0.9049035310745239;a special study on erm is not on the cards at this moment
+2003-02-06;2003;February;REPORT;Neutral;0.8612931966781616;we know enough about erm ii
+2003-02-06;2003;February;REPORT;Neutral;0.9801218509674072;what we do know is that at the ecofin in the course of the coming months ministers intend to pay some attention to the functioning of erm ii in relation to the accession of ten new members to the european union
+2003-02-06;2003;February;REPORT;Neutral;0.9922851324081421;and upon accession these new members will by treaty agree that the exchange rate is a matter of common interest as treaty language says
+2003-02-06;2003;February;REPORT;Neutral;0.981438398361206;therefore we are contemplating this issue as well rather than studying it
+2003-02-06;2003;February;REPORT;Neutral;0.7595440745353699;we have had enough studies i believe
+2003-02-06;2003;February;REPORT;Neutral;0.8883043527603149;question just a followup on that answer to the first question would you actually go so far as to say that the threat of war in iraq effectively puts a brake on any policy action by the ecb until that whole situation is resolved
+2003-02-06;2003;February;REPORT;Neutral;0.7612850069999695;and secondly the greek central bank governor the other day said that foreign exchange market intervention in general is futile and i was wondering if you would agree with that comment
+2003-02-06;2003;February;REPORT;Neutral;0.8786423206329346;duisenberg well as i have learned  as have you i believe  on foreign exchange interventions i will keep my mouth shut so i will say nothing about it
+2003-02-06;2003;February;REPORT;Negative;0.9733417630195618;on the first the geopolitical situation is one of the factors of grave and great uncertainty in the world
+2003-02-06;2003;February;REPORT;Neutral;0.8147303462028503;i would not go as far as your suggestion might imply that that uncertainty would have to be out of the way before we could do anything
+2003-02-06;2003;February;REPORT;Neutral;0.890396237373352;we can do anything we want whenever we want
+2003-02-06;2003;February;REPORT;Neutral;0.704344630241394;question mr duisenberg could you elaborate a little bit more on forex markets and the euro
+2003-02-06;2003;February;REPORT;Negative;0.9475126266479492;is the strong euro an issue of concern and is the speed of the appreciation of concern for you
+2003-02-06;2003;February;REPORT;Negative;0.7787396907806396;duisenberg well it is a not a matter of concern
+2003-02-06;2003;February;REPORT;Neutral;0.688982367515564;first of all the euro has for some weeks now been fluctuating around a level against the dollar of around 108 which is still slightly below the average level of the euro in the two years preceding the introduction of the euro
+2003-02-06;2003;February;REPORT;Positive;0.9633965492248535;so it still reflects we think a healthy competitive position which has not been undermined by the recent nominal appreciation
+2003-02-06;2003;February;REPORT;Negative;0.8669784665107727;question mr president you mentioned that it is difficult to predict the effects of what you refer to as geopolitical developments on the economy
+2003-02-06;2003;February;REPORT;Neutral;0.8718341588973999;but i am wondering if you have attempted to assess the economic impact on the euro zone of a war in iraq and if you have how you have attempted to do that and what conclusions you have drawn
+2003-02-06;2003;February;REPORT;Negative;0.9246695637702942;and secondly i would like to ask you to what extent the failure of european leaders to find a common position on iraq is contributing to the sea of uncertainty that you mentioned
+2003-02-06;2003;February;REPORT;Neutral;0.8610963821411133;duisenberg on the latter highly political question we have not considered that
+2003-02-06;2003;February;REPORT;Neutral;0.951699435710907;i am reporting here on the outcome of the governing councils considerations so i cannot comment on that either
+2003-02-06;2003;February;REPORT;Neutral;0.967158317565918;on the first part we have internally in the ecb viewed various scenarios where you have to make assumptions if there is a war how long will it last
+2003-02-06;2003;February;REPORT;Neutral;0.7389547228813171;what will the repercussions be
+2003-02-06;2003;February;REPORT;Neutral;0.9659796953201294;but that was not even ripe enough may i say to present to the governing council let alone to you
+2003-02-06;2003;February;REPORT;Negative;0.6599757075309753;question is it not a little bit late
+2003-02-06;2003;February;REPORT;Neutral;0.7265406847000122;are things not at a state of some urgency where perhaps you ought to have got it ready by now
+2003-02-06;2003;February;REPORT;Neutral;0.9327074885368347;duisenberg no because you have to consider various alternatives if there is to be a war
+2003-02-06;2003;February;REPORT;Neutral;0.9769480228424072;you have to consider the alternative that there will be no war
+2003-02-06;2003;February;REPORT;Neutral;0.8093637228012085;the alternative that it will be a very short war
+2003-02-06;2003;February;REPORT;Neutral;0.5765740275382996;the alternative that it will be a prolonged war
+2003-02-06;2003;February;REPORT;Neutral;0.9575067162513733;all these hypothetical things we all of course keep thinking about them
+2003-02-06;2003;February;REPORT;Neutral;0.9626509547233582;but to take this into consideration when today making decisions on interest rates would be to go too far
+2003-02-06;2003;February;REPORT;Neutral;0.6911647915840149;question just touching on the euro again
+2003-02-06;2003;February;REPORT;Neutral;0.7390760779380798;because both mr welteke and mr solbes recently have expressed concern not so much with the exchange rate of the euro but the speed of its appreciation
+2003-02-06;2003;February;REPORT;Negative;0.9440746307373047;in other words that it has gone too far too fast
+2003-02-06;2003;February;REPORT;Negative;0.970465898513794;do you share this concern that such volatility is ultimately not a good thing for the economy
+2003-02-06;2003;February;REPORT;Negative;0.8495984673500061;and just another question do you feel that the downside risks to growth have increased compared to four weeks ago
+2003-02-06;2003;February;REPORT;Negative;0.9819615483283997;duisenberg volatility is always bad
+2003-02-06;2003;February;REPORT;Neutral;0.6716535687446594;and we prefer stability to volatility
+2003-02-06;2003;February;REPORT;Neutral;0.7796557545661926;but i would emphasise that the behaviour of the exchange rate over recent months has not been all that volatile
+2003-02-06;2003;February;REPORT;Negative;0.5152153968811035;effectively the movements were quite limited
+2003-02-06;2003;February;REPORT;Neutral;0.9807164072990417;the largest movement we have seen was from the beginning of mr powells speech and towards the end of mr powells speech yesterday
+2003-02-06;2003;February;REPORT;Neutral;0.9846009612083435;towards the end of the speech the euro was back to where it was at the beginning of the speech
+2003-02-06;2003;February;REPORT;Negative;0.9417853951454163;but that is the largest amount of volatility we have seen in many weeks and therefore neither the speed and certainly not the degree of socalled volatility  which was not much  is a cause of concern for us
+2003-02-06;2003;February;REPORT;Neutral;0.5490108728408813;turning to the downside risks we already took these into account in our decision to lower interest rates by 50 basis points in december
+2003-02-06;2003;February;REPORT;Neutral;0.7718410491943359;we publicly said that this step in december was somewhat larger than one could have otherwise anticipated because of the downside risks we saw emerging then
+2003-02-06;2003;February;REPORT;Negative;0.8074755668640137;those downside risks have certainly not disappeared since then
+2003-02-06;2003;February;REPORT;Negative;0.9563321471214294;i am inclined to say they have been exacerbated over recent months
+2003-02-06;2003;February;REPORT;Neutral;0.5749304890632629;so they are still there but they were not unexpected
+2003-02-06;2003;February;REPORT;Neutral;0.8245316743850708;question mr president could you elaborate a little bit on your projections you made in december
+2003-02-06;2003;February;REPORT;Neutral;0.8610236048698425;how has your view changed since that time
+2003-02-06;2003;February;REPORT;Neutral;0.9274170994758606;when does the growth rate recover to the potential growth rate
+2003-02-06;2003;February;REPORT;Neutral;0.6470873355865479;will we have to wait until next year instead of the second half of this year
+2003-02-06;2003;February;REPORT;Neutral;0.9620533585548401;duisenberg our socalled baseline scenario which we presented in december is still unchanged
+2003-02-06;2003;February;REPORT;Negative;0.9873736500740051;the risks to the downside have increased
+2003-02-06;2003;February;REPORT;Neutral;0.9801850318908691;we will have new forecasts internally in the course of this spring
+2003-02-06;2003;February;REPORT;Negative;0.6223904490470886;and i will not be surprised if they have to be slightly revised downwards
+2003-02-06;2003;February;REPORT;Neutral;0.8572495579719543;but we are not certain yet
+2003-02-06;2003;February;REPORT;Neutral;0.9769573211669922;for the time being we stick to our main scenario which is that we will have a moderate resumption of growth especially in the course of the second half of this year and that we will be at or close to the potential rate of growth towards the end of this year
+2003-02-06;2003;February;REPORT;Negative;0.9029440879821777;question could one say that there is a loosening bias now in the monetary policy
+2003-02-06;2003;February;REPORT;Neutral;0.944538414478302;duisenberg i do not like the expression bias in the monetary policy
+2003-02-06;2003;February;REPORT;Negative;0.5981429815292358;but you can read from my introductory statement that whereas on the one hand i repeated what i said last month that the monetary policy stance is appropriate i also added the words that for the time being we still assume that the high degree of uncertainty will decline in the course of this year
+2003-02-06;2003;February;REPORT;Negative;0.9762969613075256;from that you can infer some increased uncertainty also on our side
+2003-02-06;2003;February;REPORT;Neutral;0.829769492149353;question mr president the markets are calling the euro a safe haven these days
+2003-02-06;2003;February;REPORT;Neutral;0.8255455493927002;would you say that the perception of the euro on the markets has changed fundamentally when you look at these comments and that the euro might now be able to take over some of the safe haven prominence from the dollar or is this more of a shortterm thing going on
+2003-02-06;2003;February;REPORT;Neutral;0.8355743288993835;duisenberg to say that things have fundamentally changed we need more fundamental evidence and we need more time to assess
+2003-02-06;2003;February;REPORT;Negative;0.9281322956085205;what is a curious thing let me put it that way is that  when in the past there was geopolitical uncertainty as we now euphemistically call it  the dollar was the safe haven for the world
+2003-02-06;2003;February;REPORT;Neutral;0.910222053527832;now it weighs on the dollar rather than boosts it
+2003-02-06;2003;February;REPORT;Neutral;0.9219048619270325;and that is the difference from past experience
+2003-02-06;2003;February;REPORT;Neutral;0.9803913831710815;it would go beyond a responsible answer if i already drew conclusions from that in the direction of safe haven functions
+2003-02-06;2003;February;REPORT;Neutral;0.8812090754508972;but what we do see is that there is an increased i am also inclined to use the word appreciation an increased value judgement on the part of many investors in the world including central banks to regard the euro as an attractive alternative to invest your funds in as compared with other currencies
+2003-02-06;2003;February;REPORT;Negative;0.9613966941833496;question do you think that an additional appreciation of the euro could represent on the one hand a problem or a danger for economic growth and on the other hand could not create additional and substantial benefits to the further dampening of inflation
+2003-02-06;2003;February;REPORT;Neutral;0.908104419708252;duisenberg well i do not like to answer speculative or hypothetical questions
+2003-02-06;2003;February;REPORT;Negative;0.8917794227600098;so far it is not a danger
+2003-02-06;2003;February;REPORT;Neutral;0.87551349401474;it is having  over time  a helpful effect to keep inflation down or to contain inflationary pressures
+2003-02-06;2003;February;REPORT;Positive;0.585002601146698;and so far it has not undermined the competitive position of europe and the direction of course in which the exchange rates are moving are a help in correcting the major imbalances that exist worldwide
+2003-02-06;2003;February;REPORT;Negative;0.6006331443786621;question president duisenberg would you say that the dampening effect of the rise in the euro will increase or has it been unchanged in recent weeks or has it decreased a little bit
+2003-02-06;2003;February;REPORT;Negative;0.6586028933525085;my second question is at the last press conference you said that you did not expect a contraction in first quarter gdp
+2003-02-06;2003;February;REPORT;Negative;0.6537032127380371;now that you have more economic data is that still the case
+2003-02-06;2003;February;REPORT;Negative;0.5178585648536682;duisenberg last question yes that is still the case
+2003-02-06;2003;February;REPORT;Neutral;0.9655091166496277;and we have to reckon with the effect that it takes a lot longer for exchange rate movements to work their way through into domestic price developments than it takes oil price increases to work their way into domestic price rises
+2003-02-06;2003;February;REPORT;Neutral;0.8981019258499146;so the time lags between the two are significantly different and the impact of the recent appreciation in the value of the euro let us say since 1 january still has to work its way through
+2003-02-06;2003;February;REPORT;Neutral;0.876643180847168;but it will work its way through into further domestic price developments
+2003-02-06;2003;February;REPORT;Neutral;0.8569322824478149;question translation what is your reaction to the criticism by ministers of the rotation model suggested by the governing council
+2003-02-06;2003;February;REPORT;Neutral;0.9488281011581421;secondly what is the state of the verification of the strategy
+2003-02-06;2003;February;REPORT;Neutral;0.9755502343177795;when will the result be published
+2003-02-06;2003;February;REPORT;Neutral;0.9698259830474854;maybe in june when you publish your halfyearly report
+2003-02-06;2003;February;REPORT;Neutral;0.9889650344848633;and a general question on the projections the experts will start work in march but the previous assumptions were usd 099 as the euro exchange rate an oil price of usd 26 and an interest rate of 325
+2003-02-06;2003;February;REPORT;Neutral;0.9542396068572998;what is the current state of your assessment with regard to the old projections and the value of publishing such outdated projections
+2003-02-06;2003;February;REPORT;Neutral;0.7478471994400024;duisenberg to the critics of the rotation model that we unanimously agreed on in the governing council and that we have presented to the european council in the composition of heads of state and government well i am almost inclined to say i still have to meet someone including myself who is unconditionally happy with the outcome
+2003-02-06;2003;February;REPORT;Neutral;0.8905598521232605;but as you know we had to meet quite a number of criteria to make the new system robust transparent and simple and it is not simple after all
+2003-02-06;2003;February;REPORT;Neutral;0.8790900707244873;you cannot fulfil all these conditions simultaneously
+2003-02-06;2003;February;REPORT;Neutral;0.7985752820968628;but we did preserve a few very important principles
+2003-02-06;2003;February;REPORT;Neutral;0.9882681965827942;first the rotation model only relates to the frequency with which member states or individuals in the governing council take part in the vote if there is a vote
+2003-02-06;2003;February;REPORT;Neutral;0.9792627096176147;second for the vote itself we maintained the principle of one man one vote
+2003-02-06;2003;February;REPORT;Negative;0.7075168490409851;that for us was of extreme importance
+2003-02-06;2003;February;REPORT;Neutral;0.8980578184127808;now i am also very happy to say that if i listen to the criticisms i hear them coming equally from large and small countries
+2003-02-06;2003;February;REPORT;Neutral;0.5181052088737488;had it been onesided then i would have been concerned but now that it comes from all sides i think that that helps me
+2003-02-06;2003;February;REPORT;Neutral;0.9768009185791016;and i challenge anyone  and that includes all ministers  to come up with a model that is as transparent as equitable and as simple as the one we have come up with
+2003-02-06;2003;February;REPORT;Neutral;0.506923258304596;and therefore my indications are that in the end our proposal is very likely to prevail
+2003-02-06;2003;February;REPORT;Neutral;0.9878848195075989;we have started with our staff  by which i mean the staff of the ecb and all ncbs  to undertake an evaluation of our monetary policy strategy
+2003-02-06;2003;February;REPORT;Neutral;0.9625095725059509;as i have indicated it is about time after five years of experience with the current strategy
+2003-02-06;2003;February;REPORT;Neutral;0.9536222815513611;and i can in no way indicate what the outcome of that evaluation is ultimately going to be
+2003-02-06;2003;February;REPORT;Neutral;0.9878054857254028;as far as the timetable is concerned i read somewhere that it will be decided whilst i was still president and it would be published on the first day of the new presidents term of office
+2003-02-06;2003;February;REPORT;Neutral;0.917531430721283;that was news to me there is no such timetable
+2003-02-06;2003;February;REPORT;Neutral;0.9805874824523926;we think in the governing council that we will complete this evaluation in the course of the spring and as soon as we have completed it we will publish it
+2003-02-06;2003;February;REPORT;Neutral;0.9063674807548523;as for the projections i cannot say at the moment the issue is in full swing at staff level and of course the underlying assumptions have to be changed
+2003-02-06;2003;February;REPORT;Neutral;0.9859150648117065;the exchange rate has changed and interest rates have changed since the last projections were made
+2003-02-06;2003;February;REPORT;Neutral;0.9561133980751038;of course these factors will be taken into account but precisely how and how much it is impossible for me to answer that at this point
+2003-02-06;2003;February;REPORT;Neutral;0.9489436745643616;question i would like to ask you if you have been in contact with the bank of england today and why you came to other conclusions than the bank of england today
+2003-02-06;2003;February;REPORT;Negative;0.6618369817733765;is one of the reasons that the british government is much nearer in the iraq conflict to the united states than the rest of europe is
+2003-02-06;2003;February;REPORT;Neutral;0.8458855152130127;duisenberg well maybe you have already given the answer yourself
+2003-02-06;2003;February;REPORT;Neutral;0.9515953660011292;if the question is have you been in contact the answer is yes
+2003-02-06;2003;February;REPORT;Neutral;0.9097856879234314;and not only today
+2003-02-06;2003;February;REPORT;Neutral;0.8819394111633301;and why did they come to different conclusions
+2003-02-06;2003;February;REPORT;Neutral;0.8205763697624207;they are a different economy
+2003-02-06;2003;February;REPORT;Neutral;0.8715824484825134;and i explained why we came to the conclusions as we did
+2003-02-06;2003;February;REPORT;Neutral;0.9370375871658325;i am not going to comment on the conclusions that another major central bank reached in quite a different situation
+2003-02-06;2003;February;REPORT;Neutral;0.9893291592597961;but if i may make one comment i would like to emphasise that our main interest rates are currently at 2ï½
+2003-02-06;2003;February;REPORT;Neutral;0.7778699398040771;they brought theirs down today from 4 to 3ï½
+2003-02-06;2003;February;REPORT;Neutral;0.8354335427284241;and that is something of a difference as well
+2003-02-06;2003;February;REPORT;Negative;0.49439337849617004;question mr president you mention various factors of uncertainty but do you regret the current additional uncertainty on your policy regarding your successor and the fate of mr trichet in france
+2003-02-06;2003;February;REPORT;Neutral;0.8927788138389587;and what do you wish in this context
+2003-02-06;2003;February;REPORT;Negative;0.9023621678352356;duisenberg i wish as little uncertainty as possible
+2003-02-06;2003;February;REPORT;Negative;0.9440760016441345;but then of course i regret that this process in general terms is dragging on for such a long time
+2003-02-06;2003;February;REPORT;Negative;0.8130712509155273;that is never good
+2003-02-06;2003;February;REPORT;Neutral;0.9387937188148499;not for the person not for the institutions that he represents not for the issues that he and i are concerned with or are busy working on
+2003-02-06;2003;February;REPORT;Neutral;0.9167147278785706;for that reason i would hope that this long drawnout process will be over sooner rather than later
+2003-02-06;2003;February;REPORT;Neutral;0.9326806664466858;question this is a question for whichever of you prefers to answer
+2003-02-06;2003;February;REPORT;Neutral;0.8075478076934814;based on what i have heard today it sounds like you discussed the arguments for and against cutting rates at this meeting
+2003-02-06;2003;February;REPORT;Neutral;0.8584786057472229;is this a true statement
+2003-02-06;2003;February;REPORT;Neutral;0.9354559779167175;duisenberg that is a true statement
+2003-02-06;2003;February;REPORT;Neutral;0.7537205815315247;question how strong was the consensus for leaving the rates unchanged
+2003-02-06;2003;February;REPORT;Positive;0.9458299279212952;duisenberg very strong
+2003-02-06;2003;February;REPORT;Neutral;0.8839651942253113;question mr duisenberg let me ask you about a suggestion from the far east
+2003-02-06;2003;February;REPORT;Neutral;0.9722520112991333;the japanese ministry of finance is suggesting having some sort of collaboration in the market on a reflation policy
+2003-02-06;2003;February;REPORT;Neutral;0.9559487700462341;i would like to have your judgement and do you think you will have any chance to talk about such an idea at the next g7 meeting in paris
+2003-02-06;2003;February;REPORT;Neutral;0.9387359023094177;duisenberg yes i will have a chance to discuss those matters
+2003-02-06;2003;February;REPORT;Neutral;0.9817201495170593;not only at the next g7 meeting but already next sunday when all the asian governors meet with some governors from other continents in sydney in australia
+2003-02-06;2003;February;REPORT;Neutral;0.9390238523483276;question and your judgement of such an idea
+2003-02-06;2003;February;REPORT;Neutral;0.9495453238487244;duisenberg well as you know our mandate our aim is to keep inflation below 2 but above 0
+2003-02-06;2003;February;REPORT;Neutral;0.9225043654441833;now in the japanese case you are very close to 0
+2003-02-06;2003;February;REPORT;Negative;0.5153957605361938;therefore i can imagine that both the fiscal and the monetary authorities are thinking about means to get a little bit further away from that zero inflation environment which is close to deflation
+2003-02-06;2003;February;REPORT;Neutral;0.8555960059165955;question i know that you both were very engaged in finding a good proposal for the ecb for the reform of the voting rights
+2003-02-06;2003;February;REPORT;Positive;0.9653725624084473;and you have been doing a good job making a european monetary policy
+2003-02-06;2003;February;REPORT;Neutral;0.643665075302124;so it is very difficult to understand for someone like me that even after four years the council approves of a model that has a lot of national elements
+2003-02-06;2003;February;REPORT;Neutral;0.9234738349914551;so why was it not possible to really find a european approach
+2003-02-06;2003;February;REPORT;Neutral;0.9733972549438477;there are good approaches where the decisions would depend on persons on qualified persons and not on small and big nations
+2003-02-06;2003;February;REPORT;Neutral;0.5693336725234985;why did you fail
+2003-02-06;2003;February;REPORT;Negative;0.7336570024490356;for me it was a failure
+2003-02-06;2003;February;REPORT;Negative;0.9822928309440613;and it was a disappointing failure really
+2003-02-06;2003;February;REPORT;Neutral;0.9287168383598328;duisenberg because if you consider more radical approaches that basically would mean that the decisionmaking body or the voting body would be even smaller than it is today
+2003-02-06;2003;February;REPORT;Neutral;0.9839522242546082;today it consists of 18 governors  the governing council that is  all representing not their countries but being there in a personal capacity
+2003-02-06;2003;February;REPORT;Neutral;0.9895210266113281;if as the treaty foresees all european union members were members of the euro area that would take it to 21 to go to a smaller number would mean excluding some participants from taking part in the vote
+2003-02-06;2003;February;REPORT;Neutral;0.936958909034729;some countries also
+2003-02-06;2003;February;REPORT;Neutral;0.9475315809249878;now you could do that
+2003-02-06;2003;February;REPORT;Neutral;0.9503659009933472;but you do not become a member of a union with the prospect of having nothing to say about it
+2003-02-06;2003;February;REPORT;Neutral;0.9770824909210205;now our proposal does not exclude anybody from taking part in the discussions
+2003-02-06;2003;February;REPORT;Neutral;0.9766472578048706;everybody is entitled to take part in the discussions on monetary policy and all the other kinds of issues which we have to deal with
+2003-02-06;2003;February;REPORT;Neutral;0.9646132588386536;i admit that on the voting there is something that relates to the size of the countries participating
+2003-02-06;2003;February;REPORT;Neutral;0.8952638506889343;and if you now expand the governing council by at least ten members and in the nice treaty it is counted on that there might be 12 extra members which would then be 27 plus six of the executive board which makes 33 in that case there was a legitimate fear on behalf of especially the larger countries that they could easily  also on monetary policy  be outvoted by a majority representing  in aggregate terms  less than 34 of the enlarged euro area gdp
+2003-02-06;2003;February;REPORT;Negative;0.9811415076255798;that was a legitimate fear
+2003-02-06;2003;February;REPORT;Neutral;0.9819597005844116;the solution applies only to the voting frequency and not to the discussion participation which is free for all
+2003-02-06;2003;February;REPORT;Neutral;0.8513079285621643;so the influence is there
+2003-02-06;2003;February;REPORT;Neutral;0.9465086460113525;and the voting itself remains one man one vote without regard to nationality
+2003-02-06;2003;February;REPORT;Neutral;0.6085427403450012;papademos i think you explained this very well
+2003-02-06;2003;February;REPORT;Neutral;0.9083259105682373;perhaps i should add two points
+2003-02-06;2003;February;REPORT;Neutral;0.9338081479072571;as you mentioned earlier the relative complexity of the model reflects the fact that it aimed to be compatible with a number of criteria
+2003-02-06;2003;February;REPORT;Neutral;0.9752011299133301;and it primarily reflects the new structure the representativeness principle
+2003-02-06;2003;February;REPORT;Neutral;0.9801745414733887;and another point which you also touched upon is that it is often not realised that the voting in the governing council relates not only to issues of monetary policy but also to various other issues for which representation of the national central banks within a framework similar to the present one is warranted
+2003-02-06;2003;February;REPORT;Neutral;0.8578716516494751;duisenberg for example payment systems
+2003-02-06;2003;February;REPORT;Neutral;0.9101481437683105;this is one of the most important ones
+2003-02-06;2003;February;REPORT;Neutral;0.934926450252533;banknote production
+2003-02-06;2003;February;REPORT;Neutral;0.9860169291496277;papademos the decisions relate to the division of labour between the ecb and the ncbs
+2003-02-06;2003;February;REPORT;Neutral;0.9683871269226074;duisenberg minimum reserve requirements all instruments all technical requirements for executing monetary policy
+2003-02-06;2003;February;REPORT;Neutral;0.9842023849487305;contact european central bank directorate general communications sonnemannstrasse 20 60314 frankfurt am main germany 49 69 1344 7455 mediaecbeuropaeu reproduction is permitted provided that the source is acknowledged
+2003-02-06;2003;February;REPORT;Neutral;0.8690058588981628;media contacts

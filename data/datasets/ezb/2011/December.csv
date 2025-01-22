@@ -1,2 +1,312 @@
 Date;Year;Month;Type;sentiment;sentiment_score;sentence
-2011-12-08;2011;December;Monetary Policy Decisions;Neutral;0.9873742461204528;at todays meeting the governing council of the ecb took the following monetary policy decisions the interest rate on the main refinancing operations of the eurosystem will be decreased by 25 basis points to 100 starting from the operation to be settled on 14 december 2011 the interest rate on the marginal lending facility will be decreased by 25 basis points to 175 with effect from 14 december 2011 the interest rate on the deposit facility will be decreased by 25 basis points to 025 with effect from 14 december 2011 the president of the ecb will comment on the considerations underlying these decisions at a press conference starting at 230 pm cet today
+2011-12-08;2011;December;REPORT;Positive;0.5388301610946655;introductory statement to the press conference with qa mario draghi president of the ecbvítor constâncio vicepresident of the ecbfrankfurt am main 8 december 2011 jump to the transcript of the questions and answers ladies and gentlemen the vicepresident and i are very pleased to welcome you to our press conference
+2011-12-08;2011;December;REPORT;Neutral;0.9766031503677368;we will report on the outcome of todays meeting of the governing council
+2011-12-08;2011;December;REPORT;Neutral;0.8499515056610107;based on its regular economic and monetary analyses the governing council decided to lower the key ecb interest rates by 25 basis points following the 25 basis point decrease on 3 november 2011 inflation is likely to stay above 2 for several months to come before declining to below 2
+2011-12-08;2011;December;REPORT;Negative;0.9906190633773804;the intensified financial market tensions are continuing to dampen economic activity in the euro area and the outlook remains subject to high uncertainty and substantial downside risks
+2011-12-08;2011;December;REPORT;Negative;0.47925838828086853;in such an environment cost wage and price pressures in the euro area should remain modest over the policyrelevant horizon
+2011-12-08;2011;December;REPORT;Negative;0.93023282289505;at the same time the underlying pace of monetary expansion remains moderate
+2011-12-08;2011;December;REPORT;Neutral;0.9783283472061157;overall it is essential for monetary policy to maintain price stability over the medium term thereby ensuring a firm anchoring of inflation expectations in the euro area in line with our aim of maintaining inflation rates below but close to 2 over the medium term
+2011-12-08;2011;December;REPORT;Neutral;0.9838131666183472;such anchoring is a prerequisite for monetary policy to make its contribution towards supporting economic growth and job creation in the euro area
+2011-12-08;2011;December;REPORT;Neutral;0.9768261909484863;in its continued efforts to support the liquidity situation of euro area banks and following the coordinated central bank action on 30 november 2011 to provide liquidity to the global financial system the governing council today also decided to adopt further nonstandard measures
+2011-12-08;2011;December;REPORT;Positive;0.8728034496307373;these measures should ensure enhanced access of the banking sector to liquidity and facilitate the functioning of the euro area money market
+2011-12-08;2011;December;REPORT;Neutral;0.9835569858551025;they are expected to support the provision of credit to households and nonfinancial corporations
+2011-12-08;2011;December;REPORT;Neutral;0.984121561050415;in this context the governing council decided first to conduct two longerterm refinancing operations ltros with a maturity of 36 months and the option of early repayment after one year
+2011-12-08;2011;December;REPORT;Neutral;0.9845283627510071;the operations will be conducted as fixed rate tender procedures with full allotment
+2011-12-08;2011;December;REPORT;Neutral;0.9768344759941101;the rate in these operations will be fixed at the average rate of the main refinancing operations over the life of the respective operation
+2011-12-08;2011;December;REPORT;Neutral;0.9690313935279846;interest will be paid when the respective operation matures
+2011-12-08;2011;December;REPORT;Neutral;0.9450618624687195;the first operation will be allotted on 21 december 2011 and will replace the 12month ltro announced on 6 october 2011 second to increase collateral availability by reducing the rating threshold for certain assetbacked securities abs
+2011-12-08;2011;December;REPORT;Neutral;0.9789841771125793;in addition to the abs that are already eligible for eurosystem operations abs having a second best rating of at least single a in the eurosystem harmonised credit scale at issuance and at all times subsequently and the underlying assets of which comprise residential mortgages and loans to small and mediumsized enterprises will be eligible for use as collateral in eurosystem credit operations
+2011-12-08;2011;December;REPORT;Neutral;0.9830105304718018;moreover national central banks will be allowed as a temporary solution to accept as collateral additional performing credit claims namely bank loans that satisfy specific eligibility criteria
+2011-12-08;2011;December;REPORT;Neutral;0.9839388728141785;the responsibility entailed in the acceptance of such credit claims will be borne by the national central bank authorising their use
+2011-12-08;2011;December;REPORT;Neutral;0.9896715879440308;these measures will take effect as soon as the relevant legal acts have been published
+2011-12-08;2011;December;REPORT;Neutral;0.9364768266677856;third to reduce the reserve ratio which is currently 2 to 1
+2011-12-08;2011;December;REPORT;Neutral;0.921091616153717;this will free up collateral and support money market activity
+2011-12-08;2011;December;REPORT;Neutral;0.9798629879951477;as a consequence of the full allotment policy applied in the ecbs main refinancing operations and the way banks are using this option the system of reserve requirements is not needed to the same extent as under normal circumstances to steer money market conditions
+2011-12-08;2011;December;REPORT;Neutral;0.9885948896408081;this measure will take effect as of the maintenance period starting on 18 january 2012 fourth to discontinue for the time being as of the maintenance period starting on 14 december 2011 the finetuning operations carried out on the last day of each maintenance period
+2011-12-08;2011;December;REPORT;Neutral;0.975697934627533;this is a technical measure to support money market activity
+2011-12-08;2011;December;REPORT;Neutral;0.9335808753967285;a detailed press release will be published at 330 pm today on the ecbs website
+2011-12-08;2011;December;REPORT;Neutral;0.9910258650779724;as stated on previous occasions all the nonstandard monetary policy measures are by construction temporary in nature
+2011-12-08;2011;December;REPORT;Neutral;0.935492992401123;let me now explain our assessment in greater detail starting with the economic analysis
+2011-12-08;2011;December;REPORT;Neutral;0.9514346122741699;real gdp in the euro area grew by 02 quarter on quarter in the third quarter of 2011 unchanged from the previous quarter
+2011-12-08;2011;December;REPORT;Negative;0.9945514798164368;evidence from survey data points to weaker economic activity in the fourth quarter of this year
+2011-12-08;2011;December;REPORT;Negative;0.9947139620780945;a number of factors seem to be dampening the underlying growth momentum in the euro area
+2011-12-08;2011;December;REPORT;Negative;0.9810055494308472;they include a moderation in the pace of global demand growth and unfavourable effects on overall financing conditions and on confidence resulting from ongoing tensions in euro area sovereign debt markets as well as the process of balance sheet adjustment in the financial and nonfinancial sectors
+2011-12-08;2011;December;REPORT;Positive;0.988269567489624;at the same time we expect euro area economic activity to recover albeit very gradually in the course of next year supported by resilient global demand very low shortterm interest rates and all the measures taken to support the functioning of the financial sector
+2011-12-08;2011;December;REPORT;Negative;0.9818841218948364;this assessment is also reflected in the december 2011 eurosystem staff macroeconomic projections for the euro area which foresee annual real gdp growth in a range between 15 and 17 in 2011 between 04 and 10 in 2012 and between 03 and 23 in 2013 compared with the september 2011 ecb staff macroeconomic projections there is a narrowing of the range of the real gdp growth projection for 2011 and a significant downward revision of the range for 2012 these revisions mainly reflect the impact on domestic demand of weaker confidence and worsening financing conditions stemming from the heightened uncertainty related to the sovereign debt crisis as well as downward revisions of foreign demand
+2011-12-08;2011;December;REPORT;Negative;0.9931418299674988;in the governing councils assessment substantial downside risks to the economic outlook for the euro area exist in an environment of high uncertainty
+2011-12-08;2011;December;REPORT;Negative;0.9877819418907166;downside risks notably relate to a further intensification of the tensions in euro area financial markets and their potential spillover to the euro area real economy
+2011-12-08;2011;December;REPORT;Negative;0.9877209067344666;downside risks also relate to the global economy which may be weaker than expected as well as to protectionist pressures and the possibility of a disorderly correction of global imbalances
+2011-12-08;2011;December;REPORT;Neutral;0.9923823475837708;with regard to price developments euro area annual hicp inflation was 30 in november according to eurostats flash estimate unchanged from the two previous months
+2011-12-08;2011;December;REPORT;Neutral;0.5502942204475403;inflation rates have been at elevated levels since the end of last year mainly driven by higher energy and other commodity prices
+2011-12-08;2011;December;REPORT;Neutral;0.7330886721611023;looking ahead they are likely to stay above 2 for several months to come before declining to below 2
+2011-12-08;2011;December;REPORT;Negative;0.9857143759727478;this pattern reflects the expectation that in an environment of weaker growth in the euro area and globally underlying cost wage and price pressures in the euro area should also remain modest
+2011-12-08;2011;December;REPORT;Neutral;0.9873555302619934;this assessment is also reflected in the december 2011 eurosystem staff macroeconomic projections for the euro area which foresee annual hicp inflation in a range between 26 and 28 for 2011 between 15 and 25 for 2012 and between 08 and 22 for 2013 compared with the september 2011 ecb staff macroeconomic projections the projection ranges for 2011 and 2012 have been revised slightly upwards
+2011-12-08;2011;December;REPORT;Positive;0.9395895004272461;this results from the upward impact of higher oil prices in euro terms as well as a higher contribution from indirect taxes
+2011-12-08;2011;December;REPORT;Positive;0.6595014929771423;the upward impact of these factors is expected to more than compensate the downward adjustments to profit margins and wage growth that are related to the downward revision of activity
+2011-12-08;2011;December;REPORT;Neutral;0.9854058027267456;the governing council continues to view the risks to the mediumterm outlook for price developments as broadly balanced
+2011-12-08;2011;December;REPORT;Negative;0.939950168132782;on the upside the main risks relate to further increases in indirect taxes and administered prices owing to the need for fiscal consolidation in the coming years
+2011-12-08;2011;December;REPORT;Negative;0.9863008260726929;the main downside risks relate to the impact of weaker than expected growth in the euro area and globally
+2011-12-08;2011;December;REPORT;Neutral;0.9251452088356018;turning to the monetary analysis the annual growth rate of m3 decreased to 26 in october 2011 after 30 in september
+2011-12-08;2011;December;REPORT;Neutral;0.9048832654953003;the annual growth rate of loans to the private sector adjusted for loan sales and securitisation increased to 30 in october compared with 27 in september
+2011-12-08;2011;December;REPORT;Negative;0.992284893989563;as in the previous two months the monetary data for october reflect the heightened uncertainty in financial markets
+2011-12-08;2011;December;REPORT;Neutral;0.9910711050033569;on the counterpart side the annual growth rates of loans to nonfinancial corporations and loans to households adjusted for loan sales and securitisation remained broadly unchanged in october at 23 and 25 respectively
+2011-12-08;2011;December;REPORT;Negative;0.9920023679733276;the unadjusted growth rates were lower owing to substantial securitisation activities in october
+2011-12-08;2011;December;REPORT;Negative;0.589827835559845;overall the figures on lending do not suggest that the heightened financial market tensions have significantly affected the supply of credit in the period to october
+2011-12-08;2011;December;REPORT;Neutral;0.8851276636123657;however given that credit supply effects can manifest themselves with lags close scrutiny of credit developments is warranted in the period ahead
+2011-12-08;2011;December;REPORT;Neutral;0.5008196234703064;taking the appropriate mediumterm perspective and looking through shortterm volatility overall the underlying pace of monetary expansion remains moderate
+2011-12-08;2011;December;REPORT;Neutral;0.5517979264259338;the soundness of bank balance sheets will be a key factor in reducing potential negative feedback loop effects related to tensions in financial markets thereby facilitating an appropriate provision of credit to the economy over time
+2011-12-08;2011;December;REPORT;Positive;0.9886732697486877;the agreement of the european council of 26 october to proceed with the increase in the capital position of banks to 9 of core tier 1 by the end of june 2012 should improve the euro area banking sectors resilience over the medium term
+2011-12-08;2011;December;REPORT;Neutral;0.859294593334198;in this respect it is essential that national supervisors ensure that the implementation of banks recapitalisation plans does not result in developments that are detrimental to the financing of economic activity in the euro area
+2011-12-08;2011;December;REPORT;Neutral;0.7879765033721924;to sum up inflation is likely to stay above 2 for several months to come before declining to below 2
+2011-12-08;2011;December;REPORT;Negative;0.9902307391166687;intensified financial market tensions are continuing to dampen economic activity in the euro area and the outlook remains subject to high uncertainty and substantial downside risks
+2011-12-08;2011;December;REPORT;Negative;0.5428363084793091;in such an environment price cost and wage pressures in the euro area should remain modest over the policyrelevant horizon
+2011-12-08;2011;December;REPORT;Neutral;0.7756780385971069;a crosscheck with the signals from the monetary analysis confirms this picture with the underlying pace of monetary expansion remaining moderate
+2011-12-08;2011;December;REPORT;Neutral;0.7965877056121826;turning to fiscal policies all euro area governments urgently need to do their utmost to support fiscal sustainability in the euro area as a whole
+2011-12-08;2011;December;REPORT;Neutral;0.9323282837867737;a new fiscal compact comprising a fundamental restatement of the fiscal rules together with the fiscal commitments that euro area governments have made is the most important precondition for restoring the normal functioning of financial markets
+2011-12-08;2011;December;REPORT;Neutral;0.985110878944397;policymakers need to correct excessive deficits and move to balanced budgets in the coming years by specifying and implementing the necessary adjustment measures
+2011-12-08;2011;December;REPORT;Positive;0.990373969078064;this will support public confidence in the soundness of policy actions and thus strengthen overall economic sentiment
+2011-12-08;2011;December;REPORT;Neutral;0.4266912341117859;to accompany fiscal consolidation the governing council has repeatedly called for bold and ambitious structural reforms
+2011-12-08;2011;December;REPORT;Positive;0.9894576668739319;going hand in hand fiscal consolidation and structural reforms would strengthen confidence growth prospects and job creation
+2011-12-08;2011;December;REPORT;Positive;0.9159039855003357;key reforms should be immediately carried out to help the euro area countries to improve competitiveness increase the flexibility of their economies and enhance their longerterm growth potential
+2011-12-08;2011;December;REPORT;Positive;0.9744636416435242;labour market reforms should focus on removing rigidities and enhancing wage flexibility
+2011-12-08;2011;December;REPORT;Positive;0.8203712701797485;product market reforms should focus on fully opening up markets to increased competition
+2011-12-08;2011;December;REPORT;Neutral;0.9366371035575867;transcript of the questions asked and the answers given by mario draghi president of the ecb and vítor constâncio vicepresident of the ecb    question you have mentioned again today this fiscal compact which we heard you mention for the first time earlier this month
+2011-12-08;2011;December;REPORT;Neutral;0.8911739587783813;i wonder if you could elaborate a little for us on what you meant when you said other elements would follow if the sequencing of those actions was correct
+2011-12-08;2011;December;REPORT;Neutral;0.9757817983627319;are these central bank elements
+2011-12-08;2011;December;REPORT;Neutral;0.9786640405654907;does that mean that the ecb will respond with significantly steppedup bond purchases for example if that fiscal compact was shown to be happening
+2011-12-08;2011;December;REPORT;Neutral;0.7837445735931396;my second question is on rates
+2011-12-08;2011;December;REPORT;Neutral;0.9312738180160522;was your decision today unanimous
+2011-12-08;2011;December;REPORT;Neutral;0.7486544251441956;and did you consider cutting more
+2011-12-08;2011;December;REPORT;Negative;0.8961783051490784;is there more room given the downside risks to the economy
+2011-12-08;2011;December;REPORT;Neutral;0.8948090076446533;draghi the answer to the first question is no
+2011-12-08;2011;December;REPORT;Neutral;0.9316868185997009;the answer to the second question is no
+2011-12-08;2011;December;REPORT;Neutral;0.8662036657333374;and the answer to the third question is we never precommit
+2011-12-08;2011;December;REPORT;Neutral;0.9131460785865784;so it is two noes and one never precommit
+2011-12-08;2011;December;REPORT;Neutral;0.9825300574302673;by the way i was kind of surprised by the implicit meaning that was given by not all of the press but some to that other elements will follow
+2011-12-08;2011;December;REPORT;Neutral;0.8579555153846741;let me step back and talk about the compact
+2011-12-08;2011;December;REPORT;Neutral;0.9818047881126404;a compact is an agreement fundamentally
+2011-12-08;2011;December;REPORT;Neutral;0.9612796902656555;one of my collaborators said that compact could also be read as community pact but that was not meant to be my initial suggestion
+2011-12-08;2011;December;REPORT;Neutral;0.931084930896759;a compact could be viewed as a threepillarconcept the first pillar is national economic policies geared to stability growth and job creation  fiscal stability growth and competitiveness and therefore job creation
+2011-12-08;2011;December;REPORT;Neutral;0.9885045886039734;the second pillar is rules at eu level or in any event rules fiscal rules enshrined in primary legislation
+2011-12-08;2011;December;REPORT;Neutral;0.8113059401512146;these rules would contain limits to structural deficits and to debt
+2011-12-08;2011;December;REPORT;Neutral;0.9831560850143433;these rules would be automatic and they would in a sense constrain ex ante because they are in the primary legislation budgets that are legislated in the secondary legislation
+2011-12-08;2011;December;REPORT;Neutral;0.9347813129425049;so one would certainly have ex post controls they are important they are essential but an ex ante constraint of an automatic nature would certainly increase the credibility of this redesign of the eu or the fiscal compact that is now in these very hours under discussion by the leaders
+2011-12-08;2011;December;REPORT;Neutral;0.9861771464347839;the third leg of this concept would be a stabilisation mechanism
+2011-12-08;2011;December;REPORT;Negative;0.9837586283683777;i always find it somewhat puzzling that this is actually where most of the attention is focused when we know that the lack of credibility or the lack of confidence stems from the other two from the lack of the other two pillars originally
+2011-12-08;2011;December;REPORT;Neutral;0.9856851100921631;my preference in respect of this stability mechanism  but this is my preference  is for the efsf the efsf first and the esm later to be fully equipped and operational and made operational as soon as possible
+2011-12-08;2011;December;REPORT;Neutral;0.9009073972702026;so sooner rather than later
+2011-12-08;2011;December;REPORT;Neutral;0.6219801902770996;question you are always mentioning the importance of having a budget in order and fiscal deficit and debt under control
+2011-12-08;2011;December;REPORT;Neutral;0.941690981388092;would you please comment on the last italian budget plans
+2011-12-08;2011;December;REPORT;Neutral;0.7064869403839111;what do you think
+2011-12-08;2011;December;REPORT;Neutral;0.878385603427887;is it enough is it sufficient should we do more
+2011-12-08;2011;December;REPORT;Positive;0.9376423358917236;draghi i think the developments in italy have been very encouraging
+2011-12-08;2011;December;REPORT;Positive;0.9880680441856384;it is a budget which is certainly important and would certainly strengthen confidence
+2011-12-08;2011;December;REPORT;Neutral;0.9430681467056274;further measures will need to follow geared to growth and competitiveness
+2011-12-08;2011;December;REPORT;Neutral;0.8527327179908752;of course the essence is in the delivery these measures have been now legislated but the process of legislation and implementation of these measures is still under way
+2011-12-08;2011;December;REPORT;Neutral;0.8168094158172607;question mr draghi my question relates to mr van rompuys draft proposal circulated yesterday
+2011-12-08;2011;December;REPORT;Neutral;0.9669682383537292;in berlin the reaction was rather cool and they said that this is a typical example of a lazy compromise of typical brussels trickery
+2011-12-08;2011;December;REPORT;Neutral;0.7271901965141296;in your opinion are the van rompuy proposals bold and ambitious enough
+2011-12-08;2011;December;REPORT;Neutral;0.8560073971748352;and secondly it was quite clear from berlin that they would not support the efsf and the esm running in parallel at any point
+2011-12-08;2011;December;REPORT;Neutral;0.8840599656105042;your views
+2011-12-08;2011;December;REPORT;Neutral;0.9178304672241211;draghi i do not want to enter into these matters which are the competence of the leaders
+2011-12-08;2011;December;REPORT;Neutral;0.9288451671600342;i think i made it clear what view the ecb has of these fiscal rules
+2011-12-08;2011;December;REPORT;Neutral;0.899977445602417;the question of what is legally the best way to implement them is really a matter for lawyers
+2011-12-08;2011;December;REPORT;Neutral;0.9274158477783203;i would stress one thing it is very important to have a credible legal process but it is also equally important to have something in place soon
+2011-12-08;2011;December;REPORT;Neutral;0.8749240040779114;i think these two features ought to be very much at the forefront of our minds  the credibility of the legal instrument and also the speed at which this is going to become a reality
+2011-12-08;2011;December;REPORT;Neutral;0.9230693578720093;question mr draghi speaking in parliament you also emphasised that the ecb would ensure price stability in both directions
+2011-12-08;2011;December;REPORT;Negative;0.9623660445213318;does that mean that there is a fear of deflation
+2011-12-08;2011;December;REPORT;Neutral;0.9539756178855896;my second question is from a purely legal point of view do you think there is any limitation on the ecb regarding the amount of government bonds that can be bought as long as it can be justified on the basis of monetary policy considerations
+2011-12-08;2011;December;REPORT;Negative;0.9482242465019226;draghi at the present time we do not see a high probability of deflation
+2011-12-08;2011;December;REPORT;Neutral;0.9470449686050415;that is one point to keep in mind
+2011-12-08;2011;December;REPORT;Neutral;0.9879127144813538;the second point is as i have said many times that the purpose of the smp is to reactivate the transmission channels of monetary policy
+2011-12-08;2011;December;REPORT;Neutral;0.9498609900474548;as i said in the statement to the european parliament the smp is neither eternal nor infinite
+2011-12-08;2011;December;REPORT;Neutral;0.9362788200378418;we must keep this in mind and we do not want to circumvent article 123 of the treaty which prohibits the monetary financing of governments
+2011-12-08;2011;December;REPORT;Neutral;0.9166278839111328;question there has been a lot of speculation that the ecb could somehow help the struggling countries in the euro zone through third parties whether by lending money to the imf or by lending money to the efsf with the efsf getting a banking licence
+2011-12-08;2011;December;REPORT;Neutral;0.9805846214294434;are you open to those types of mechanisms that would channel ecb money to countries in the euro zone
+2011-12-08;2011;December;REPORT;Negative;0.9652274250984192;and my second question is given that it appears that in the countries having the most economic trouble inflation has not fallen very much what makes you so confident that a slower economy  through some kind of output gap maybe  would actually lead to lower inflation
+2011-12-08;2011;December;REPORT;Negative;0.6522959470748901;because there does not seem to be a whole lot of evidence in the last couple of years that this is been happening
+2011-12-08;2011;December;REPORT;Neutral;0.9436662793159485;draghi as regards your first question do not forget that the ecb is not a member of the imf
+2011-12-08;2011;December;REPORT;Neutral;0.9387284517288208;more generally as i just said the mechanism by which money is being channelled to the european countries should not obscure the fact that we have a treaty which says there should be no monetary financing of governments
+2011-12-08;2011;December;REPORT;Neutral;0.6551216840744019;the issue of whether the imf could be used as a channel is legally very complex
+2011-12-08;2011;December;REPORT;Neutral;0.8682363629341125;but the need to respect the spirit of the treaty should always be present in our minds
+2011-12-08;2011;December;REPORT;Neutral;0.721990704536438;on the second point what makes us sure that the inflation profile will gradually decline below 2 by the end of next year
+2011-12-08;2011;December;REPORT;Neutral;0.8676939010620117;well you gave part of the answer
+2011-12-08;2011;December;REPORT;Neutral;0.9435356259346008;the other part is that at the present time inflation is higher because of indirect taxes energy prices and commodity prices
+2011-12-08;2011;December;REPORT;Neutral;0.7629241347312927;and according to our projections it should decline by the end of next year
+2011-12-08;2011;December;REPORT;Neutral;0.6231189966201782;question have you had any heavy discussion about the rate cut
+2011-12-08;2011;December;REPORT;Neutral;0.9842067956924438;last time it was a board member mr jürgen stark who made a proposal and brought it into the governing council
+2011-12-08;2011;December;REPORT;Neutral;0.8269760012626648;has he done that again
+2011-12-08;2011;December;REPORT;Neutral;0.9549031257629395;draghi it was a lively discussion  and one should not abuse the word lively because we are central bank governors after all
+2011-12-08;2011;December;REPORT;Neutral;0.976159930229187;opinions were divided not in terms of the substance but in terms of the timing
+2011-12-08;2011;December;REPORT;Neutral;0.8471053242683411;it was a majority decision
+2011-12-08;2011;December;REPORT;Neutral;0.8918435573577881;question mr draghi my first question is in terms of where the money market is now it feels like the postlehman era plus xxl
+2011-12-08;2011;December;REPORT;Neutral;0.6144866347312927;how does it feel to you
+2011-12-08;2011;December;REPORT;Neutral;0.7715226411819458;is the money market more clogged up than we saw postlehman or is it a similar situation
+2011-12-08;2011;December;REPORT;Neutral;0.9254344701766968;secondly when you read the headlines of the past few weeks there is more and more talk of a break up
+2011-12-08;2011;December;REPORT;Neutral;0.9642242193222046;there are contingency plans for companies and contingency plans for governments
+2011-12-08;2011;December;REPORT;Negative;0.775641143321991;i for one am scared when i hear the euro being talked to bits
+2011-12-08;2011;December;REPORT;Negative;0.6228166818618774;do you not fear that something can become a selffulfilling prophecy simply because more and more people talk about it
+2011-12-08;2011;December;REPORT;Negative;0.8653334975242615;the paper currency is something which is built on confidence ultimately and confidence is a very fragile beast
+2011-12-08;2011;December;REPORT;Neutral;0.5246686935424805;draghi the answer to your second question is that in the end what matters are facts rather than a negative psychology that is selffulfilling
+2011-12-08;2011;December;REPORT;Negative;0.9507858753204346;and the facts are that if the leaders make substantial progress on the establishment of this new eu contract we will see confidence returning and what looks like a spiral of selffulfilling negative sentiment will stop
+2011-12-08;2011;December;REPORT;Neutral;0.9429816007614136;i do not think it is useful to speculate about break ups or such things
+2011-12-08;2011;December;REPORT;Negative;0.8240405321121216;because in spite of everything that seems quite farfetched at this point in time
+2011-12-08;2011;December;REPORT;Neutral;0.9476523399353027;on your other question there are certain symptoms for example the use of the deposit facility is now at a level which is not dissimilar to what we had after lehman
+2011-12-08;2011;December;REPORT;Neutral;0.9540656805038452;this means that in spite of the substantial significant liquidity that the ecb has injected so far a lot of this liquidity is redeposited with the ecb so it does not circulate
+2011-12-08;2011;December;REPORT;Neutral;0.8562808036804199;also we are observing a deleveraging process by the banks which is now very significant
+2011-12-08;2011;December;REPORT;Negative;0.9888970255851746;all these developments can be explained by saying that there are funding pressures and there are pressures to raise capital ratios
+2011-12-08;2011;December;REPORT;Neutral;0.9738965034484863;and to some extent the measures that we have presented today are meant to address the funding pressures in particular
+2011-12-08;2011;December;REPORT;Positive;0.8674015402793884;the wider use of collateral the lengthening of the term funding should give confidence and should give certainty to the funding profiles of the banking system at a time when next year is going to be a year when lots of bonds mature
+2011-12-08;2011;December;REPORT;Neutral;0.9724144339561462;in the first quarter alone something in the order of 230 billion of bank bonds will mature
+2011-12-08;2011;December;REPORT;Neutral;0.8745480179786682;the idea of lengthening the term funding in our liquidity facilities is also to see whether we can keep the banking system liquid in the presence of serious strains
+2011-12-08;2011;December;REPORT;Negative;0.9180441498756409;question you have made several appeals for fiscal adjustment but today you lowered substantially your projections for growth in 2012 are you worried that this could become a vicious circle whereby a slowdown or a recession could require even bigger adjustment and this will then feed on itself and aggravate the recession whereas the measures that you also advocate which are structural reforms typically take a longer time to come into force and to have an impact on the economy
+2011-12-08;2011;December;REPORT;Neutral;0.7766745686531067;draghi let me start by saying that this fiscal consolidation is unavoidable because the situation we are observing would otherwise be unsustainable so we do not have much of a choice here
+2011-12-08;2011;December;REPORT;Negative;0.9073565006256104;the second point is that it is true that fiscal consolidations are contractionary in the short term
+2011-12-08;2011;December;REPORT;Neutral;0.9560787081718445;the next question to ask is what can be done to attenuate or offset this contractionary effect
+2011-12-08;2011;December;REPORT;Neutral;0.5054353475570679;well one channel relates to the confidenceenhancing effect that these fiscal consolidation measures have
+2011-12-08;2011;December;REPORT;Neutral;0.9878876209259033;however we know that in the present situation this confidenceenhancing effect depends on at least two factors first it requires that national economic policies be geared towards fiscal stability and second it is linked to the progress made on designing the new european fiscal rules fiscal setup or fiscal compact
+2011-12-08;2011;December;REPORT;Positive;0.6825725436210632;we are aware of this and that is why we always say that the structural reforms are essential for enhancing competitiveness job creation and growth
+2011-12-08;2011;December;REPORT;Neutral;0.9749091863632202;there is one reason why it is so important to do this because having a fiscal contraction induces in the short term a contractionary effect on growth but if you enhance competitiveness at the same time you can actually count on the external demand on your net exports
+2011-12-08;2011;December;REPORT;Neutral;0.7945207953453064;so we have cases of countries which are undergoing a very significant fiscal consolidation but in fact manage to keep their growth rate at levels that countries without competitiveness are not able to maintain
+2011-12-08;2011;December;REPORT;Neutral;0.951366126537323;question why is it so impossible for the ecb to act like the other central banks like the federal reserve system or the bank of england
+2011-12-08;2011;December;REPORT;Neutral;0.7829846143722534;why do you not act more directly to help european countries by buying up the debt on a massive scale
+2011-12-08;2011;December;REPORT;Neutral;0.9629000425338745;draghi as i said before we have a treaty and the treaty states what our primary mandate is namely to maintain price stability
+2011-12-08;2011;December;REPORT;Neutral;0.9178641438484192;also the treaty prohibits monetary financing
+2011-12-08;2011;December;REPORT;Neutral;0.5899972319602966;i am old enough to remember that when this treaty was written in the early 1990s some of the countries around that table were actually doing what you suggest doing now namely some of the central banks of these countries were financing the government expenditure of their governments through money creation and the consequences were there for all of us to see
+2011-12-08;2011;December;REPORT;Neutral;0.9629429578781128;that is why in a sense this treaty embodies the best tradition of the deutsche bundesbank whereby monetary financing has always been prohibited
+2011-12-08;2011;December;REPORT;Neutral;0.9191831350326538;question first just to go back to the question about money being channelled through the imf does the answer you gave earlier mean that if there were a discussion about the possibility of national central banks lending bilaterally to the imf the ecbs governing council would seek to block that on legal grounds  because you are legally allowed to do that
+2011-12-08;2011;December;REPORT;Neutral;0.929302453994751;second again going back to an earlier response we do appreciate your brevity but sometimes you are a bit too brief when you said other elements may follow in your speech at the european parliament at least some of us thought that this was implying a response from the ecb
+2011-12-08;2011;December;REPORT;Neutral;0.9783763885498047;i would like to ask you specifically if the governing council has discussed the idea of putting a cap or a limit on bond yields or on bond spreads in the interest of ensuring the functioning of monetary policy
+2011-12-08;2011;December;REPORT;Neutral;0.8986624479293823;draghi the answer to the second question is no we did not discuss that
+2011-12-08;2011;December;REPORT;Neutral;0.6933370232582092;with regard to the first question the point here is that it is legally complex but upholding the spirit of the treaty means that one cannot channel money in a way that circumvents the treaty provisions
+2011-12-08;2011;December;REPORT;Neutral;0.9402521252632141;so for example if national central banks wanted to lend to the imf and then the imf lent to indonesia china that would be fine
+2011-12-08;2011;December;REPORT;Neutral;0.9731214046478271;but if the imf were to use this money exclusively to buy bonds in the euro area we do not think that this would be compatible with the treaty
+2011-12-08;2011;December;REPORT;Neutral;0.9728488326072693;when i referred to the other elements what i meant to say was that the other parts of the fiscal compact will fall into place much more easily once the fiscal rules are enacted and are in place
+2011-12-08;2011;December;REPORT;Neutral;0.9086384177207947;question i think from here you are going to brussels to participate in the socalled frankfurt format and expectations are very high with you being considered as the key player in the brussels summit
+2011-12-08;2011;December;REPORT;Neutral;0.961976170539856;therefore i would like to know what you perceive your role to be in the summit tonight and tomorrow
+2011-12-08;2011;December;REPORT;Neutral;0.8639749884605408;second as several of my colleagues have already mentioned there is the expectation that  if conditions are met at the summit  the ecb might beef up its crisis response in one way or another
+2011-12-08;2011;December;REPORT;Neutral;0.8825229406356812;is this entirely wrong or is there a possibility that the ecb may take additional measures and should we perhaps expect a conference call on sunday in which this might be decided and announced
+2011-12-08;2011;December;REPORT;Neutral;0.956336259841919;draghi i am trying to get to brussels but as there are no flights available i think i will participate in the dinner there tonight and in the summit tomorrow
+2011-12-08;2011;December;REPORT;Neutral;0.4843945801258087;as regards your second point i think the ecb has a very important role to play as the guardian of stability
+2011-12-08;2011;December;REPORT;Positive;0.9232625961303711;the other process is eminently political during these very hours the fiscal agreement is being redesigned in such a way as to rebuild confidence in the euro area
+2011-12-08;2011;December;REPORT;Neutral;0.9721806049346924;we have our own ideas our own views and we have collaborated in this process
+2011-12-08;2011;December;REPORT;Neutral;0.9673529267311096;however the ultimate decisions are really in the hands of the leaders and this is how it should be because in the end they will bear the political responsibility for these decisions
+2011-12-08;2011;December;REPORT;Neutral;0.5210585594177246;question and might the ecb beef up its actions
+2011-12-08;2011;December;REPORT;Neutral;0.5497045516967773;draghi no we never discussed anything like that question mr president i have a question on the imminent release of the banking stress test results this evening
+2011-12-08;2011;December;REPORT;Neutral;0.9246365427970886;do you anticipate that this will be the end of the matter
+2011-12-08;2011;December;REPORT;Neutral;0.9639784693717957;will it be the final recapitalisation round or do you anticipate that this is just a process that we are going to have to get used to
+2011-12-08;2011;December;REPORT;Neutral;0.961602509021759;draghi the decisions to undertake this exercise were taken at a time when the overall conditions were very different from what they are today
+2011-12-08;2011;December;REPORT;Neutral;0.9749153256416321;i think that the european banking authority eba is aware of this and that the announcement will contain elements which will respond to your questions in a reassuring way
+2011-12-08;2011;December;REPORT;Negative;0.5029780268669128;however i would say that you will have to wait for the ebas announcement first
+2011-12-08;2011;December;REPORT;Neutral;0.9543183445930481;i do not want to comment on things that have not yet been published
+2011-12-08;2011;December;REPORT;Neutral;0.8005611300468445;question a related question
+2011-12-08;2011;December;REPORT;Neutral;0.8836870789527893;you mentioned the requirement that banks raise their capital ratio to 9
+2011-12-08;2011;December;REPORT;Neutral;0.7281218767166138;i am just trying to get you to be a little bit more specific
+2011-12-08;2011;December;REPORT;Negative;0.5602702498435974;are you saying that this is illtimed
+2011-12-08;2011;December;REPORT;Negative;0.9662609696388245;is there a conflict between banks raising their capital now and continuing to provide credit to the economy
+2011-12-08;2011;December;REPORT;Neutral;0.826892614364624;draghi no in a sense that is the same question
+2011-12-08;2011;December;REPORT;Neutral;0.9105525016784668;as i was saying the conditions in which this exercise is now being undertaken are very different
+2011-12-08;2011;December;REPORT;Neutral;0.97041916847229;we want to make absolutely sure that this process does not aggravate the credit tightening that is taking place at the moment
+2011-12-08;2011;December;REPORT;Neutral;0.9509240388870239;it is important that banks raise their capital ratio but they should do so in a way that will not induce a reduction in lending
+2011-12-08;2011;December;REPORT;Negative;0.7673047184944153;this is certainly not an easy task at this point in time and we are aware of that
+2011-12-08;2011;December;REPORT;Positive;0.7494153380393982;in a sense the additional measures announced today are meant to channel financing to the real economy to help the banking industry and the financial services industry to keep lending and avoid credit tightening at a time when they are experiencing serious funding pressures
+2011-12-08;2011;December;REPORT;Neutral;0.9863787889480591;the broader use of collateral is meant to attract banks that at present do not have access to the refinancing facilities namely small and mediumsized banks
+2011-12-08;2011;December;REPORT;Neutral;0.9541225433349609;and they are often the banks that finance the small and mediumsized enterprises
+2011-12-08;2011;December;REPORT;Neutral;0.9746178388595581;just as a reminder small and mediumsized enterprises account for about 60 of euro area employment which is why the governing council views these measures as very important
+2011-12-08;2011;December;REPORT;Neutral;0.8517431616783142;question i have another question about the smp
+2011-12-08;2011;December;REPORT;Neutral;0.7977345585823059;do you think there is a limit to the smp at which the amount of the smp will be problematic to sterilise since there was a small problem about it two weeks ago and we do not really know why
+2011-12-08;2011;December;REPORT;Neutral;0.9293584823608398;draghi it was a fact that was interpreted in many different ways
+2011-12-08;2011;December;REPORT;Neutral;0.9666464328765869;one may have some amounts that are not sterilised immediately
+2011-12-08;2011;December;REPORT;Neutral;0.8783310651779175;it happened six times in 80 operations
+2011-12-08;2011;December;REPORT;Neutral;0.6360164880752563;does that mean that this amount stays unsterilised
+2011-12-08;2011;December;REPORT;Neutral;0.730603814125061;no
+2011-12-08;2011;December;REPORT;Neutral;0.9717392325401306;in fact the amount that was unsterilised at the time was sterilised in the following days
+2011-12-08;2011;December;REPORT;Negative;0.8910639882087708;so we ought to be reassured about this
+2011-12-08;2011;December;REPORT;Neutral;0.9752702713012695;sterilisation of the smp is one of the preconditions for having this programme as you all remember
+2011-12-08;2011;December;REPORT;Neutral;0.9551534056663513;but there may be technical aspects that sometimes do not ensure the complete sterilisation immediately
+2011-12-08;2011;December;REPORT;Neutral;0.689996600151062;question my question actually follows up my colleagues question about the sterilisation
+2011-12-08;2011;December;REPORT;Neutral;0.8927207589149475;do you not think that over the long run you would run into some sort of sterilisation trap because i think you now have to absorb 207 billion every week
+2011-12-08;2011;December;REPORT;Negative;0.9542324542999268;the bonds you are holding have probably been running a long time so over the long run there should be some sort of problem
+2011-12-08;2011;December;REPORT;Neutral;0.9208194613456726;and secondly you have mentioned article 123 in the treaty
+2011-12-08;2011;December;REPORT;Neutral;0.9643665552139282;would you consider active buying at around the time certain instruments are issued to be something that would be state financing and would you regard that as being against ecb law
+2011-12-08;2011;December;REPORT;Neutral;0.9580770134925842;draghi on the first issue we are aware of the technical complexities that would arise with the smp having an infinite size but we will think about this
+2011-12-08;2011;December;REPORT;Neutral;0.9577007293701172;as for the other question one can construct many different cases
+2011-12-08;2011;December;REPORT;Neutral;0.8921300768852234;but as i said before the key thing is that we should not try to circumvent the spirit of the treaty
+2011-12-08;2011;December;REPORT;Neutral;0.9461244344711304;no matter what the legal trick is i think what matters for the people and what matters for the confidence and credibility of the institution is the spirit of this provision of the treaty
+2011-12-08;2011;December;REPORT;Neutral;0.6977607011795044;question mr draghi is there still this taboo that the ecb will not cut interest rates below 1 and secondly no amount of rate cuts will really allow the euro area to avoid a credit crunch unless banks are really convinced that euro area bonds are not toxic
+2011-12-08;2011;December;REPORT;Neutral;0.8933638334274292;so what can you do or what are you planning on doing about this
+2011-12-08;2011;December;REPORT;Neutral;0.8566634654998779;draghi on the first question i would answer that we never precommit
+2011-12-08;2011;December;REPORT;Negative;0.9927489161491394;on the second one the rate cuts are meant to address a situation where you have weaker global growth different conditions  worse conditions overall  and heightened uncertainty
+2011-12-08;2011;December;REPORT;Negative;0.988030731678009;so overall a domestic economy which is weakening
+2011-12-08;2011;December;REPORT;Neutral;0.960392951965332;i would not use the word toxic for euro area bonds
+2011-12-08;2011;December;REPORT;Neutral;0.9554933905601501;i think the present stress conditions are mostly due to what i said before ie
+2011-12-08;2011;December;REPORT;Negative;0.9814503192901611;the lack of the first two pillars of this compact
+2011-12-08;2011;December;REPORT;Neutral;0.9402245283126831;one  the national economic policies  is gradually falling into place as we have seen in the last two weeks in various countries
+2011-12-08;2011;December;REPORT;Positive;0.5702446103096008;but we certainly have to see more improvement on that front
+2011-12-08;2011;December;REPORT;Neutral;0.9312286376953125;and the second pillar which is the eu redesign of the compact is what is happening now
+2011-12-08;2011;December;REPORT;Neutral;0.8718372583389282;lets see
+2011-12-08;2011;December;REPORT;Negative;0.6805798411369324;question you were speaking about unanimity or the lack of it
+2011-12-08;2011;December;REPORT;Neutral;0.7632067203521729;what was the outcome of the decision as far as standard measures are concerned
+2011-12-08;2011;December;REPORT;Positive;0.9786466956138611;the ecb always suggests that cutting expenditure is better than increasing taxes
+2011-12-08;2011;December;REPORT;Neutral;0.6960110068321228;if we relate this to the italian measures which have been taken would you agree that there is a necessity for more expenditure cuts and less tax
+2011-12-08;2011;December;REPORT;Neutral;0.7591097950935364;how many economies are commenting on this
+2011-12-08;2011;December;REPORT;Neutral;0.9645292162895203;draghi on the first question if you read the press statement you will see that the measures that have been decided are broad and complex
+2011-12-08;2011;December;REPORT;Neutral;0.9729505181312561;there are a variety of measures of which the interest rate cut is only one
+2011-12-08;2011;December;REPORT;Neutral;0.9298065900802612;so like the measures that were approved the discussion was broad and complex
+2011-12-08;2011;December;REPORT;Neutral;0.7206792235374451;and it would be unthinkable to have unanimity on nine or ten different measures
+2011-12-08;2011;December;REPORT;Neutral;0.8659945726394653;on the second point i have said before that what we have to do to attenuate mitigate or even offset growth contraction comes from fiscal contraction
+2011-12-08;2011;December;REPORT;Neutral;0.862455427646637;and there is a confidence effect that i have elaborated on before as well as structural reforms and obviously the composition of the fiscal contraction is also important
+2011-12-08;2011;December;REPORT;Negative;0.970112681388855;question mr draghi you have said that inflation might come down and the only problem might be commodity prices
+2011-12-08;2011;December;REPORT;Neutral;0.8173600435256958;would you say that monetary policy has no impact on commodity prices
+2011-12-08;2011;December;REPORT;Positive;0.4751207232475281;and a second question regarding the summit the markets have great expectations that france and germany will deliver something big
+2011-12-08;2011;December;REPORT;Neutral;0.5162730813026428;what do you think would happen were they not to deliver something that big
+2011-12-08;2011;December;REPORT;Neutral;0.5421402454376221;draghi well commodity prices energy prices and indirect taxes are all factors that we view as declining later on or as oneoff factors
+2011-12-08;2011;December;REPORT;Neutral;0.971416711807251;that is why we have this profile that says that inflation should decrease by the end of next year
+2011-12-08;2011;December;REPORT;Positive;0.9601894617080688;as regards my expectations i am very optimistic because i want to see something in place  it is essential that this summit delivers progress
+2011-12-08;2011;December;REPORT;Negative;0.5958067178726196;of course it is easy for me to say but i do not think we should refrain from hoping for great progress towards common fiscal rules
+2011-12-08;2011;December;REPORT;Neutral;0.9419593811035156;and rules that  as i was saying before  control ex ante secondary legislation and budgetary legislation
+2011-12-08;2011;December;REPORT;Neutral;0.9456300735473633;rules of the kind i explained before
+2011-12-08;2011;December;REPORT;Positive;0.7642959952354431;so i really wish our leaders all the best and the ecb is here
+2011-12-08;2011;December;REPORT;Neutral;0.9785929918289185;this does not mean that the ecb will respond by the way
+2011-12-08;2011;December;REPORT;Neutral;0.6374174952507019;question two very quick questions
+2011-12-08;2011;December;REPORT;Neutral;0.7111474275588989;you have said that you do not want to violate the spirit of the treaty
+2011-12-08;2011;December;REPORT;Neutral;0.9187583327293396;would you say then that the majority of the governing council members might actually simply advocate changing the treaty in order to stop circumventing it
+2011-12-08;2011;December;REPORT;Neutral;0.874774694442749;and secondly as far as the future of the euro is concerned would you not say that it was prudent to create some sort of contingency plan for a potential breakup of the euro area
+2011-12-08;2011;December;REPORT;Neutral;0.8600382804870605;draghi i will respond to the second question first
+2011-12-08;2011;December;REPORT;Neutral;0.883251965045929;it is thoroughly imprudent to create contingency plans where we see no likelihood of such events happening
+2011-12-08;2011;December;REPORT;Neutral;0.9515819549560547;on the first question we do not discuss the treaty
+2011-12-08;2011;December;REPORT;Neutral;0.8527873158454895;we comply with laws we do not discuss laws
+2011-12-08;2011;December;REPORT;Neutral;0.9495715498924255;we do not push we comply with legislation we do not discuss legislation
+2011-12-08;2011;December;REPORT;Neutral;0.9734674096107483;incidentally i have been told that i should say something about the ecbs acting
+2011-12-08;2011;December;REPORT;Neutral;0.9543595910072327;there is one decision that the governing council has taken that was not covered in my introductory statement
+2011-12-08;2011;December;REPORT;Neutral;0.9831992983818054;the governing council of the ecb has decided that it is prepared to act as an agent for the efsf
+2011-12-08;2011;December;REPORT;Neutral;0.9812705516815186;the governing council has given approval for the ecb to act as an agent for the efsf in its market operations
+2011-12-08;2011;December;REPORT;Neutral;0.973954975605011;this follows a request by the efsf
+2011-12-08;2011;December;REPORT;Neutral;0.9809702038764954;so the ecb will prepare technically in order to be able to intervene in bond markets for and on behalf of the efsf
+2011-12-08;2011;December;REPORT;Neutral;0.9730764627456665;the technical preparations will be launched without delay and should be completed within a few weeks
+2011-12-08;2011;December;REPORT;Neutral;0.8315465450286865;this again is a statement delivered in order to dispel the impression that the efsf will never see the light of day
+2011-12-08;2011;December;REPORT;Neutral;0.9702407121658325;obviously this does not involve our balance sheet as we will act as an agent
+2011-12-08;2011;December;REPORT;Neutral;0.8185604810714722;question my first question is on interest rates
+2011-12-08;2011;December;REPORT;Neutral;0.9438994526863098;is it your intention that banks should pass on interest rate cuts to their borrowers
+2011-12-08;2011;December;REPORT;Negative;0.5273735523223877;and do you think that banks which are being supported by the ecb should be compelled to pass on interest rate cuts to their borrowers
+2011-12-08;2011;December;REPORT;Negative;0.5341247320175171;draghi it is clear that the expectation is that lower interest rates will be passed on in the form of lower credit costs
+2011-12-08;2011;December;REPORT;Neutral;0.9513761401176453;for some credit operations this will happen automatically
+2011-12-08;2011;December;REPORT;Neutral;0.9832837581634521;for example in many countries you have mortgages that are indexed to the ecbs policy rate
+2011-12-08;2011;December;REPORT;Neutral;0.9725148677825928;so for these mortgages the passthrough is immediate
+2011-12-08;2011;December;REPORT;Neutral;0.6994789838790894;but there are certainly other sides to this issue
+2011-12-08;2011;December;REPORT;Neutral;0.9891091585159302;question you said a moment ago that it would not be ok if euro area national central banks lent to the imf in order to lend to other euro area countries but it would be ok if they lent to china or indonesia
+2011-12-08;2011;December;REPORT;Negative;0.9836327433586121;this seems a little odd when the problems are so apparent
+2011-12-08;2011;December;REPORT;Neutral;0.9802684187889099;i just want you to reflect on the fact that around the world people are heaping expectations on this institution and on you personally and that quantitative easing in its full form has been a normal thing at the bank of england and the federal reserve
+2011-12-08;2011;December;REPORT;Neutral;0.8757583498954773;why is it that you cannot or will not do that
+2011-12-08;2011;December;REPORT;Neutral;0.6259179711341858;do you really think that the bank of england and the federal reserve are monetising their debts
+2011-12-08;2011;December;REPORT;Neutral;0.9683241844177246;draghi i think that each central bank has its institutional setup within which it operates
+2011-12-08;2011;December;REPORT;Neutral;0.9551312327384949;the ecb operates within the limits of the treaty and i said a moment ago what our primary mandate is and especially what the treaty says the ecb cannot do
+2011-12-08;2011;December;REPORT;Negative;0.9293184280395508;i think any central bank is constrained by its institutional setup
+2011-12-08;2011;December;REPORT;Neutral;0.9370617866516113;in the united states as you know the primary mandate of the federal reserve is completely different from ours
+2011-12-08;2011;December;REPORT;Neutral;0.9732196927070618;and the same is true of the bank of england
+2011-12-08;2011;December;REPORT;Neutral;0.8929561972618103;question mr draghi can you clarify whether anyone on the governing council called for a 50 basis point cut
+2011-12-08;2011;December;REPORT;Neutral;0.82844477891922;draghi no we did not discuss that
+2011-12-08;2011;December;REPORT;Neutral;0.9518004655838013;we discussed only what has been announced
+2011-12-08;2011;December;REPORT;Neutral;0.9071903824806213;some were in favour and some were not in favour
+2011-12-08;2011;December;REPORT;Neutral;0.9842023849487305;contact european central bank directorate general communications sonnemannstrasse 20 60314 frankfurt am main germany 49 69 1344 7455 mediaecbeuropaeu reproduction is permitted provided that the source is acknowledged
+2011-12-08;2011;December;REPORT;Neutral;0.8690058588981628;media contacts

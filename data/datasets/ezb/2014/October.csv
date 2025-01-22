@@ -1,0 +1,334 @@
+Date;Year;Month;Type;sentiment;sentiment_score;sentence
+2014-10-26;2014;October;REPORT;Neutral;0.8221943974494934;transcript of the comprehensive assessment press conference with qa vítor constâncio vicepresident of the ecb and danièle nouy chair of the supervisory board of the single supervisory mechanism ssmfrankfurt am main 26 october 2014 jump to the transcript of the questions and answers vítor constâncio vicepresident of the ecb welcome to this press conference about the results of the comprehensive assessment
+2014-10-26;2014;October;REPORT;Neutral;0.9041719436645508;and at the start let me make four points
+2014-10-26;2014;October;REPORT;Neutral;0.9460993409156799;the first one is to underline that the comprehensive assessment has unique features
+2014-10-26;2014;October;REPORT;Neutral;0.8959181308746338;namely it combines an asset quality review with a macro stress test which indeed is a very unique feature
+2014-10-26;2014;October;REPORT;Neutral;0.9876515865325928;second it disclosed a very detailed methodology called manuals for both components of the exercise and for the respective quality control of banks reporting
+2014-10-26;2014;October;REPORT;Neutral;0.9838472008705139;third the implementation of the exercise involved many thousands of experts including about 5000 independent private firms
+2014-10-26;2014;October;REPORT;Neutral;0.981153130531311;more than 800 individual portfolios were in the scope of the exercise representing almost 60 of total riskweighted assets of the banks and implying the analysis of credit of 119000 borrowers of the banks
+2014-10-26;2014;October;REPORT;Neutral;0.9360290169715881;and fourth the exercise provides with unprecedented transparency a vast array of data from banks balance sheets and from the final results
+2014-10-26;2014;October;REPORT;Neutral;0.8383800983428955;the massive nature of the exercise deserves to be acknowledged
+2014-10-26;2014;October;REPORT;Neutral;0.5496503710746765;and its results are credible because they stem from an accurate methodology from a rigorous implementation and from a demanding central quality control of the results
+2014-10-26;2014;October;REPORT;Negative;0.6775075793266296;the second point i wanted to make is that the conclusion of the exercise was preceded by a significant amount of frontloaded measures taken by the banks
+2014-10-26;2014;October;REPORT;Positive;0.9626870155334473;since july last year ssm banks have undertaken various measures to strengthen their balance sheets by more than 200 billion including 60 billion of capital increases
+2014-10-26;2014;October;REPORT;Neutral;0.964238166809082;these frontloaded measures are part of the overall successful outcome of the exercise
+2014-10-26;2014;October;REPORT;Negative;0.5312842726707458;some of the measures taken in 2013 had an impact on what could be detected by the exercise and so reduced the results of the exercise accordingly
+2014-10-26;2014;October;REPORT;Neutral;0.8721225261688232;and some of the measures taken in 2014 count for the mitigation of the capital shortfalls that were found
+2014-10-26;2014;October;REPORT;Positive;0.6967052221298218;third point the comprehensive assessment provides the ecb ssm with substantial information on the banks that will fall under its direct supervision and will help its efforts in creating a level playing field for supervision in the future
+2014-10-26;2014;October;REPORT;Negative;0.6835423707962036;and fourth the repairing of the banks balance sheets that will follow the results and the resilience revealed by the vast majority of the banks in spite of the severity of the exercise guarantee that the economic recovery will not be hampered by credit supply restrictions coming from the banking sector provided that there is enough aggregate demand
+2014-10-26;2014;October;REPORT;Neutral;0.9225709438323975;i will now go through the slides
+2014-10-26;2014;October;REPORT;Neutral;0.9600141048431396;let me underline the main results of the exercise
+2014-10-26;2014;October;REPORT;Neutral;0.9802104830741882;a total of 25 billion capital shortfalls were identified across 25 participating banks as a joint result of the aqr and the stress test
+2014-10-26;2014;October;REPORT;Neutral;0.9793562293052673;the aqr itself resulted in a gross impact on asset values in need of adjustment by 48 billion 37 billion of which did not generate a capital shortfall
+2014-10-26;2014;October;REPORT;Neutral;0.9837672710418701;so if you add up the 37 billion with the 25 billion shortfall you get the overall impact on the banks of 62 billion coming from the comprehensive assessment
+2014-10-26;2014;October;REPORT;Neutral;0.9694316983222961;this you can compare with the expectations in the market
+2014-10-26;2014;October;REPORT;Neutral;0.9737005233764648;i just quote two examples of publications by investment houses of september the more recent ones of two big investment banks
+2014-10-26;2014;October;REPORT;Neutral;0.9494510293006897;one made calculations for a sample of 37 banks and found that considering the measures already taken by the banks the shortfall would be zero and three banks would fail
+2014-10-26;2014;October;REPORT;Neutral;0.954102635383606;the other one considered a sample of 34 banks and concluded that taking into account the capital measures taken by the banks in 2014 zero banks would fail and the capital shortfall would be zero
+2014-10-26;2014;October;REPORT;Neutral;0.9611178636550903;this compares with our result that out of the 25 12 banks have already taken measures in 2014 that are enough to cover their shortfall
+2014-10-26;2014;October;REPORT;Neutral;0.9255779981613159;but there are then 13 banks that still have either to exactly apply their restructuring downsizing as it is foreseen in their plans with the european commission or they will have to come up with ways to increase their capital
+2014-10-26;2014;October;REPORT;Neutral;0.9618462324142456;so this is an important explanation of the meaning of the results that we have
+2014-10-26;2014;October;REPORT;Neutral;0.9684397578239441;within the context of the exercise of the asset quality review the nonperforming exposures of the banks were increased by 136 billion out of which come of course the 48 billion that have to be adjusted
+2014-10-26;2014;October;REPORT;Negative;0.5346142649650574;another measure of the strictness of the exercise is given by the fact that the combination of the aqr with the stress test results in a drop in the median capital ratio of the banks of 4 percentage points which is higher than in previous exercises
+2014-10-26;2014;October;REPORT;Neutral;0.9217678308486938;and in terms of billions this means that the exercise leads to a decrease of 263 billion overall for all the banks out of which 25 billion corresponds to the capital shortfall meaning the banks that came below the threshold of 55
+2014-10-26;2014;October;REPORT;Neutral;0.9893929958343506;but this is a measure of the strictness of the exercise that it had such an impact on the balance sheet of the banks and its a usual measure of the impact of such types of exercises
+2014-10-26;2014;October;REPORT;Neutral;0.9422875046730042;but its also a measure of the resilience of the system because in spite of this drop of 263 billion the vast majority of banks stayed above 55 and were able to support such a shock and still have a capital ratio above the threshold
+2014-10-26;2014;October;REPORT;Neutral;0.9824615120887756;and let me underline that the threshold of 55 is well above the regulatory minimum because as you know the regulatory minimum for common equity capital ratio will be in 2018 45 so we have chosen a more demanding threshold
+2014-10-26;2014;October;REPORT;Neutral;0.7936369180679321;and most of the banks were able to resist such a drop in their capital and stay above the threshold
+2014-10-26;2014;October;REPORT;Neutral;0.9701203107833862;thats proof of the resilience of the system and at the same time proof of the strictness of the exercise
+2014-10-26;2014;October;REPORT;Neutral;0.9436923861503601;the distribution of this drop in the capital ratio you have in this slide
+2014-10-26;2014;October;REPORT;Neutral;0.9020713567733765;im not going to comment in detail
+2014-10-26;2014;October;REPORT;Neutral;0.9374403357505798;just to underline that 75 of the participating banks experienced a 0 to 6 percentage points impact on common equity tier 1 under the adverse scenario
+2014-10-26;2014;October;REPORT;Neutral;0.9512550234794617;now the capital shortfall itself as i said comes both from the aqr and from the stress test
+2014-10-26;2014;October;REPORT;Neutral;0.9765259623527527;and the distribution you have in this slide 112 from the stress test and 107 from the aqr
+2014-10-26;2014;October;REPORT;Neutral;0.864272952079773;this is the capital shortfall from the stress test 112 but in the previous slide you have seen that the drop in capital coming from the stress test corresponded to 182 billion which is a component of the 263 billion that i highlighted just now
+2014-10-26;2014;October;REPORT;Neutral;0.9703725576400757;so this is then the composition
+2014-10-26;2014;October;REPORT;Neutral;0.9734199643135071;and what i said about the frontloading that the banks have done since july last year is disaggregated in this table
+2014-10-26;2014;October;REPORT;Positive;0.6378194689750671;and you see that the overall amount of measures of different kinds they are not just capital measures but are measures that strengthen the balance sheet and help to clean and prepare the balance sheet for the exercise
+2014-10-26;2014;October;REPORT;Neutral;0.9826300740242004;gross equity issuances since then amount to 60 billion
+2014-10-26;2014;October;REPORT;Neutral;0.9719370603561401;cocos or contingent capital issuance instruments that count as additional tier 1 and satisfy our conditions amounted to another 32 billion
+2014-10-26;2014;October;REPORT;Neutral;0.9838007092475891;internal capital generation either by retained earnings or by extra provisions and we calculated the provisions that are above what would have been the normal trend of evolution of provisions because indeed as you well know since last year banks have been increasing provisions just preparing for the exercise and the two things together amount to 44 billion
+2014-10-26;2014;October;REPORT;Neutral;0.9720001220703125;and then the other measures asset sales and others amount to 67 billion
+2014-10-26;2014;October;REPORT;Neutral;0.9787080883979797;this is a measure of the frontloading by the banks in preparing for the exercise which is important to highlight because capital increases or increases in extra provisions done last year indeed reduced the numbers that the exercise could detect in the end
+2014-10-26;2014;October;REPORT;Neutral;0.9270181655883789;the stress test itself its also important to highlight that the severity of the scenario in the adverse case was indeed higher than in previous exercises
+2014-10-26;2014;October;REPORT;Neutral;0.939455509185791;in fact if we compare with previous exercises taking the metric of the gdp drop in the adverse scenario after two years in this present exercise the gdp on average would drop by 51 whereas in previous exercises it dropped by 3 or 4 only
+2014-10-26;2014;October;REPORT;Neutral;0.6829359531402588;and this exercise had a third year which was not present in the previous exercises so that the overall drop in gdp in the adverse scenario over the three years comes to 66
+2014-10-26;2014;October;REPORT;Negative;0.6389896273612976;so indeed the whole stress test was more severe also because of other shocks that were considered in the adverse scenario
+2014-10-26;2014;October;REPORT;Neutral;0.9799032807350159;just as an example in what regards the shock in interest rates that the exercise assumes we had an increase of the yields of sovereign bonds which in the first year on average was 152 and the second year another 112 and in the third year also 112 you have then the distribution by country in this slide and what is above the zero is the shock that we imposed in the scenario an aggravation of the yields of sovereign bonds
+2014-10-26;2014;October;REPORT;Neutral;0.8705534934997559;and then below zero you have what happened since last year
+2014-10-26;2014;October;REPORT;Negative;0.8428103923797607;and what happened
+2014-10-26;2014;October;REPORT;Neutral;0.9701594710350037;it was as you know exactly the opposite that the yields dropped a lot and so the prices of sovereign bonds increased on average by 12
+2014-10-26;2014;October;REPORT;Neutral;0.9362024664878845;so this is just another indication of the severity of the exercise in confrontation with what has happened in reality since last year
+2014-10-26;2014;October;REPORT;Neutral;0.9641558527946472;finally just to give you an idea about the drivers that command the impact of the stress test itself alone of course the first three rows in this table show the increase in revenues which is normal during the three years and then the costs that were affecting the profit and loss accounts of the banks and finally the impact on capital
+2014-10-26;2014;October;REPORT;Negative;0.5567724704742432;and you have then there for instance the shocks admitted on sovereign bonds imply a loss of 28 billion for the banks in the exercise that administrative costs and other expenses imply a drop in profits and in capital of 865 billion
+2014-10-26;2014;October;REPORT;Neutral;0.7732640504837036;and that loan losses coming from the assumptions of the stress test on the probabilities of default and the loss given default of the credit portfolio of the banks imply a loss of 378 billion
+2014-10-26;2014;October;REPORT;Neutral;0.9504719376564026;and thats how you reach 181 billion
+2014-10-26;2014;October;REPORT;Neutral;0.9807462692260742;and the difference with 182 billion that i showed before is just a matter of approximation  its the same figure
+2014-10-26;2014;October;REPORT;Neutral;0.9665213823318481;and this is the disaggregation of the figure
+2014-10-26;2014;October;REPORT;Neutral;0.599257230758667;so this really shows that the exercise was indeed quite strict
+2014-10-26;2014;October;REPORT;Neutral;0.9843360185623169;it was implemented by officials and private experts
+2014-10-26;2014;October;REPORT;Negative;0.9918054342269897;and the results as i said guarantee that going forward the economic recovery will not be hampered by credit supply restrictions
+2014-10-26;2014;October;REPORT;Neutral;0.6127750873565674;danièle nouy chair of the supervisory board of the single supervisory mechanism following up on vitors explanation on the stress test let me now highlight some key findings from the asset quality review
+2014-10-26;2014;October;REPORT;Neutral;0.9732425212860107;as you see on this slide the aqr resulted in gross adjustment of 48 billion
+2014-10-26;2014;October;REPORT;Negative;0.6831244230270386;you may be aware that this aqr was a process that stretched over almost 10 months
+2014-10-26;2014;October;REPORT;Positive;0.8088139295578003;its execution consisted of 10 specific work blocks that examined a variety of aspects each of them very relevant in its own right and necessary to generate robust overall results
+2014-10-26;2014;October;REPORT;Neutral;0.9405933022499084;i will not try to cover the whole of this massive process on each single work block in my comments here
+2014-10-26;2014;October;REPORT;Negative;0.8443289399147034;that will be simply impossible
+2014-10-26;2014;October;REPORT;Neutral;0.9652013182640076;instead i would like to focus on some highlevel findings that represent key results of the exercise at an aggregated level
+2014-10-26;2014;October;REPORT;Neutral;0.9851641654968262;the chart on this slide shows how different components of the aqr contribute to the overall adjustment
+2014-10-26;2014;October;REPORT;Neutral;0.9890918731689453;this aqr reviews banks exposures in two ways on an individual credit file basis and for smaller more homogeneous exposures on a collective basis
+2014-10-26;2014;October;REPORT;Neutral;0.9897897839546204;the first of these approaches was reflected in the credit file review where a total of around 119000 of the riskiest debtors in the riskiest portfolios were analysed individually
+2014-10-26;2014;October;REPORT;Neutral;0.9897880554199219;the ultimate purpose was to verify that an appropriate provision level had been set against each debtor
+2014-10-26;2014;October;REPORT;Neutral;0.9262226819992065;you can see in the chart that this part of the aqr led to a 154 billion increase in provisions
+2014-10-26;2014;October;REPORT;Neutral;0.9847131371498108;this change in provisioning levels was then projected to the unsampled debtors in the portfolio for whom no credit file review was conducted and the projection led to an additional 103 billion adjustment to provisions
+2014-10-26;2014;October;REPORT;Neutral;0.9883769154548645;in contrast to the file by file approach reflected in the credit file review smaller more homogenous exposures are typically provisioned using a collective provisioning approach
+2014-10-26;2014;October;REPORT;Neutral;0.9879683256149292;in this collective provisioning work block we thus reviewed the outcomes of banks own statistical models on where they were not deemed conservative enough according to our methodology an adjustment to provisions was calculated in total
+2014-10-26;2014;October;REPORT;Neutral;0.9574296474456787;this led to an adjustment of 162 billion
+2014-10-26;2014;October;REPORT;Neutral;0.9739847183227539;finally we also reviewed exposures held at fair value which were not covered in the work blocks mentioned previously and this led to another adjustment of 46 billion
+2014-10-26;2014;October;REPORT;Neutral;0.9827788472175598;overall we thus arrive at a total adjustment to asset carrying values across all banks of roughly 48 billion
+2014-10-26;2014;October;REPORT;Neutral;0.9467711448669434;since such adjustments have negative effects on banks profits of course the lower the amount of tax to be paid
+2014-10-26;2014;October;REPORT;Neutral;0.9815592765808105;so taking these tax effects into account 14 billion we arrive at a net impact from the aqr of 34 billion
+2014-10-26;2014;October;REPORT;Neutral;0.9608278870582581;let me now say a few more words about an important component of the credit file review namely the assessment of loan performance
+2014-10-26;2014;October;REPORT;Neutral;0.9864404797554016;at the start of the exercise it was known that participating banks definition of which exposures are performing varied significantly per bank and per country
+2014-10-26;2014;October;REPORT;Neutral;0.9859201312065125;as part of the aqr the ecb does impose a standard definition of nonperforming exposures across all banks using an approach agreed with the eba
+2014-10-26;2014;October;REPORT;Neutral;0.9652422666549683;let me emphasise that this represents a major step forward in terms of comparability across banks and countries
+2014-10-26;2014;October;REPORT;Neutral;0.9887427091598511;the harmonisation of the nonperforming exposure definition was crucial to ensure a consistent treatment of debtors being reviewed and allowed to set a level baseline against which debtors could be assessed
+2014-10-26;2014;October;REPORT;Neutral;0.9604403376579285;as a result of this harmonisation and because banks internal definitions were generally less conservative than the definition used by the aqr 55 billion of additional nonperforming exposures were identified at the outset of the credit file review
+2014-10-26;2014;October;REPORT;Neutral;0.9729938507080078;the credit file review itself on the subsequent projections of finding led to the identification of a significant additional stock of nonperforming exposures amounting to 81 billion
+2014-10-26;2014;October;REPORT;Neutral;0.9655706286430359;together the harmonisation of the definition on the credit file review itself thus led to a total adjustment in nonperforming exposures of 136 billion
+2014-10-26;2014;October;REPORT;Neutral;0.9845548272132874;and this represents an 18 adjustment to the initial nonperforming exposure stock reported by the participating banks
+2014-10-26;2014;October;REPORT;Neutral;0.8765529990196228;now provisioning adjustment
+2014-10-26;2014;October;REPORT;Neutral;0.9761942625045776;as you see on this slide they were totalling 43 billion across all asset segments
+2014-10-26;2014;October;REPORT;Neutral;0.9807062149047852;the assessment of provisioning levels was indeed the next step in reviewing a banks classification of exposures into performing and nonperforming
+2014-10-26;2014;October;REPORT;Neutral;0.6591862440109253;as mentioned this assessment resulted in a total provisioning increase across all segments of 43 billion which is a 12 increase
+2014-10-26;2014;October;REPORT;Neutral;0.977128803730011;looking at the main asset segments for which those adjustments were made we find that they were primarily driven by exposures in the large smes large corporates and real estate related segments
+2014-10-26;2014;October;REPORT;Neutral;0.9791460037231445;those exposures saw additional provisions of 12 billion 95 billion and another 95 billion respectively
+2014-10-26;2014;October;REPORT;Neutral;0.9724199771881104;i should also add that the collateral valuation work block which we conducted was also an important input in calculating these adjustments
+2014-10-26;2014;October;REPORT;Neutral;0.9283702969551086;across the ssm collateral values were adjusted downwards by 39 billion representing an approximately 10 decrease compared to previous banks internal valuation
+2014-10-26;2014;October;REPORT;Neutral;0.9238460659980774;the three categories of exposures i just mentioned were indeed particularly impacted by the collateral valuation
+2014-10-26;2014;October;REPORT;Neutral;0.8601967096328735;i can also add that shipping assets saw the largest relative increase in provisions amounting to 28 of the previous stock and this reflects an increase of 26 billion
+2014-10-26;2014;October;REPORT;Neutral;0.9676145911216736;i think the aspects i show on those last slides are important to understand what the actuary did and where the adjustment to asset values that constitutes its ultimate result comes from
+2014-10-26;2014;October;REPORT;Neutral;0.6443433165550232;as pointed out at the beginning this was a very rough summary of a very complex and huge process
+2014-10-26;2014;October;REPORT;Neutral;0.9718603491783142;and there are many additional aspects and findings that i would like to mention including quite a few which are not purely quantitative but relate to banks processes and policies
+2014-10-26;2014;October;REPORT;Neutral;0.9704980850219727;but in the interests of time let me now get back to a brief look at the overall capital shortfall identified in the comprehensive assessment before i conclude with some outlook of the main steps following todays publication of the outcome of the comprehensive assessment
+2014-10-26;2014;October;REPORT;Neutral;0.8489609956741333;this is an overview
+2014-10-26;2014;October;REPORT;Neutral;0.8172541260719299;i am sure you cannot read the slide because its too small
+2014-10-26;2014;October;REPORT;Neutral;0.979158341884613;this is an overview of the 25 banks for which shortfalls have been detected
+2014-10-26;2014;October;REPORT;Neutral;0.960454523563385;you can find it in the executive summary of our aggregate report
+2014-10-26;2014;October;REPORT;Neutral;0.9340567588806152;as you can see 12 of them have already raised enough capital in 2014 to cover their shortfalls completely and this leaves us with a net amount of slightly over 9 billion that still needs to be covered
+2014-10-26;2014;October;REPORT;Neutral;0.9445492625236511;this being said the immediate next steps for banks and supervisors are focused on capital planning
+2014-10-26;2014;October;REPORT;Neutral;0.989570140838623;those banks for which we identified a capital shortfall will have to submit capital plans by 10 november in which they show in detail how they plan to cover those shortfalls
+2014-10-26;2014;October;REPORT;Neutral;0.9839427471160889;the joint supervisory teams in charge of the daily supervision of those banks starting as of 4 november will check those capital plans thoroughly assessing their adequacy and credibility
+2014-10-26;2014;October;REPORT;Neutral;0.9817596673965454;as we communicated already in april this year banks with shortfalls identified in the aqr or in the baseline scenario of the stress test will have six months to implement these plans and cover the shortfalls starting from today
+2014-10-26;2014;October;REPORT;Neutral;0.9503793716430664;where shortfalls arose from the adverse scenario banks have nine months to do that
+2014-10-26;2014;October;REPORT;Neutral;0.9842857718467712;while these actions and capital plans are only relevant for banks with shortfalls there will also be a wider range of followup actions concerning all participating banks the banks which have a shortfall and the banks without shortfalls
+2014-10-26;2014;October;REPORT;Neutral;0.9882956743240356;these will include adjustments to accounts where breaches of accounting rules were found or where accounting provisions were not enough but also pillar 2 measures for the prudential elements
+2014-10-26;2014;October;REPORT;Neutral;0.9445845484733582;as i mentioned earlier the actual findings were also not limited to quantitative aspects but included a number of issues concerning processes and policies and that will be used as well in the supervision going forward
+2014-10-26;2014;October;REPORT;Neutral;0.9227895140647888;with this short outlook on what is next for banks and supervision i would like to close
+2014-10-26;2014;October;REPORT;Neutral;0.9813969135284424;i think that we have achieved a lot in this comprehensive assessment but at the same time it is just the starting point for our new task under the ssm
+2014-10-26;2014;October;REPORT;Neutral;0.9806503653526306;we will take those on with the clear objective of conducting tough fair and independent supervision on a day to day basis
+2014-10-26;2014;October;REPORT;Neutral;0.8542628884315491;and i am very much looking forward to the formal start of our new responsibilities on 4 november
+2014-10-26;2014;October;REPORT;Neutral;0.7263369560241699;my question would be on how credible these tests are
+2014-10-26;2014;October;REPORT;Neutral;0.8159892559051514;looking at the adverse scenario you havent even included deflation
+2014-10-26;2014;October;REPORT;Neutral;0.8530756831169128;you have not included an interruption in gas imports to europe
+2014-10-26;2014;October;REPORT;Neutral;0.8901059627532959;you have not included fullon sanctions on russia
+2014-10-26;2014;October;REPORT;Neutral;0.9312532544136047;so please elaborate and convince us
+2014-10-26;2014;October;REPORT;Neutral;0.9512112140655518;   constâncio the scenario for the stress test was published earlier in the year so some of the things you mentioned would not have been considered
+2014-10-26;2014;October;REPORT;Negative;0.9367884397506714;but indeed what was considered is a severe shock being the growth of other countries
+2014-10-26;2014;October;REPORT;Negative;0.9537095427513123;if you look to the scenario you see that for the us there is also a big deceleration of growth which is part of the scenario and also for other countries that are the markets of the euro area
+2014-10-26;2014;October;REPORT;Neutral;0.8726051449775696;so that is embedded in those assumptions of indeed a big drop in external demand directed to the euro area
+2014-10-26;2014;October;REPORT;Neutral;0.9329566359519958;thats the first point
+2014-10-26;2014;October;REPORT;Neutral;0.7907909750938416;the scenario of deflation is not there because indeed we dont consider that deflation is going to happen
+2014-10-26;2014;October;REPORT;Negative;0.9494022727012634;but let me highlight that nevertheless whereas the baseline scenario which is in the stress test has inflation at 16 in 2016 in the adverse it comes down to 03 so this drop in inflation is indeed factored in in the exercise and is a very significant drop
+2014-10-26;2014;October;REPORT;Neutral;0.9238863587379456;so it cannot be said that w did not consider the impact of a scenario of very low inflation
+2014-10-26;2014;October;REPORT;Neutral;0.9775876402854919;indeed we did it in comparison with the baseline
+2014-10-26;2014;October;REPORT;Neutral;0.9118454456329346;so of course new shocks can aggravate the situation but some of the shocks that we considered did not materialise which may offset the impact of new shocks
+2014-10-26;2014;October;REPORT;Neutral;0.9708600044250488;what is relevant is that the set of shocks that was considered was severe enough to have an impact on the capital of the banks by minus 263 billion which is not negligible and includes and proves that the banks would be prepared to support such a drop in capital and still most of them stay above 55 and thats what counts
+2014-10-26;2014;October;REPORT;Neutral;0.9724241495132446;in the footnotes to the results am i right in thinking that the two greek banks that were shown to have shortfalls if they are considered on a dynamic stress test basis theyre essentially done theyre in the clear and they dont have anything else to do
+2014-10-26;2014;October;REPORT;Neutral;0.7830796837806702;i just wonder if you could confirm the situation for the greek banks
+2014-10-26;2014;October;REPORT;Neutral;0.7272509336471558;and then my second question for ms nouy perhaps you could just say a little bit more about what we can expect going forward
+2014-10-26;2014;October;REPORT;Neutral;0.840755045413971;for the banks that have just scraped through are you going to be pushing for higher provisioning as a general point
+2014-10-26;2014;October;REPORT;Neutral;0.8803448677062988;and could you maybe just elaborate on the divergence of transitional arrangements to adjustments to cet1
+2014-10-26;2014;October;REPORT;Neutral;0.48117706179618835;are you trying to harmonise and improve capital quality
+2014-10-26;2014;October;REPORT;Neutral;0.9798139929771423;constâncio the answer to the first question is yes because as you know the exercise according to eba methodology was done on a static basis meaning that the balance sheet cannot change during the horizon of the exercise
+2014-10-26;2014;October;REPORT;Neutral;0.9492293000221252;but thats why i said that 12 banks already have taken measures that cover the shortfall that they have and the other 13 have either to comply with their restructuring plans which is the dynamic exercise or to find ways to increase their capital
+2014-10-26;2014;October;REPORT;Neutral;0.9096553921699524;so i was very careful in portraying what is indeed the meaning of the split between the 12 banks and the 13 part of which indeed have to prove that they will comply with their restructuring which implies downsizing and then the possibility indeed of coming up without a shortfall in the end
+2014-10-26;2014;October;REPORT;Neutral;0.9433180689811707;nouy well regarding the second question the priority is obviously to fully implement the comprehensive assessment
+2014-10-26;2014;October;REPORT;Neutral;0.9782708287239075;it starts with the capital plans for the banks that have a shortfall
+2014-10-26;2014;October;REPORT;Neutral;0.9768386483192444;indeed we will follow up with all the weaknesses that have been detected and identified in the comprehensive assessment
+2014-10-26;2014;October;REPORT;Neutral;0.7201785445213318;they can be temporary but it also can be too long to deliver data when requested that could mean it weaknesses maybe
+2014-10-26;2014;October;REPORT;Neutral;0.986796498298645;weve got a lot of information all kind of information quantitative and qualitative from the exercise and we will use all the elements of the information that we received
+2014-10-26;2014;October;REPORT;Neutral;0.9720620512962341;regarding the definition of capital indeed we are in a transitional period a phasing period towards full crd ivcrr
+2014-10-26;2014;October;REPORT;Neutral;0.9838325381278992;we have to follow the trajectory of the banks towards the full implementation and we will work on increasing as much as possible the consistency of the definition of capital that will be used
+2014-10-26;2014;October;REPORT;Neutral;0.9774766564369202;on that thats a possibility with the choice of the national options for the ecb because soon we will be the national competent authority and this is the national competent authority that decides about the national option
+2014-10-26;2014;October;REPORT;Neutral;0.9254373908042908;so we have work ahead of us and we will start that almost tomorrow now that one exercise is completed and we have a lot of information to build on this exercise
+2014-10-26;2014;October;REPORT;Negative;0.4451825022697449;you said that youre quite confident that as a result of this exercise lending will now pick up
+2014-10-26;2014;October;REPORT;Negative;0.9840323328971863;and i was wondering what makes you so confident considering the depressed economic scenario that we are having at the moment and that demand is actually quite weak for loans
+2014-10-26;2014;October;REPORT;Negative;0.9779006838798523;and my second question concerns the capital requirements which seem to have been somewhat weaker than some of the investors had expected
+2014-10-26;2014;October;REPORT;Neutral;0.5365695953369141;so does this mean on one hand that either banks were a lot healthier than we all thought or could this lead to a similar scenario as we had after the previous tests that failed to reach the credibility levels desired
+2014-10-26;2014;October;REPORT;Negative;0.9909228682518005;constâncio on the first question i will repeat what i said which was that with the repairing of the banks that have a shortfall and all the others having been able to stay above the minimum this means that the economic recovery will not be hampered by credit supply restrictions coming from the banking sector
+2014-10-26;2014;October;REPORT;Neutral;0.3907364308834076;and i said provided that there is enough aggregate demand
+2014-10-26;2014;October;REPORT;Neutral;0.9517623782157898;so i already mentioned exactly what was implicit in your question
+2014-10-26;2014;October;REPORT;Negative;0.8295239210128784;i didnt say at any moment that lending is going now to become very buoyant because it does not depend only on credit supply restrictions
+2014-10-26;2014;October;REPORT;Neutral;0.8855752348899841;it depends very much on demand and i said it in my statement
+2014-10-26;2014;October;REPORT;Neutral;0.9731181263923645;so that then means that i agree with the gist of your question and have already preempted the question
+2014-10-26;2014;October;REPORT;Neutral;0.9781118631362915;on the second point yes the starting point was very important because its important to underline that the starting point of these 130 banks had a capital ratio common equity of 119 which we approximated to 12
+2014-10-26;2014;October;REPORT;Negative;0.5923708081245422;thats very high
+2014-10-26;2014;October;REPORT;Neutral;0.9772924184799194;let me remind you that the regulatory minimum just now is 4
+2014-10-26;2014;October;REPORT;Neutral;0.9470826983451843;they have 12
+2014-10-26;2014;October;REPORT;Neutral;0.6823092699050903;so thats why they were able indeed to sustain a big drop coming from the exercise
+2014-10-26;2014;October;REPORT;Positive;0.7728046774864197;but thats just an indication that indeed they were healthier and more robust than many analysis that had been done in the recent past
+2014-10-26;2014;October;REPORT;Neutral;0.975418746471405;those are the number 12 or 119 if you want to be very precise as the starting point
+2014-10-26;2014;October;REPORT;Neutral;0.7013552784919739;that explains certainly the results
+2014-10-26;2014;October;REPORT;Neutral;0.9749076962471008;it also is partly explained by the fact that banks did actions last year which already are then included in the starting point precisely
+2014-10-26;2014;October;REPORT;Positive;0.9693776965141296;and thats why it is why the starting point was stronger than what the banks had in 2012 thats very important because it was on anticipation of the exercise which is good
+2014-10-26;2014;October;REPORT;Neutral;0.9692330956459045;but it must be seen as part of the success of the exercise of course because it would not have happened if they didnt know that this exercise was coming
+2014-10-26;2014;October;REPORT;Neutral;0.9711114168167114;then comparing these with expectations i quoted two of the more recent ones from two big investment banks one german one american and where when they counted themselves for their sample which was much smaller as i said when they counted what the banks had already done one found that three banks would fail and the shortfall would be 27 billion and the other one found zero in both cases no bank would fail and zero credit shortfall when they took into consideration what the banks had done
+2014-10-26;2014;October;REPORT;Neutral;0.9749916791915894;so these are things that were published in september so very recent calculations simulations which i think compare well with the result that we just presented
+2014-10-26;2014;October;REPORT;Negative;0.9785630106925964;if the banks are so healthy as you claim how do you explain that there is a lack of credit or credit is very expensive in some parts of the eurozone even for sovereign demand
+2014-10-26;2014;October;REPORT;Neutral;0.8694521188735962;and how do you explain that you had to provide the banks for the last three years with plenty of liquidity and measures to help them to provide interbank lending
+2014-10-26;2014;October;REPORT;Negative;0.9897946715354919;constâncio in what regards liquidity what we did in 2011 beginning of 2012 at that moment there was a very stressful situation of lack of liquidity for banks in europe
+2014-10-26;2014;October;REPORT;Negative;0.9408290982246399;both in the bond market and other debt instruments the banks had difficulty to issue at that particular moment because remember it was when the debt bubble dip in europe started in late 2011 and as a result there was almost a freeze in the market for bank debt
+2014-10-26;2014;October;REPORT;Neutral;0.9543458223342896;and thats why we provided the liquidity
+2014-10-26;2014;October;REPORT;Neutral;0.5530121326446533;then since mid 2012 it was clear that that situation had eased and the banks then started to repay those loans much earlier than they had to do
+2014-10-26;2014;October;REPORT;Neutral;0.5471546649932861;so the situation of liquidity since then has not been a obstacle to any credit decisions
+2014-10-26;2014;October;REPORT;Neutral;0.8472111821174622;now what has been a restriction and we recognised that from the start is that these exercises of course led the banks to be very careful in what they were doing with credit and with possible expansions of their balance sheet
+2014-10-26;2014;October;REPORT;Neutral;0.9775471687316895;they wanted to be as prepared as possible to pass this exam
+2014-10-26;2014;October;REPORT;Negative;0.8797711133956909;and we said from the start that unavoidably our exercise would had a reciprocal effect on the economy and indeed it happened
+2014-10-26;2014;October;REPORT;Neutral;0.8837304711341858;but now its over and the banks will be certainly much more comfortable to take decisions
+2014-10-26;2014;October;REPORT;Neutral;0.6613219976425171;thats one thing which is important
+2014-10-26;2014;October;REPORT;Negative;0.9935198426246643;but as i said the absence of credit supply restrictions because the banks would lack capital or liquidity are not enough to ensure that the credit will grow because its also a question of demand and there is indeed a lack of aggregate demand in europe
+2014-10-26;2014;October;REPORT;Neutral;0.9752350449562073;and in what regards the costs the costs reflect mostly now the degree of credit risk in different parts of the euro area
+2014-10-26;2014;October;REPORT;Negative;0.827640175819397;of course in countries where the economy is not performing so well the credit risk is higher
+2014-10-26;2014;October;REPORT;Neutral;0.9770075082778931;and so the banks have to take decisions also taking into consideration the credit risk for their decisions
+2014-10-26;2014;October;REPORT;Neutral;0.9296687245368958;and thats of course very important and explains part of what is going on
+2014-10-26;2014;October;REPORT;Positive;0.645562469959259;but it is for sure that the end of this exercise will put the banks in a much better position
+2014-10-26;2014;October;REPORT;Neutral;0.9205817580223083;also weve got the question of liquidity because again for other reasons reasons of monetary policy we decided to now have this new facility of targeted ltro
+2014-10-26;2014;October;REPORT;Neutral;0.9792810678482056;thats for monetary policy
+2014-10-26;2014;October;REPORT;Negative;0.6009182333946228;it has nothing to do with the problems of the banks this time
+2014-10-26;2014;October;REPORT;Neutral;0.9788967967033386;it was not because of a stress situation of liquidity as it was the case in 2011 and we acted then as the lender of last resort which is a normal function of the central banks
+2014-10-26;2014;October;REPORT;Neutral;0.7221047282218933;this time thats not the reason
+2014-10-26;2014;October;REPORT;Neutral;0.9107133746147156;its a pure monetary policy measure because we want indeed that our balance sheet expands that we want to use other channels of transmitting an expansionary monetary policy that it is totally justified in the present environment of low nominal growth
+2014-10-26;2014;October;REPORT;Neutral;0.7200751900672913;how easy or difficult do you think it will be for the banks who have a capital shortfall to raise the 9 billion or 10 billion capital
+2014-10-26;2014;October;REPORT;Neutral;0.6239215731620789;and do you see a possibility of governments having to jump in in case theres no private funding
+2014-10-26;2014;October;REPORT;Neutral;0.5095140337944031;constâncio its difficult to tell and we wont speculate on that
+2014-10-26;2014;October;REPORT;Neutral;0.9829949736595154;now its for the banks to come up with their plans to cover those shortfalls and they have two weeks to present those plans as ms nouy just explained
+2014-10-26;2014;October;REPORT;Neutral;0.9888805150985718;and then these will be assessed and the ssm will stand ready to work with the banks in order to make sure that the shortfalls will be covered and implemented in the timeframe that was defined by the exercise meaning six or nine months
+2014-10-26;2014;October;REPORT;Neutral;0.9552779197692871;and thats what we have to say
+2014-10-26;2014;October;REPORT;Negative;0.5335845351219177;we have to wait to see what the banks will tell the market
+2014-10-26;2014;October;REPORT;Neutral;0.9701116681098938;but i am sure we are sure that today or tomorrow many of those banks will come up with their plans to the market
+2014-10-26;2014;October;REPORT;Neutral;0.9431723356246948;nouy its the work that we start in the following days
+2014-10-26;2014;October;REPORT;Neutral;0.9590674638748169;we have started talking with the banks and the national competent authorities but a review of the capital plan is not yet done
+2014-10-26;2014;October;REPORT;Neutral;0.9636003971099854;can you explain why the inflation in the adverse scenario is at 1 this year if the current data is at 03
+2014-10-26;2014;October;REPORT;Neutral;0.9092738032341003;and in april when the exercise was designed it was lower than 1
+2014-10-26;2014;October;REPORT;Neutral;0.9679813981056213;constâncio first in april it was still foreseen by many institutions including ours that inflation for the whole year would be around 1
+2014-10-26;2014;October;REPORT;Neutral;0.9402836561203003;so thats one explanation
+2014-10-26;2014;October;REPORT;Neutral;0.9138678908348083;the second explanation is that the stress test is not a forecast
+2014-10-26;2014;October;REPORT;Neutral;0.969314455986023;by the way this stress test was published in april but was designed some months before
+2014-10-26;2014;October;REPORT;Neutral;0.9494848251342773;thats another point that you have to have in mind
+2014-10-26;2014;October;REPORT;Neutral;0.9402814507484436;but the stress test is a scenario its not a forecast
+2014-10-26;2014;October;REPORT;Neutral;0.9348673820495605;because if it was a forecast for instance we would never put in that the yields of sovereign debt would increase
+2014-10-26;2014;October;REPORT;Negative;0.9715145230293274;we knew that they were not increasing and indeed as i showed in that slide they have decreased a lot
+2014-10-26;2014;October;REPORT;Neutral;0.8446971774101257;so again the stress test scenario is not a forecast
+2014-10-26;2014;October;REPORT;Neutral;0.9727150201797485;and at that time nevertheless when the scenario was built the general forecast was for inflation this year around 1
+2014-10-26;2014;October;REPORT;Neutral;0.9197617769241333;then came the surprise that inflation continued to decrease but that was after the fact
+2014-10-26;2014;October;REPORT;Neutral;0.7483348846435547;nevertheless we had as i explained already before a big difference between the baseline and the adverse taking into consideration the fact of a big disinflation
+2014-10-26;2014;October;REPORT;Neutral;0.9718456268310547;the banks have received basically the results on thursday
+2014-10-26;2014;October;REPORT;Neutral;0.633184015750885;how fluid have they been in the meantime
+2014-10-26;2014;October;REPORT;Neutral;0.9282421469688416;i mean how do they differ from the eventual final results
+2014-10-26;2014;October;REPORT;Neutral;0.9510585069656372;has there been any space any room to either comply or explain
+2014-10-26;2014;October;REPORT;Neutral;0.7824523448944092;nouy it depends very much
+2014-10-26;2014;October;REPORT;Neutral;0.9298540949821472;sometimes there were factual errors that had to be corrected not the right line  so there were corrections
+2014-10-26;2014;October;REPORT;Neutral;0.553820788860321;were they significant
+2014-10-26;2014;October;REPORT;Neutral;0.9339556097984314;most of the time no
+2014-10-26;2014;October;REPORT;Neutral;0.8696305155754089;but they had to be corrected
+2014-10-26;2014;October;REPORT;Neutral;0.9626516103744507;and its part of the quality assurance as well to listen to the banks
+2014-10-26;2014;October;REPORT;Neutral;0.9383288025856018;if they believe that this is not giving an exact accurate picture of the situation
+2014-10-26;2014;October;REPORT;Neutral;0.92594313621521;constâncio i will add nevertheless as ms nouy has just hinted that in those 48 hours that these corrections were absolutely minor
+2014-10-26;2014;October;REPORT;Neutral;0.8734344840049744;so they were negligible in what regards the big numbers of the exercise
+2014-10-26;2014;October;REPORT;Neutral;0.8010406494140625;so its an important assurance
+2014-10-26;2014;October;REPORT;Neutral;0.9793150424957275;they did not change materially overall
+2014-10-26;2014;October;REPORT;Neutral;0.98138028383255;so it was just minor corrections that happened which is precisely why we gave the full results to the banks 48 hours in advance for that reason
+2014-10-26;2014;October;REPORT;Neutral;0.8865775465965271;i was wondering in the course of doing this you learned some things about the banking system that youre going to be looking at more closely now that youre the single supervisor as you mentioned
+2014-10-26;2014;October;REPORT;Negative;0.9590013027191162;possibly some banks have problems with their it
+2014-10-26;2014;October;REPORT;Neutral;0.6285409927368164;are there any other issues assets that theyre overly exposed any type of red flags that youre going to be watching in the future
+2014-10-26;2014;October;REPORT;Neutral;0.8123087882995605;and then a second question
+2014-10-26;2014;October;REPORT;Neutral;0.9311913847923279;how much of the adjustment in provisions and the revaluation of assets was because of technical factors because you were harmonising all the standards
+2014-10-26;2014;October;REPORT;Neutral;0.652220606803894;and how much was simply because the banks had been overly optimistic about the value of what they had if you can give us any rough idea about that
+2014-10-26;2014;October;REPORT;Negative;0.809203028678894;nouy as a matter of fact i dont want you to believe that i said banks have it problems
+2014-10-26;2014;October;REPORT;Neutral;0.9745252132415771;i took the example of it for mentioning that we will build on any kind of information that we received on not only the quantitative information on capital or provisions because this is important to know as well
+2014-10-26;2014;October;REPORT;Neutral;0.9816722273826599;the adjustments were to a certain extent indeed related to the harmonisation of the definition of nonperforming exposures
+2014-10-26;2014;October;REPORT;Neutral;0.9827529191970825;its a major step forward because for a number of years these had prevented eba for example and us to fully compare the situation of the banks in this respect
+2014-10-26;2014;October;REPORT;Neutral;0.8695456981658936;so it was very crucial to have consistency in this definition
+2014-10-26;2014;October;REPORT;Neutral;0.9857524037361145;then to what extent the banks will adjust their provisions certain adjustments are accounting adjustments
+2014-10-26;2014;October;REPORT;Neutral;0.9031845331192017;for example in the accounting definition you cover incurred losses
+2014-10-26;2014;October;REPORT;Neutral;0.954776406288147;this is what has to be covered
+2014-10-26;2014;October;REPORT;Neutral;0.9273503422737122;but there is also a prudential dimension
+2014-10-26;2014;October;REPORT;Neutral;0.970984160900116;for example for the banks that choose models to calculate riskweighted assets they have to make sure that they cover expected loss which is more than the incurred losses which goes beyond incurred losses
+2014-10-26;2014;October;REPORT;Neutral;0.979205310344696;so this will be addressed through supervisory actions on work
+2014-10-26;2014;October;REPORT;Neutral;0.981282114982605;at the end of the day we want clearly to use the incredible amount of information that we have gained through this exercise
+2014-10-26;2014;October;REPORT;Neutral;0.9698312878608704;we never had such an in depth knowledge of all the banks of the ssm area and we will build on that for the capital plan for the 2015 program of supervision that we will have to prepare before the end of the year
+2014-10-26;2014;October;REPORT;Neutral;0.9655706286430359;you noted that theres now a common definition of nonperforming loans
+2014-10-26;2014;October;REPORT;Neutral;0.945309579372406;but id also get a sense of how much regulatory and supervisory convergence still needs to happen post this exercise
+2014-10-26;2014;October;REPORT;Neutral;0.5828348398208618;secondly banca ditalia seems to be saying of the nine banks that failed only two have not taken sufficient action this year to now have covered the capital shortfall whereas your results seem to suggest that theres still four
+2014-10-26;2014;October;REPORT;Neutral;0.9734468460083008;so would it be possible for you to perhaps explain these differences and say how does that influence the process of what those two banks are supposed to come up with over the next two weeks and so on and so forth
+2014-10-26;2014;October;REPORT;Neutral;0.8912114500999451;nouy regarding harmonisation of regulation thats definitely something that should happen
+2014-10-26;2014;October;REPORT;Neutral;0.8695228695869446;in order to deliver a consistent supervision we need consistent regulation
+2014-10-26;2014;October;REPORT;Neutral;0.9785069227218628;the current period is not the best possible one for that because we are in a phasing period for implementing the crd iv and there are national options in this phasing as well
+2014-10-26;2014;October;REPORT;Negative;0.6130796670913696;so thats an issue
+2014-10-26;2014;October;REPORT;Neutral;0.6568188667297363;there are some issues regarding national options outside of the phasing and that will have to be addressed over time as well
+2014-10-26;2014;October;REPORT;Neutral;0.8869979381561279;and for the second part of your question i would say that this exercise was not about the number of banks that would fail
+2014-10-26;2014;October;REPORT;Neutral;0.9796715378761292;but it was about transparency and the full knowledge by the investors about the content of the balance sheet of the banks
+2014-10-26;2014;October;REPORT;Neutral;0.9500349164009094;that was this actual part
+2014-10-26;2014;October;REPORT;Neutral;0.970983624458313;also the capacity of the banks to sustain a significant deterioration of economic and financial condition and this has been delivered through the stress test
+2014-10-26;2014;October;REPORT;Negative;0.5333916544914246;about the banca ditalia issue they seem to be saying two of the nine banks dont need to take action whereas you seem to be implying that four still need to take action
+2014-10-26;2014;October;REPORT;Neutral;0.8417801856994629;so how can this discrepancy be explained
+2014-10-26;2014;October;REPORT;Negative;0.7892453670501709;nouy as of 2013 they have shown certain weaknesses
+2014-10-26;2014;October;REPORT;Positive;0.9848697185516357;but certain of those banks have already covered their shortfall which is also very encouraging
+2014-10-26;2014;October;REPORT;Neutral;0.9593498706817627;also we can note that the reasons the trigger of the shortfall is in the adverse scenario of the stress test most of the time
+2014-10-26;2014;October;REPORT;Negative;0.7970783710479736;as we believe that those are tough stress tests on tough scenario the probability of appearance of those scenario is not too big probably it will not happen
+2014-10-26;2014;October;REPORT;Neutral;0.46465766429901123;and they have time now to come with a credible and sound capital plan
+2014-10-26;2014;October;REPORT;Neutral;0.9848958253860474;we will see  we will have an assessment after reviewing the capital plan
+2014-10-26;2014;October;REPORT;Neutral;0.8885653614997864;constâncio we dont know what the bank of italy has meanwhile said
+2014-10-26;2014;October;REPORT;Neutral;0.8630622625350952;but i can assure you that they are fully aware of the results
+2014-10-26;2014;October;REPORT;Neutral;0.9771339297294617;that the results are the same that the results are the ones we just published which indicate which banks have a shortfall nine and the ones that we have already accepted the measures that they have taken in 2014 to cover those shortfalls
+2014-10-26;2014;October;REPORT;Neutral;0.9569429755210876;and there is no difference whatsoever in what regards these numbers between ourselves and bank of italy
+2014-10-26;2014;October;REPORT;Neutral;0.9083600640296936;so the rest of course is certainly i can only now try to speculate a bit
+2014-10-26;2014;October;REPORT;Neutral;0.8900697231292725;the only other problem may be about the type of measures that bank of italy is already thinking about for the banks to take
+2014-10-26;2014;October;REPORT;Neutral;0.9569603204727173;but no difference whatsoever in what regards the results of the exercise
+2014-10-26;2014;October;REPORT;Neutral;0.8531790375709534;mr vice president please let me come back to your assessment that you see no problem for the credit supply as a result of this assessment
+2014-10-26;2014;October;REPORT;Neutral;0.8567459583282471;im a bit puzzled about this statement because if i have been listening correctly to your president the president of this house i have been hearing something completely different over the last months which also explains the extraordinary measures which have been taken on the monetary side
+2014-10-26;2014;October;REPORT;Neutral;0.9233026504516602;would you please elaborate on this contradiction please
+2014-10-26;2014;October;REPORT;Neutral;0.9309479594230652;and to ms nouy please allow me a second question
+2014-10-26;2014;October;REPORT;Negative;0.9880141615867615;ms nouy if i see that nearly onefifth of the banks have not fulfilled the requirements which they should fulfil i fear that it is quite a worrying situation were having in the banking system in europe
+2014-10-26;2014;October;REPORT;Neutral;0.9263192415237427;would you please explain to the normal person on the street how serious the situation indeed is out of your view
+2014-10-26;2014;October;REPORT;Neutral;0.38492482900619507;thank you
+2014-10-26;2014;October;REPORT;Neutral;0.9447216987609863;constâncio on the first question there is no contradiction because indeed myself and the president are saying the same
+2014-10-26;2014;October;REPORT;Neutral;0.8238392472267151;the measures that we have taken are mostly to address the situation of weak aggregate demand in the euro area which is part of the explanation why inflation is so low which is our mandate
+2014-10-26;2014;October;REPORT;Neutral;0.9589111804962158;this is the motivation for those measures
+2014-10-26;2014;October;REPORT;Neutral;0.9405187368392944;you have only to read the speeches of president draghi to see thats what he is talking about and its very clear
+2014-10-26;2014;October;REPORT;Negative;0.9863287806510925;we are worried that there is not enough real growth and as a result there is a big slack in the economy and the big slack in the economy impacts downwards the inflation rate
+2014-10-26;2014;October;REPORT;Neutral;0.9622132778167725;and thats what we are trying to change with the monetary policy measures that we took
+2014-10-26;2014;October;REPORT;Neutral;0.9810320734977722;and as i underlined all the measures including the targeted ltro are directed to this objective
+2014-10-26;2014;October;REPORT;Neutral;0.9005898237228394;its a pure monetary policy decision
+2014-10-26;2014;October;REPORT;Neutral;0.7008658051490784;it has not to do with any sort of difficulty in the banks because indeed one of the reasons why there is no stigma in banks coming to this facility is because everyone knows in the market that they are not pressed for liquidity just now
+2014-10-26;2014;October;REPORT;Neutral;0.9452510476112366;so its a monetary policy decision because we think that we have to explore in such a challenging situation we have to explore new channels of transmission of expansionary policy
+2014-10-26;2014;October;REPORT;Neutral;0.9098243713378906;so its about having an expansionary monetary policy in such a situation
+2014-10-26;2014;October;REPORT;Neutral;0.8455632328987122;it has nothing to do with credit supply
+2014-10-26;2014;October;REPORT;Neutral;0.7644864320755005;yes if aggregate demand will respond to the measures then demand for credit will increase and now the banks will be in a more comfortable position to respond to that and to support the recovery
+2014-10-26;2014;October;REPORT;Positive;0.9822186827659607;and the two things together the end of the comprehensive assessment and our measures will certainly have a positive effect on the overall situation
+2014-10-26;2014;October;REPORT;Neutral;0.8273717761039734;so there is no contradiction
+2014-10-26;2014;October;REPORT;Neutral;0.9705134630203247;nouy coming out of this exercise we have now out of 25 billion more than 15 billion that are already covered
+2014-10-26;2014;October;REPORT;Negative;0.9148916006088257;so i dont see anything there that makes it particularly challenging for the banks that have an effort to do
+2014-10-26;2014;October;REPORT;Neutral;0.9505852460861206;i cannot tell more at this stage because ive not yet reviewed the capital plan of these banks
+2014-10-26;2014;October;REPORT;Neutral;0.9659345149993896;but this is certainly there are solutions and the banks with their supervisors  national now national supervisors and ourselves ssm supervisors globally  they will find solutions
+2014-10-26;2014;October;REPORT;Negative;0.8735485672950745;i have no doubt about that
+2014-10-26;2014;October;REPORT;Neutral;0.5042710304260254;what can you tell all the depositors of the banks that have failed these tests and show capital shortfalls
+2014-10-26;2014;October;REPORT;Neutral;0.9301870465278625;should they go to their banks and withdraw their money tomorrow or what assurance can you give them
+2014-10-26;2014;October;REPORT;Neutral;0.9537042379379272;nouy the shortfalls will be fixed within the timeframe which has been provided
+2014-10-26;2014;October;REPORT;Neutral;0.9873532056808472;six months if its the baseline or the actual and nine months if it is the adverse scenario of the stress test
+2014-10-26;2014;October;REPORT;Neutral;0.9520101547241211;and we will know more on the way this will be fixed in one or two weeks
+2014-10-26;2014;October;REPORT;Neutral;0.8649911284446716;again this is not something that is not doable not at all
+2014-10-26;2014;October;REPORT;Neutral;0.882296621799469;constâncio one objective of the exercise was precisely to repair the situation of banks that could show a weaker result and thats what will happen in the near future
+2014-10-26;2014;October;REPORT;Neutral;0.9842023849487305;contact european central bank directorate general communications sonnemannstrasse 20 60314 frankfurt am main germany 49 69 1344 7455 mediaecbeuropaeu reproduction is permitted provided that the source is acknowledged
+2014-10-26;2014;October;REPORT;Neutral;0.8690058588981628;media contacts

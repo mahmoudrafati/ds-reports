@@ -1,4 +1,187 @@
 Date;Year;Month;Type;sentiment;sentiment_score;sentence
-1999-10-07;1999;October;Monetary Policy Decisions;Neutral;0.9797464609146118;the president of the ecb will comment on the considerations underlying these decisions at a press conference starting at 230 pm today
-1999-10-07;1999;October;Monetary Policy Decisions;Neutral;0.9920511841773988;at todays meeting the governing council of the ecb decided that the interest rates on the main refinancing operations the marginal lending facility and the deposit facility will remain unchanged at 25 35 and 15 respectively
-1999-10-21;1999;October;Monetary Policy Decisions;Neutral;0.9570608735084534;at todays meeting the governing council of the ecb took the following decisions
+1999-10-07;1999;October;REPORT;Neutral;0.9392606019973755;ecb press conference introductory statement willem f duisenberg president of the european central bank thursday 7 october 1999 with the transcript of the questions and answers ladies and gentlemen the vicepresident and i are here today to report on the outcome of todays meetings of the governing council of the ecb which was attended by the european commissioner mr solbes mira
+1999-10-07;1999;October;REPORT;Neutral;0.9905161261558533;the outcome of todays discussion was that the governing council has decided to leave the prevailing ecb interest rates unchanged
+1999-10-07;1999;October;REPORT;Neutral;0.9764718413352966;the interest rate on the main refinancing operations of the eurosystem will thus remain 25
+1999-10-07;1999;October;REPORT;Neutral;0.9838641881942749;in addition the interest rate on the marginal lending facility will continue to be 35 and that on the deposit facility has been kept at 15
+1999-10-07;1999;October;REPORT;Neutral;0.9687603116035461;the governing council conducted an intensive discussion of the current monetary policy stance in which it was concluded that the balance of risks to price stability remains on an upward trend
+1999-10-07;1999;October;REPORT;Neutral;0.5207261443138123;with regard to monetary developments in the euro area the threemonth average of the 12month growth rates of m3 for the period june to august 1999 increased to 56 from 55 in the threemonth period ending in july 1999 while a good deal of caution is required when interpreting shortterm monetary developments it should be noted that the 12month growth rate of m3 has displayed an upward trend during 1999 the high growth of m3 seems to be related to the low level of opportunity costs of holding monetary assets particularly the most liquid components
+1999-10-07;1999;October;REPORT;Positive;0.9541409611701965;furthermore the gradual improvement in the real economic situation may have fostered the expansion of m3
+1999-10-07;1999;October;REPORT;Neutral;0.638674259185791;credit to the private sector also continued to expand at a fast rate in august 1999 namely 107
+1999-10-07;1999;October;REPORT;Neutral;0.9628149271011353;since the start of stage three credit to the private sector has been expanding at rates of around 10
+1999-10-07;1999;October;REPORT;Positive;0.9815477132797241;developments in credit growth in august tend to confirm that the demand for loans remains strong supported by low bank lending rates indicating that euro area residents do not face borrowing constraints
+1999-10-07;1999;October;REPORT;Positive;0.8839582204818726;on balance the governing council believes that monetary conditions especially the sustained growth of m3 in excess of the reference value signal a rather generous liquidity situation in the euro area
+1999-10-07;1999;October;REPORT;Neutral;0.9334605932235718;longterm nominal interest rates in the euro area continued to increase in september
+1999-10-07;1999;October;REPORT;Negative;0.7031937837600708;while it is likely that this increase is related to expectations of a recovery of activity in the euro area expectations of increasing inflationary pressure may also play a role
+1999-10-07;1999;October;REPORT;Positive;0.9875255823135376;the more favourable expectations for economic development in the euro area are partly connected with a further improved outlook for the world economy as is also reflected in the recent upward revision of the forecast for world growth by the imf
+1999-10-07;1999;October;REPORT;Positive;0.9925324320793152;the growth of the us economy continues to be strong and in japan economic indicators are now more clearly pointing towards an improvement in economic activity
+1999-10-07;1999;October;REPORT;Negative;0.8957428932189941;in addition in some asian countries the recovery in growth appears to be taking place somewhat earlier than expected
+1999-10-07;1999;October;REPORT;Negative;0.9607837796211243;notwithstanding individual downside risks in the countries i have just mentioned and a more general uncertainty regarding the recovery in latin america the world economy seems to be set for higher growth
+1999-10-07;1999;October;REPORT;Neutral;0.9764169454574585;as regards economic activity in the euro area some important data have been released since we last met
+1999-10-07;1999;October;REPORT;Negative;0.9881667494773865;a first estimate by eurostat for real gdp growth in the second quarter of 1999 points to slightly lower quarteronquarter growth compared with the first quarter of this year
+1999-10-07;1999;October;REPORT;Negative;0.8698720932006836;however these data do not appear to impinge on the view that there is an upturn in growth in the course of this year
+1999-10-07;1999;October;REPORT;Positive;0.9920322895050049;in fact industrial production data for the period up to july confirm the gradual improvement of recent months and various survey data suggest that there was a further strengthening of output growth in the industrial sector over the summer months
+1999-10-07;1999;October;REPORT;Positive;0.9915050864219666;evidence for the consumer sector continues to point to broadly robust consumption growth
+1999-10-07;1999;October;REPORT;Negative;0.8299530744552612;the outlook for a continuing improvement in overall activity therefore remains favourable
+1999-10-07;1999;October;REPORT;Positive;0.6346176266670227;in line with our expectations the annual rate of change in the harmonised index of consumer prices hicp saw a further rise in august 1999 to 12 up from 11 a month earlier
+1999-10-07;1999;October;REPORT;Neutral;0.9411131143569946;this upward movement was mainly caused by the ongoing increase in oil prices
+1999-10-07;1999;October;REPORT;Negative;0.9517642259597778;some counterweight came from a decline in unprocessed food prices and from a lower rate of increase in services prices
+1999-10-07;1999;October;REPORT;Neutral;0.9634144902229309;largely reflecting this development in services prices the hicp rate excluding more volatile components  namely energy and seasonal food  declined to 09 in august having risen to 10 in july
+1999-10-07;1999;October;REPORT;Negative;0.7124135494232178;oil prices continued to increase further in september and given the relatively short time of passthrough to consumer prices expectations of further increases in the overall hicp rate in the coming months have become firmer
+1999-10-07;1999;October;REPORT;Neutral;0.8629932999610901;in conclusion monetary and credit developments indicate that continuous close attention must be given to upward risks to price stability
+1999-10-07;1999;October;REPORT;Positive;0.9648056626319885;in the light of the mediumterm orientation of the eurosystems monetary policy the rising trend of m3 growth calls for great vigilance on the part of monetary policy
+1999-10-07;1999;October;REPORT;Negative;0.882361114025116;the recent increase in oil prices will continue to impose additional upward pressure on the hicp
+1999-10-07;1999;October;REPORT;Neutral;0.6212694048881531;seen in isolation the increase in energy prices should have only a temporary effect upon consumer price increases but it is essential that this effect does not trigger wage claims which prove incompatible with price stability in the medium term
+1999-10-07;1999;October;REPORT;Negative;0.9256867170333862;against the background of the mediumterm outlook for a sustained acceleration in economic activity decisive structural reform is warranted in order to prevent early upward pressure on prices
+1999-10-07;1999;October;REPORT;Positive;0.9887304902076721;in fact the governing council sees a strong case for enhancing structural reform in labour and product markets
+1999-10-07;1999;October;REPORT;Positive;0.9659894704818726;the anticipation of an expected cyclical improvement should not lead to a weakening of efforts in this regard but rather it should be used as a welcome opportunity to make convincing progress
+1999-10-07;1999;October;REPORT;Positive;0.9863779544830322;this together with continued wage moderation and fiscal adjustment in line with the stability and growth pact would greatly facilitate the monetary policy task of maintaining price stability in an environment of stronger growth
+1999-10-07;1999;October;REPORT;Neutral;0.9848905205726624;let me now give the floor to the vicepresident to introduce three additional topics which we discussed during our meeting in addition to reviewing the main monetary financial and other economic indicators the governing council formally adopted the decision of the ecb on fraud prevention according to which an independent antifraud committee will be established to enforce an antifraud scheme within the ecb
+1999-10-07;1999;October;REPORT;Neutral;0.9854043126106262;the committee will be composed of three independent persons of recognised standing and professional experience in the fields of central banking justice and policing
+1999-10-07;1999;October;REPORT;Neutral;0.9824643731117249;within the ecb the directorate internal audit is entrusted with the task of conducting all investigations relating to fraud prevention and detection
+1999-10-07;1999;October;REPORT;Neutral;0.985451340675354;for the purpose of combating fraud the director of internal audit will report to the antifraud committee
+1999-10-07;1999;October;REPORT;Neutral;0.9684828519821167;a cooperative relationship will be established with the european antifraud office olaf
+1999-10-07;1999;October;REPORT;Negative;0.9902840256690979;as i already emphasised at the last press conference the ecb shares the concerns of the european parliament the eu council and the european commission about the need to combat fraud and other activities detrimental to the financial interests of the communities and the ecb
+1999-10-07;1999;October;REPORT;Neutral;0.9530969858169556;you will find further information relating to this decision in the separate press release which has been issued today
+1999-10-07;1999;October;REPORT;Neutral;0.9703817963600159;i should also like to mention that the governing council had a preliminary discussion on eu accession countries
+1999-10-07;1999;October;REPORT;Neutral;0.9625441431999207;the accession of new members to the european union is an area of development in which the eurosystem will be increasingly involved
+1999-10-07;1999;October;REPORT;Neutral;0.9853755235671997;as you are well aware 12 countries are official candidates for membership and negotiations have already started with a first wave of six countries
+1999-10-07;1999;October;REPORT;Neutral;0.969516396522522;the negotiations with these countries are intensifying and the chapters on economic and monetary union and on free movement of capital have been opened this autumn
+1999-10-07;1999;October;REPORT;Neutral;0.936180830001831;against this background the governing council has already considered a number of issues related to eu enlargement in areas of relevance to the eurosystem
+1999-10-07;1999;October;REPORT;Neutral;0.9696977734565735;furthermore the governing council has decided to organise a highlevel seminar between the eurosystem and the central banks of the 12 accession countries to be held in helsinki on 1012 november 1999 following a number of bilateral contacts which the ecb has already had this year the meeting in helsinki will be attended by the governors of the central banks of the accession countries
+1999-10-07;1999;October;REPORT;Positive;0.8236543536186218;it will provide the opportunity to strengthen the working relationships between the eurosystem and the central banks of accession countries and to deepen the dialogue between the two sides
+1999-10-07;1999;October;REPORT;Neutral;0.9841102361679077;finally the governing council approved 21 additional links established between securities settlement systems which can be used for the transfer of foreign collateral in the eurosystems monetary policy and intraday credit operations
+1999-10-07;1999;October;REPORT;Neutral;0.9800548553466797;with the approval of these links the number of links which are currently eligible to be used by the eurosystem increased from 26 to 47 you will find further information relating to this decision in the separate press release which has been issued today
+1999-10-07;1999;October;REPORT;Neutral;0.9318070411682129;we are now at your disposal should you have any questions
+1999-10-07;1999;October;REPORT;Neutral;0.8557599782943726;transcript of the questions asked and the answers given by dr willem f duisenberg president of the ecb and christian noyer vicepresident of the ecb question translation mr duisenberg on your comments now if you are looking at the two pillars of your strategy then you have strengthened expectations of a further tightening of interest rates or is that wrong
+1999-10-07;1999;October;REPORT;Neutral;0.9104753136634827;because you are looking at the money supply and you are saying that there are no further distortions than there were at the beginning of the year
+1999-10-07;1999;October;REPORT;Negative;0.9941089153289795;there is also further pressure from prices and the economy is looking as if it is going better
+1999-10-07;1999;October;REPORT;Negative;0.9541643857955933;now looking at what vice president noyer said at the parliament and what was said in new york is it true to think that there is a tightening bias which is actually going to lead to a tightening in the near future
+1999-10-07;1999;October;REPORT;Neutral;0.9745547771453857;duisenberg we are of the opinion as we found today that we have already sensed in the euro area effectively for more than a year a rather accommodative stance of monetary policy
+1999-10-07;1999;October;REPORT;Neutral;0.939903736114502;and we did come to the conclusion that it has served its purpose
+1999-10-07;1999;October;REPORT;Positive;0.9864083528518677;it has contributed to a resumption of growth in a climate of price stability
+1999-10-07;1999;October;REPORT;Neutral;0.9514600038528442;so now we are indeed assessing whether this period of an accommodative monetary policy stance has lasted long enough
+1999-10-07;1999;October;REPORT;Neutral;0.7776759266853333;but what we do need is some more evidence to make our conclusions very firm which will lead us to further action
+1999-10-07;1999;October;REPORT;Neutral;0.8420767188072205;question mr president a question
+1999-10-07;1999;October;REPORT;Negative;0.6414374113082886;you said at the beginning that discussions had been very intense today
+1999-10-07;1999;October;REPORT;Negative;0.9082473516464233;has it also been a very controversial discussion
+1999-10-07;1999;October;REPORT;Negative;0.7170501947402954;judging from the statement that we heard last week that might be inferred
+1999-10-07;1999;October;REPORT;Neutral;0.8990682363510132;and the second question is more about the style of the ecb
+1999-10-07;1999;October;REPORT;Neutral;0.9093453288078308;does todays decision not to raise the interest rates signify in any way that we cannot expect a short termoriented ecb policy with preemptive strikes  that this is not your cup of tea the way you are doing monetary policy
+1999-10-07;1999;October;REPORT;Negative;0.5246187448501587;duisenberg the discussion in the governing council was indeed very intense very thorough but not at all controversial
+1999-10-07;1999;October;REPORT;Neutral;0.9388838410377502;and we reached the conclusions as i just read them to you in great harmony
+1999-10-07;1999;October;REPORT;Negative;0.6604560613632202;now as far as the preemptive nature of any strikes  if any  are concerned i do want to emphasise again that it is not the inclination of the ecb to play a very activist role in trying to finetune the economy
+1999-10-07;1999;October;REPORT;Neutral;0.9722216129302979;on the other hand any measures taken whenever they are taken will always have to be and will be timely
+1999-10-07;1999;October;REPORT;Neutral;0.769294261932373;question mr duisenberg my question has to do with the deregulation that is going on in the telecommunications and energy sectors
+1999-10-07;1999;October;REPORT;Neutral;0.9606894850730896;is that something that you see as more of a onetime change that does not matter so much to your monetary policy decisions on inflation or is it a factor that you consider to be a longerterm factor for inflation the deregulation
+1999-10-07;1999;October;REPORT;Neutral;0.8759704828262329;duisenberg well it was not discussed as such at todays meeting
+1999-10-07;1999;October;REPORT;Neutral;0.9466727375984192;but what we do consider is that this deregulation liberalisation and increasing competition in itself might be a process which is rather longterm in character  because it is ongoing
+1999-10-07;1999;October;REPORT;Neutral;0.979213297367096;question mr duisenberg has there been a formal vote in taking this decision to leave the interest rates unchanged or was it rather the outcome of the discussion
+1999-10-07;1999;October;REPORT;Neutral;0.8539799451828003;duisenberg let me repeat the words i used earlier
+1999-10-07;1999;October;REPORT;Neutral;0.9518277049064636;the discussion was very intense and was conducted and ended in great harmony
+1999-10-07;1999;October;REPORT;Neutral;0.8270858526229858;question mr duisenberg where do we stand
+1999-10-07;1999;October;REPORT;Negative;0.6077350378036499;before the summer holidays we had a creepingin
+1999-10-07;1999;October;REPORT;Negative;0.8063410520553589;after the summer holidays it was slowly slowly creeping in
+1999-10-07;1999;October;REPORT;Neutral;0.8192729949951172;and now 
+1999-10-07;1999;October;REPORT;Neutral;0.5724000930786133;duisenberg 
+1999-10-07;1999;October;REPORT;Negative;0.5904354453086853;it keeps on creeping
+1999-10-07;1999;October;REPORT;Neutral;0.739993155002594;question quicker
+1999-10-07;1999;October;REPORT;Negative;0.7975455522537231;is it still there
+1999-10-07;1999;October;REPORT;Negative;0.842637836933136;duisenberg i am not good at measuring velocities but  it is still there
+1999-10-07;1999;October;REPORT;Neutral;0.9298586249351501;question can i ask you mr president what exactly were you and your colleagues vice president noyer and mr issing trying to achieve with the remarks that you each made publicly last week
+1999-10-07;1999;October;REPORT;Neutral;0.5513380765914917;the financial market seems certainly to have taken them as a very strong signal that there would be some action soon and now there is not any action
+1999-10-07;1999;October;REPORT;Neutral;0.8556481599807739;now what message were you trying to communicate last week
+1999-10-07;1999;October;REPORT;Neutral;0.8878520131111145;duisenberg what we were trying to communicate was that we wanted to maintain the tone that we had set in the press conference on 15 july
+1999-10-07;1999;October;REPORT;Neutral;0.8284064531326294;question mr duisenberg you said that the council needed further evidence more data for a firm conclusion on further action
+1999-10-07;1999;October;REPORT;Neutral;0.731157124042511;can you elaborate on that
+1999-10-07;1999;October;REPORT;Neutral;0.9260162711143494;what are you looking at and what else do you need basically
+1999-10-07;1999;October;REPORT;Neutral;0.9136481881141663;duisenberg well we need not only a closer look but also more data on the developments which i described earlier
+1999-10-07;1999;October;REPORT;Neutral;0.9686177968978882;on monetary developments growth of m3 we will have new data by the end of this month as well as new data on actual price developments and the entire broad range of indicators we look at
+1999-10-07;1999;October;REPORT;Neutral;0.7752126455307007;so let me say this the bias we discussed earlier is still there in full force
+1999-10-07;1999;October;REPORT;Neutral;0.853753924369812;but before taking action we need more conclusive evidence confirming our preliminary assessment
+1999-10-07;1999;October;REPORT;Neutral;0.838305652141571;question what are your preliminary conclusions
+1999-10-07;1999;October;REPORT;Neutral;0.9357881546020508;duisenberg those that i read in the introductory statement
+1999-10-07;1999;October;REPORT;Neutral;0.913524329662323;question first of all you spoke about this intense discussion that you had about the decision to leave the interest rates unchanged
+1999-10-07;1999;October;REPORT;Neutral;0.9137582778930664;you said it ended in harmony
+1999-10-07;1999;October;REPORT;Neutral;0.9157485365867615;did anybody at all oppose the decision to leave the interest rates unchanged
+1999-10-07;1999;October;REPORT;Neutral;0.8491840958595276;did anybody want to raise interest rates at all at that meeting
+1999-10-07;1999;October;REPORT;Neutral;0.9335826635360718;and the other question is could i possibly just ask you to define precisely what you mean when you speak about a tightening bias
+1999-10-07;1999;October;REPORT;Neutral;0.9442972540855408;just what exactly does it mean
+1999-10-07;1999;October;REPORT;Neutral;0.9355824589729309;duisenberg i am not going to disclose the individual members behaviour
+1999-10-07;1999;October;REPORT;Neutral;0.9570925235748291;i am going to repeat that the discussion was conducted and ended in great harmony
+1999-10-07;1999;October;REPORT;Neutral;0.9474856853485107;we do not use the word bias
+1999-10-07;1999;October;REPORT;Neutral;0.9454750418663025;that was put into our mouths by someone else
+1999-10-07;1999;October;REPORT;Neutral;0.8603947758674622;but we did not deny that the tendency was there
+1999-10-07;1999;October;REPORT;Neutral;0.8465127944946289;neither do we deny that now
+1999-10-07;1999;October;REPORT;Neutral;0.9706776738166809;what we mean with what you call bias i hope that i have clearly described that we have seen monetary developments  already for nine months now  as going in the same direction
+1999-10-07;1999;October;REPORT;Negative;0.9008646011352539;we see a slow although not unexpected increase in the rate of inflation
+1999-10-07;1999;October;REPORT;Positive;0.6928800344467163;at the same time we see the resumption of growth occurring in the euro area
+1999-10-07;1999;October;REPORT;Positive;0.9723620414733887;we see ourselves confirmed in our expectation that this acceleration of growth will continue into the next year and throughout the next year
+1999-10-07;1999;October;REPORT;Neutral;0.9318914413452148;at the same time we conclude that as i said earlier we have now already had a truly accommodative monetary policy stance over effectively more than a year
+1999-10-07;1999;October;REPORT;Neutral;0.4886833727359772;and we are now turning our mind in our mediumterm outlook to the future realising that we have to adopt and to have a monetary policy stance which is conducive to sustainable noninflationary growth which is somewhat different from the accommodative stance we had in a period when we saw output slowing and inflationary expectations or tendencies even going in a downward direction
+1999-10-07;1999;October;REPORT;Neutral;0.9201955199241638;question mr president when  in your view  is the right time to go up with interest rates
+1999-10-07;1999;October;REPORT;Negative;0.9255933165550232;when inflation pressure comes up  and it is not really clear how strong it is  or when inflation is very strong in the pipeline
+1999-10-07;1999;October;REPORT;Negative;0.9344496726989746;because we now really have signs that inflation pressure is coming up slowly
+1999-10-07;1999;October;REPORT;Neutral;0.8957577347755432;duisenberg i cant say when  i can say of course when the time is right
+1999-10-07;1999;October;REPORT;Neutral;0.9285979866981506;that would be the right time
+1999-10-07;1999;October;REPORT;Neutral;0.7036249041557312;but what we do see  as far as inflation is concerned insofar as we pay attention to current developments  is that inflation is slowly creeping up but  and not unexpectedly  due almost exclusively to the increase in oil prices which is working its way through into consumer prices and which will presumably continue to work its way through
+1999-10-07;1999;October;REPORT;Neutral;0.981907308101654;at the same time our expectation is that this will continue for a few months but that it will then flatten out
+1999-10-07;1999;October;REPORT;Neutral;0.7540819048881531;but we also see signs that it might accelerate somewhat further but we need further evidence to confirm this
+1999-10-07;1999;October;REPORT;Negative;0.8215498328208923;and especially  what i warned against  if a fear which is there were to become true that the current rate of increase in inflation would spill over into secondround effects if we were to see signs of that that would increase our anxiety to say the least
+1999-10-07;1999;October;REPORT;Negative;0.5278545618057251;question as far as liquidity is concerned you said it is rather generous
+1999-10-07;1999;October;REPORT;Neutral;0.9071933031082153;does this have to do with the year 2000 and how much and how are you considering the y2k development
+1999-10-07;1999;October;REPORT;Neutral;0.9290674924850464;duisenberg we do see that the y2k phenomenon has some impact on future interest rates we see that as a onceandforall impact
+1999-10-07;1999;October;REPORT;Positive;0.4882728159427643;as to the problem of y2k as such we think and we have published that we have it well under control
+1999-10-07;1999;October;REPORT;Positive;0.8743953704833984;especially in the payment systems area we have  as you know  conducted extensive tests together with hundreds of private sector financial institutions which have on the whole proven that the financial sector including the central banks is well prepared for the changeover to the new millenium
+1999-10-07;1999;October;REPORT;Neutral;0.7836410403251648;question mr duisenberg i have two questions concerning the astonishing gold agreement you and 15 other national central banks european central banks reached two weeks ago
+1999-10-07;1999;October;REPORT;Neutral;0.9737876653671265;first will the united kingdom and switzerland the main winners of this agreement compensate the other european central banks in some way because the gold price rose strongly
+1999-10-07;1999;October;REPORT;Neutral;0.9713497161865234;and the second question could this agreement be the nucleus for a central gold selling agency for euro area central banks
+1999-10-07;1999;October;REPORT;Neutral;0.8983082175254822;duisenberg the answer to the second question is no
+1999-10-07;1999;October;REPORT;Neutral;0.6905859708786011;the answer to the first question is somewhat more complicated
+1999-10-07;1999;October;REPORT;Neutral;0.9674069285392761;you have to realise that the statement by the fifteen participating central banks implied that they would limit their annual sales of gold to an amount of approximately 400 tonnes per year and to an amount not exceeding 2000 tonnes over the next five years
+1999-10-07;1999;October;REPORT;Neutral;0.9815883636474609;there are many plans decided or planned by some central banks
+1999-10-07;1999;October;REPORT;Neutral;0.9847395420074463;but the statement was intended to give some certainty or to take away uncertainty  let me put it that way  in the gold market for five years and then we will review it
+1999-10-07;1999;October;REPORT;Neutral;0.9836024045944214;and we will probably review it sometime ahead of the end of the fiveyear period
+1999-10-07;1999;October;REPORT;Neutral;0.9454379677772522;as far as your question on compensation is concerned i would say that that is not on the agenda given the fact that we know precisely what the uk government intends to do which are sales far below the 400 tonnes per year and they have announced the amounts and the time schedule precisely
+1999-10-07;1999;October;REPORT;Neutral;0.9451944231987;we know preliminarily what the swiss authorities intend to do but i would like to emphasise that the swiss have never announced either when they would start or when they would end
+1999-10-07;1999;October;REPORT;Neutral;0.9395482540130615;so there is no time schedule there
+1999-10-07;1999;October;REPORT;Neutral;0.5734474062919617;question i also have a question regarding the y2k problem and i know we brought it up last time
+1999-10-07;1999;October;REPORT;Neutral;0.9181898236274719;i would be grateful however if you could answer it again
+1999-10-07;1999;October;REPORT;Negative;0.9737629890441895;i am not getting at the technical problems liquidity problems
+1999-10-07;1999;October;REPORT;Negative;0.8812668323516846;i am wondering to what extent do you think that the problems stemming from the fact that economic data may perhaps be distorted
+1999-10-07;1999;October;REPORT;Neutral;0.9313239455223083;to what extent will economic data which is distorted by the y2k effect have an impact on your rate decisions whichever way you want to take it
+1999-10-07;1999;October;REPORT;Neutral;0.592743992805481;duisenberg well we do not know that yet
+1999-10-07;1999;October;REPORT;Neutral;0.9717487096786499;if there are any distortions we would only be able to draw conclusions from them after they are known
+1999-10-07;1999;October;REPORT;Neutral;0.8172934651374817;question but are you not afraid of them
+1999-10-07;1999;October;REPORT;Neutral;0.8576146960258484;duisenberg i am not afraid of them no
+1999-10-07;1999;October;REPORT;Neutral;0.8899785876274109;question to what extent was the exchange rate of larger or smaller consideration in todays decision
+1999-10-07;1999;October;REPORT;Neutral;0.876209020614624;duisenberg in todays decision
+1999-10-07;1999;October;REPORT;Neutral;0.9127118587493896;to no extent  neither large nor small
+1999-10-07;1999;October;REPORT;Neutral;0.9195399284362793;question it played no role whatsoever
+1999-10-07;1999;October;REPORT;Neutral;0.9615128040313721;duisenberg well the exchange rate has behaved let me say quite normally over the past lets say four weeks since we last met here
+1999-10-07;1999;October;REPORT;Negative;0.49451738595962524;it has gradually strengthened somewhat to a level  as it was this morning at 1 oclock  of about usd 10710 then we announced our interest rate decisions and the exchange rate dropped to usd 10660 within five minutes and ten minutes later it was back at usd 10710 so on the whole the movement has not given rise to any unrest or concern
+1999-10-07;1999;October;REPORT;Neutral;0.8772575855255127;question translation mr duisenberg  actually the question is also addressed to mr noyer  do you really feel in your speeches that the general public actually gets to hear what you want to say or do you rather feel that some of your statements are interpreted to an excessive degree
+1999-10-07;1999;October;REPORT;Neutral;0.9340400695800781;duisenberg to mr noyer do you or do i have to answer that question
+1999-10-07;1999;October;REPORT;Neutral;0.8862597346305847;noyer you could do that
+1999-10-07;1999;October;REPORT;Neutral;0.7850529551506042;but i can simply say that what i have said was exactly along the lines that have been developed in this room in july and september and nothing more
+1999-10-07;1999;October;REPORT;Neutral;0.9287557005882263;perhaps you want to add something because you have also been quoted
+1999-10-07;1999;October;REPORT;Neutral;0.7215954661369324;duisenberg i have seen that your remarks christian which you made in french seemed suddenly through the translation to adopt quite another meaning and that was a phenomenon which we have to deal with and to cope with
+1999-10-07;1999;October;REPORT;Neutral;0.9769779443740845;but there it was purely translation which gave another interpretation to the remarks than that given in the original language
+1999-10-07;1999;October;REPORT;Neutral;0.8892841935157776;question i have an additional question to the previous question
+1999-10-07;1999;October;REPORT;Neutral;0.9818257093429565;the remarks in french adopted quite another meaning in the english translation
+1999-10-07;1999;October;REPORT;Neutral;0.9313568472862244;what kind of other meaning
+1999-10-07;1999;October;REPORT;Positive;0.6835477352142334;was it stronger than was originally meant at the beginning
+1999-10-07;1999;October;REPORT;Neutral;0.8466907143592834;it is not so clear
+1999-10-07;1999;October;REPORT;Neutral;0.9884761571884155;duisenberg very specifically in the english translation in the parliament the translators used the word probable in a certain context whereas the word probable did not appear in the french text
+1999-10-07;1999;October;REPORT;Neutral;0.45751631259918213;question so it was stronger in the translation
+1999-10-07;1999;October;REPORT;Neutral;0.4567119777202606;duisenberg in the translation it was stronger yes
+1999-10-07;1999;October;REPORT;Neutral;0.9526578783988953;question mr duisenberg i have to go back to the question about the vote whether the decision taken today to leave the rates unchanged was taken without a vote
+1999-10-07;1999;October;REPORT;Neutral;0.7939141392707825;because i did not exactly understand
+1999-10-07;1999;October;REPORT;Neutral;0.9205266833305359;you talked about a great harmony but you did not say whether it was a harmony with a vote or without
+1999-10-07;1999;October;REPORT;Neutral;0.9574503302574158;duisenberg but the problem  if i answer this question  is that i have to answer it every time which i do not want to do but  for this time  i will make an exception
+1999-10-07;1999;October;REPORT;Neutral;0.9234521389007568;there was no vote
+1999-10-07;1999;October;REPORT;Neutral;0.9475432634353638;question translation please mr president your interpretation of the interpretation of your statements makes me raise the question as to whether you would put things as your colleague mr greenspan always does congressman if you got this right then ive done something wrong
+1999-10-07;1999;October;REPORT;Neutral;0.6839221715927124;duisenberg i hope not
+1999-10-07;1999;October;REPORT;Neutral;0.9133549332618713;i hope that i will always be perfectly transparent clear and predictable
+1999-10-07;1999;October;REPORT;Neutral;0.8803402185440063;so i hope to be understood well
+1999-10-07;1999;October;REPORT;Neutral;0.9842023849487305;contact european central bank directorate general communications sonnemannstrasse 20 60314 frankfurt am main germany 49 69 1344 7455 mediaecbeuropaeu reproduction is permitted provided that the source is acknowledged
+1999-10-07;1999;October;REPORT;Neutral;0.8690058588981628;media contacts

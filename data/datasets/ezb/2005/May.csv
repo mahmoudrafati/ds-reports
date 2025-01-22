@@ -1,5 +1,39 @@
 Date;Year;Month;Type;sentiment;sentiment_score;sentence
-2005-05-04;2005;May;Monetary Policy Decisions;Neutral;0.9922506213188172;at todays meeting which was held in berlin the governing council of the ecb decided that the minimum bid rate on the main refinancing operations and the interest rates on the marginal lending facility and the deposit facility will remain unchanged at 200 300 and 100 respectively
-2005-05-04;2005;May;Monetary Policy Decisions;Neutral;0.936825692653656;today
-2005-05-04;2005;May;Monetary Policy Decisions;Neutral;0.9377869963645936;cet
-2005-05-04;2005;May;Monetary Policy Decisions;Neutral;0.9819229245185852;the president of the ecb will comment on the considerations underlying these decisions at a press conference starting at 230 pm
+2005-05-04;2005;May;REPORT;Positive;0.6276906132698059;introductory statement with qa jeanclaude trichet president of the ecblucas papademos vice president of the ecbberlin 4 may 2005 jump to the transcript of the questions and answers ladies and gentlemen the vicepresident and i are very pleased to welcome you to the press conference here in berlin
+2005-05-04;2005;May;REPORT;Neutral;0.6441481113433838;today is the 11th time that the governing council has met outside frankfurt and i would like to thank president weber for his invitation and hospitality
+2005-05-04;2005;May;REPORT;Positive;0.8286154866218567;let me also express our gratitude to the staff of the deutsche bundesbank for their excellent organisation of todays meeting
+2005-05-04;2005;May;REPORT;Neutral;0.9539896845817566;let me now report on the outcome of todays meeting which was also attended by commissioner almunia
+2005-05-04;2005;May;REPORT;Neutral;0.5780753493309021;on the basis of our regular economic and monetary analyses we continue to see no significant evidence of a buildup of underlying domestic inflationary pressures in the euro area
+2005-05-04;2005;May;REPORT;Neutral;0.9881485104560852;accordingly we have left the key ecb interest rates unchanged
+2005-05-04;2005;May;REPORT;Positive;0.8602136969566345;the exceptionally low level of interest rates across the entire maturity spectrum provides considerable support to economic activity in the euro area
+2005-05-04;2005;May;REPORT;Negative;0.9671106934547424;at the same time continued vigilance with regard to upside risks to price stability is warranted
+2005-05-04;2005;May;REPORT;Neutral;0.9523559212684631;allow me to elaborate on our decision turning first to the economic analysis
+2005-05-04;2005;May;REPORT;Neutral;0.7831263542175293;regarding the current situation and the shortterm outlook for economic activity recent data and survey indicators are on balance on the downside
+2005-05-04;2005;May;REPORT;Negative;0.983875036239624;some of the downward risks to economic growth identified earlier in particular those related to persistently high oil prices appear to have partially materialised over the past few months
+2005-05-04;2005;May;REPORT;Positive;0.9914788603782654;at the same time when looking beyond the short term conditions remain in place for stronger real gdp growth
+2005-05-04;2005;May;REPORT;Positive;0.9337356090545654;on the external side euro area exports should continue to be supported by foreign demand
+2005-05-04;2005;May;REPORT;Positive;0.9924811124801636;on the domestic side investment should benefit from the very favourable financing conditions the robust corporate earnings currently being observed and ongoing improvements in corporate efficiency
+2005-05-04;2005;May;REPORT;Neutral;0.4956100881099701;consumption growth should evolve broadly in line with expected developments in disposable income
+2005-05-04;2005;May;REPORT;Negative;0.9887958765029907;downside risks to economic growth continue to be related to oil price developments and global imbalances
+2005-05-04;2005;May;REPORT;Neutral;0.9893527030944824;turning to price developments according to eurostats flash estimate annual hicp inflation was 21 in april unchanged from march
+2005-05-04;2005;May;REPORT;Neutral;0.9382083415985107;over the coming months annual hicp inflation rates are likely to remain around these levels
+2005-05-04;2005;May;REPORT;Negative;0.9774088859558105;wage increases have remained contained over recent quarters and in the context of moderate economic growth and weak labour markets this trend should continue for the time being
+2005-05-04;2005;May;REPORT;Neutral;0.8296306729316711;overall when looking ahead we see no significant evidence of underlying domestic inflationary pressures building up in the euro area so that inflation rates should develop in line with price stability
+2005-05-04;2005;May;REPORT;Negative;0.5901558995246887;however there continue to be upside risks to price stability relating mainly to oil price developments and their potential to lead to secondround effects stemming from wage and pricesetting behaviour
+2005-05-04;2005;May;REPORT;Neutral;0.7501499652862549;in order to avoid this it is important that the social partners continue to assume their responsibilities
+2005-05-04;2005;May;REPORT;Positive;0.9871993660926819;as regards the monetary analysis monetary and credit growth remain strong despite some moderation over the recent past
+2005-05-04;2005;May;REPORT;Neutral;0.8364641666412354;these developments mainly reflect the stimulative effect of the low level of interest rates in the euro area
+2005-05-04;2005;May;REPORT;Positive;0.9023261070251465;as monetary dynamics over the past year have mainly been driven by developments in the most liquid components of m3 this continues to signal upside risks to price stability in the medium to longer term
+2005-05-04;2005;May;REPORT;Neutral;0.7663252949714661;to sum up the economic analysis suggests that underlying domestic inflationary pressures remain contained
+2005-05-04;2005;May;REPORT;Neutral;0.9347580075263977;however upside risks to price stability over the medium term need to be monitored closely
+2005-05-04;2005;May;REPORT;Neutral;0.7981682419776917;crosschecking with the monetary analysis supports the case for continued vigilance with regard to the materialisation of such risks
+2005-05-04;2005;May;REPORT;Neutral;0.9673349857330322;against this background longerterm inflation expectations need to be monitored closely
+2005-05-04;2005;May;REPORT;Negative;0.9562886357307434;as regards fiscal policies recent information and forecasts suggest little progress in reducing fiscal imbalances in the euro area
+2005-05-04;2005;May;REPORT;Neutral;0.7432485818862915;a timely and full implementation of consolidation commitments is essential
+2005-05-04;2005;May;REPORT;Positive;0.9865587949752808;this will strengthen the confidence of investors and consumers in the soundness of economic policies
+2005-05-04;2005;May;REPORT;Neutral;0.9215196371078491;at the same time it is essential to implement in a strict and timely manner the revised stability and growth pact procedures which are soon to enter into force so as to underpin the credibility of the eu fiscal framework
+2005-05-04;2005;May;REPORT;Positive;0.8526556491851807;the governing council has repeatedly argued in favour of structural reforms to improve the potential for higher economic growth in the euro area
+2005-05-04;2005;May;REPORT;Positive;0.8127955198287964;authorities are aware of the structural obstacles and have taken important measures to address them but continued reforms will be needed in order to keep up with the unavoidable challenges arising from an ongoing deepening in the division of labour at the global level rapid technological change and population ageing
+2005-05-04;2005;May;REPORT;Positive;0.9722324013710022;it is important to explain to the general public that these reforms will progressively deliver higher growth and lead to more job creation and that as a result our societies will be better off
+2005-05-04;2005;May;REPORT;Negative;0.9938217401504517;over recent years uncertainties surrounding the structural reform agenda in some euro area countries appear to have hindered the necessary improvement in the confidence of consumers and entrepreneurs
+2005-05-04;2005;May;REPORT;Positive;0.9896300435066223;a clear commitment to implementing the reforms and the explanation of their benefits will help to reduce such uncertainties and thereby make a considerable contribution to improving the economic outlook for the euro area

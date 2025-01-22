@@ -1,12 +1,218 @@
 Date;Year;Month;Type;sentiment;sentiment_score;sentence
-1999-03-04;1999;March;Monetary Policy Decisions;Neutral;0.9921162724494934;the governing council also decided today that for forthcoming longerterm refinancing operations of the eurosystem the multiple rate method of allotment will be applied starting from the next such operation which is to be settled on 25 march 1999 until otherwise indicated
-1999-03-04;1999;March;Monetary Policy Decisions;Neutral;0.9546740055084229;at todays meeting the governing council reviewed the latest monetary financial and economic developments
-1999-03-04;1999;March;Monetary Policy Decisions;Neutral;0.9723036289215088;taking into account all the information available the governing council confirmed its earlier assessment of the outlook for price stability
-1999-03-04;1999;March;Monetary Policy Decisions;Neutral;0.9812476634979248;in addition the interest rate on the marginal lending facility will continue to be 45 and the interest rate on the deposit facility will remain 20
-1999-03-04;1999;March;Monetary Policy Decisions;Neutral;0.9741873145103456;they will be conducted as fixed rate tenders at an interest rate of 30
-1999-03-04;1999;March;Monetary Policy Decisions;Neutral;0.9889376163482666;against this background it decided that for the main refinancing operations to be settled on 10 and 17 march 1999 the same conditions will apply as for the previous ones ie
-1999-03-18;1999;March;Monetary Policy Decisions;Neutral;0.9672382473945618;they will be fixed rate tenders conducted at an interest rate of 30
-1999-03-18;1999;March;Monetary Policy Decisions;Neutral;0.9855725169181824;at todays meeting the governing council of the ecb reviewed the latest information on the monetary financial and economic situation in the euro area against the background of its stabilityoriented monetary policy strategy
-1999-03-18;1999;March;Monetary Policy Decisions;Neutral;0.9812476634979248;in addition the interest rate on the marginal lending facility will continue to be 45 and the interest rate on the deposit facility will remain 20
-1999-03-18;1999;March;Monetary Policy Decisions;Neutral;0.9895867109298706;therefore it decided that for the main refinancing operations to be settled on 24 and 31 march and 7 april 1999 the same conditions will apply as for the main refinancing operations already settled this year ie
-1999-03-18;1999;March;Monetary Policy Decisions;Negative;0.9874985814094543;the governing council confirmed its earlier assessment that the prospects for price stability remain favourable
+1999-03-04;1999;March;REPORT;Neutral;0.9412328600883484;ecb press conference introductory statement willem f duisenberg president of the european central bankthursday 4 march 1999 ladies and gentlemen the vicepresident and i are here today to report on the outcome of todays meetings of the governing council and of the general council of the european central bank
+1999-03-04;1999;March;REPORT;Neutral;0.9636868834495544;let me start with the governing councils discussion on recent economic developments and the decisions that the governing council has taken today in the field of monetary policy
+1999-03-04;1999;March;REPORT;Neutral;0.9813281297683716;after a comprehensive and careful examination of recent trends and ongoing evaluations of the economic outlook for the euro area economy there was consensus that some of the risks identified earlier in particular with regard to real gdp growth had materialised in the fourth quarter of 1998 there was also consensus that the impact of these developments on the balance of risks for price stability would need to be examined further in the context of the monetary policy strategy adopted by the eurosystem
+1999-03-04;1999;March;REPORT;Neutral;0.9055994749069214;at this juncture taking into account all the information available the governing council confirmed its earlier assessment of the outlook for price stability
+1999-03-04;1999;March;REPORT;Neutral;0.9890069961547852;against this background it decided that for the main refinancing operations to be settled on 10 and 17 march 1999 the same conditions will apply as for the previous one ie
+1999-03-04;1999;March;REPORT;Neutral;0.9672382473945618;they will be fixed rate tenders conducted at an interest rate of 30
+1999-03-04;1999;March;REPORT;Neutral;0.9812476634979248;in addition the interest rate on the marginal lending facility will continue to be 45 and the interest rate on the deposit facility will remain 20
+1999-03-04;1999;March;REPORT;Neutral;0.9826521873474121;let me report in some more detail on the governing councils deliberations and thereby provide explanations for the decisions we took today
+1999-03-04;1999;March;REPORT;Neutral;0.7442344427108765;starting with the monetary developments in the euro area at the start of stage three of emu the broad monetary aggregate m3 expanded at an annual rate of 57 in january 1999 against 45 in december 1998 this upturn was largely due to an acceleration in overnight deposits
+1999-03-04;1999;March;REPORT;Negative;0.9891133308410645;this in turn may be explained by the low level of interest rates which also contributed to credit to the private sector to accelerate further in january 1999 to 94 which is particularly notable as other indicators of the economy are signalling a slowdown in activity
+1999-03-04;1999;March;REPORT;Negative;0.5107629299163818;monthly data on monetary aggregates can be volatile
+1999-03-04;1999;March;REPORT;Neutral;0.9662874341011047;m3 growth is therefore monitored on the basis of threemonth moving averages of the 12month growth rate of m3 which stood at 49 in the period from november 1998 to january 1999 this was 02 percentage point higher than the figure recorded in the previous threemonth period and is 04 percentage point above the reference value of 4½
+1999-03-04;1999;March;REPORT;Neutral;0.9633601903915405;against this background and in view of the uncertainty relating to special factors pertaining to the changeover to the stage three environment and the introduction of the euro the governing council does not consider the acceleration of m3 at the start of stage three as a signal of future inflationary pressures
+1999-03-04;1999;March;REPORT;Neutral;0.9656764268875122;however a close monitoring of monetary developments in the coming months remain necessary to give more conclusive evidence of the underlying causes and the permanent or temporary nature of the rise in m3 growth
+1999-03-04;1999;March;REPORT;Negative;0.879462718963623;turning to financial indicators euro area capital markets underwent a correction in february which was mainly linked to spillovers from the united states and japan
+1999-03-04;1999;March;REPORT;Negative;0.9905980229377747;this followed a decline in longterm interest rates in january which had brought bond yields in the euro area to the lowest levels seen since the late 1940s
+1999-03-04;1999;March;REPORT;Neutral;0.9899252653121948;the euro area yield curve shifted upwards across the entire maturity spectrum during february
+1999-03-04;1999;March;REPORT;Positive;0.9870495200157166;let me also recall that the nominal effective exchange rate of the euro area in early march stood around 1 below its level on 1 february and around 4 below its starting level on 4 january 1999 at the same time recent developments appear to have led to a reduction in some of the uncertainties surrounding the evolution of the world economy in 1999 this mainly relates to the strong performance of the us economy but may also be due to signs of improvement in the real economies of some asian
+1999-03-04;1999;March;REPORT;Neutral;0.5988460779190063;nevertheless in the view of the governing council it is too early at present for a truly favourable assessment of the external environment for the euro area
+1999-03-04;1999;March;REPORT;Neutral;0.5826296806335449;risks pertaining to external imbalances continuing risk aversion and the corresponding weakness of private longterm capital flows and real investment to emerging market economies will need to be examined closely
+1999-03-04;1999;March;REPORT;Neutral;0.9888050556182861;in the euro area the latest indicators confirm that those risks which were identified earlier have now materialised to some extent
+1999-03-04;1999;March;REPORT;Negative;0.9931504130363464;according to preliminary and incomplete data from national sources real gdp growth in the euro area weakened in the fourth quarter of 1998 when compared with the previous quarter
+1999-03-04;1999;March;REPORT;Negative;0.995297372341156;while more precise estimates will soon become available from eurostat the evidence available suggests that activity in the euro area has been slowing down in recent months
+1999-03-04;1999;March;REPORT;Negative;0.9782462120056152;this is particularly apparent in the production of themanufacturing sector where output in the fourth quarter of 1998 fell by almost 1 compared with the previous quarter
+1999-03-04;1999;March;REPORT;Neutral;0.9007875919342041;these developments broadly confirm the pattern observed earlier in industrial confidence which was on a declining trend in the second half of 1998 the latest data on industrial confidence in the euro area ie
+1999-03-04;1999;March;REPORT;Negative;0.9947754144668579;those released by the european commission today indicate that industrial confidence has weakened further
+1999-03-04;1999;March;REPORT;Negative;0.5548672676086426;some recent wage developments in the euro area might have contributed to that
+1999-03-04;1999;March;REPORT;Negative;0.9566457867622375;the level of unemployment has remained more or less unchanged over the past four months
+1999-03-04;1999;March;REPORT;Neutral;0.9412323236465454;finally consumer confidence in the euro area has remained unchanged from the high levels seen at the beginning of the year
+1999-03-04;1999;March;REPORT;Neutral;0.9436575770378113;with regard to capacity utilisation in the manufacturing sector which fell further in the fourth quarter of 1998 and retail sales which up to november 1998 pointed towards broadly sustained growth no new data are yet available
+1999-03-04;1999;March;REPORT;Negative;0.9905962944030762;overall with regard to the cyclical situation recent data confirm our earlier expectations that there are still downside risks for output growth
+1999-03-04;1999;March;REPORT;Neutral;0.9881293177604675;the governing council will continue its thorough analysis and very close monitoring of underlying trends and review its broad outlook for the euro area accordingly on an ongoing basis taking into account in a forwardlooking manner the impact of both domestic and external developments
+1999-03-04;1999;March;REPORT;Neutral;0.9882742166519165;with regard to the latest data on the harmonised index of consumer prices hicp the annual increase for january 1999 was 08 which is unchanged compared with the previous two months taking account of the most recent revisions
+1999-03-04;1999;March;REPORT;Neutral;0.9539729952812195;looking at a breakdown of the hicp a slight decline in the rate of increase in service prices from 19 in december 1998 to 18 in january 1999 was offset by a slight increase in goods prices from 01 to 02
+1999-03-04;1999;March;REPORT;Negative;0.9689903855323792;the fall in the rate of change in services prices was mainly due to lower price increases for transport and communications this may have been a reflection of increased competition in these sectors
+1999-03-04;1999;March;REPORT;Negative;0.9937410950660706;on the other hand downward pressure from energy prices on goods prices diminished somewhat
+1999-03-04;1999;March;REPORT;Negative;0.9032933712005615;on balance the current data continue to suggest that there are no significant upward or downward pressures on prices in the short term
+1999-03-04;1999;March;REPORT;Neutral;0.9903180599212646;the pattern of risks to price stability has also remained broadly unchanged on balance
+1999-03-04;1999;March;REPORT;Negative;0.9912694692611694;on the upward side wage developments are a matter of concern as would be any loosening of fiscal policies and the implications of this for achieving the objectives laid down in the stability and growth pact
+1999-03-04;1999;March;REPORT;Neutral;0.9845470786094666;in addition recent exchange rate trends need to be monitored closely also in terms of their impact on prices
+1999-03-04;1999;March;REPORT;Negative;0.9863643050193787;concerning downward risks in particular the slowdown in the euro area economy is a cause for concern
+1999-03-04;1999;March;REPORT;Neutral;0.9734881520271301;in conclusion taking the latest available evidence into account at todays meeting the governing council confirmed its assessment regarding the outlook for price developments
+1999-03-04;1999;March;REPORT;Neutral;0.9893621802330017;the governing council therefore decided to keep ecb interest rates unchanged at the levels currently prevailing
+1999-03-04;1999;March;REPORT;Neutral;0.9570508599281311;i should now like to inform you about some other matters considered today
+1999-03-04;1999;March;REPORT;Neutral;0.9921315312385559;the auction technique for the longerterm refinancing operations was reviewed by the governing council todayin its first two longerterm refinancing operations settled on 14 january and 25 february 1999 which are as a rule conducted by means of variable rate tenders the eurosystem applied the single rate dutch method of allotment
+1999-03-04;1999;March;REPORT;Neutral;0.9913299083709717;the single rate method was chosen in order to encourage less experienced counterparties to participate in the tender
+1999-03-04;1999;March;REPORT;Neutral;0.9837978482246399;the governing council takes the view that all interested counterparties should by now be sufficiently accustomed to the longerterm refinancing operation also to be in a position to participate in this type of operation under the more marketoriented multiple rate american method of allotment
+1999-03-04;1999;March;REPORT;Neutral;0.9872568845748901;against this background the governing council has decided that the multiple rate method of allotment will be applied starting from the next longerterm refinancing operation to be settled on 25 march 1999 until otherwise indicated
+1999-03-04;1999;March;REPORT;Neutral;0.9897909760475159;finally let me inform you that the general council today discussed the monetary policies of the central banks of the nonparticipating member states against the background of the monetary policy set by the eurosystem
+1999-03-04;1999;March;REPORT;Neutral;0.9025367498397827;as you will know the general council has taken over those tasks of the european monetary institute emi which still have to be performed during stage three because of the derogations of some member states
+1999-03-04;1999;March;REPORT;Positive;0.9470244646072388;one of these tasks relates to strengthening the coordination of the monetary policies in the community with the aim of ensuring price stability
+1999-03-04;1999;March;REPORT;Neutral;0.9867148995399475;the general council intends to conduct these coordination exercises biannually in future
+1999-03-04;1999;March;REPORT;Neutral;0.9318070411682129;we are now at your disposal should you have any questions
+1999-03-04;1999;March;REPORT;Negative;0.9264914393424988;transcript of the questions asked and the answers given by dr willem f duisenberg president of the ecb and christian noyer vicepresident of the ecb question translation mr president what in your view are the reasons for the weak euro
+1999-03-04;1999;March;REPORT;Neutral;0.8844701051712036;is it due to the interest rate and business activity differentials visàvis the united states as is argued by some or is it rather due to the political pressure brought to bear on the central bank as argue others
+1999-03-04;1999;March;REPORT;Neutral;0.823434591293335;duisenberg we think it is predominantly the strength of the us dollar rather than the weakness of the euro which is determining the picture
+1999-03-04;1999;March;REPORT;Neutral;0.9444509744644165;and of course the interest rate differentials may also have something to do with that
+1999-03-04;1999;March;REPORT;Neutral;0.8802829384803772;we think those are the main factors explaining the recent decline in the value of the euro which  if you look at the level which the euro has now reached  i would like to add is more or less the level which the dmark had during most of last year and the strength with which the euro started life was more the exception than the rule
+1999-03-04;1999;March;REPORT;Neutral;0.9351804852485657;question it did not come as a surprise that you did not change interest rates today since you and other board members have sort of said so in the last days
+1999-03-04;1999;March;REPORT;Neutral;0.8739352226257324;you have been pretty clear in what you and mr noyer said
+1999-03-04;1999;March;REPORT;Neutral;0.9577460289001465;was that ok with the other council members did you check that with them
+1999-03-04;1999;March;REPORT;Neutral;0.9092349410057068;duisenberg yeah we checked it today with them and it was ok question translation a young currency requires political support
+1999-03-04;1999;March;REPORT;Negative;0.9910200238227844;with regard to the interest rate differential could part of the weakness be due to the fact that confidence has not yet been underscored politically to the extent needed
+1999-03-04;1999;March;REPORT;Positive;0.9303440451622009;duisenberg yes we are doing our utmost to underscore the confidence that the world has in this young form of money the euro and we would certainly hope that not only the ecb but also politics would help us to the maximum extent possible in supporting this confidencebuilding process
+1999-03-04;1999;March;REPORT;Neutral;0.540418803691864;question translation is the interest rate differential between the united states and europe alone not an indication that calls for a reduction of official interest rates in europe are simply wrong
+1999-03-04;1999;March;REPORT;Neutral;0.8847786784172058;duisenberg i would not place it in that context
+1999-03-04;1999;March;REPORT;Neutral;0.7729392647743225;but what we are investigating is that there could be another related matter
+1999-03-04;1999;March;REPORT;Positive;0.955226480960846;namely that the very strong increase in credit to the private sector has partly led or has been used to buy us dollardenominated assets attracted by the higher interest rates to be earned in the united states
+1999-03-04;1999;March;REPORT;Negative;0.8339923024177551;and that by itself could have lets say financed the weakening of the euro or the strength of the dollar
+1999-03-04;1999;March;REPORT;Negative;0.4940955936908722;but we are not yet quite sure about that
+1999-03-04;1999;March;REPORT;Neutral;0.9728956818580627;we will have to have more data available on capital flows and on where the credit is going to precisely before we can come to any conclusions
+1999-03-04;1999;March;REPORT;Neutral;0.8803110122680664;but i am happy that you underscore the fact that interest rates in europe are at an extremely low level not only historically but also compared with other major areas in the world
+1999-03-04;1999;March;REPORT;Neutral;0.9355713725090027;that in itself underscores that in the current cyclical situation monetary policy can definitely be regarded as having taken an accommodating stance
+1999-03-04;1999;March;REPORT;Negative;0.9756805896759033;question are you concerned that the fall in the value of the euro against the pound sterling could create dangers of inflation in some peripheral countries such as ireland that have a very large trade exposure to sterling
+1999-03-04;1999;March;REPORT;Neutral;0.9128291010856628;duisenbergwe do not as yet have any indication whatsoever of that happening
+1999-03-04;1999;March;REPORT;Neutral;0.9820755124092102;of course as i said in my introduction we will closely monitor and keep monitoring the exchange rate developments also with a view to their impact on or the impact they might have on prices particularly through import prices
+1999-03-04;1999;March;REPORT;Neutral;0.8556045293807983;but  although i hate to mention individual countries i do want to point out that irish inflation is also still under 2
+1999-03-04;1999;March;REPORT;Neutral;0.7607589960098267;question i actually have two questions
+1999-03-04;1999;March;REPORT;Neutral;0.5303876996040344;the one concerns the economic outlook in the world and especially how would you see the trends right now in russia china and brazil
+1999-03-04;1999;March;REPORT;Neutral;0.9600255489349365;and the other question concerns the sort of a code of conduct for ecb board members
+1999-03-04;1999;March;REPORT;Neutral;0.986530601978302;the eu commission announced yesterday that it will have a sort of a code of conduct for eu commissioners ie
+1999-03-04;1999;March;REPORT;Neutral;0.9851804971694946;that all the commissioners will have to reveal their economic connections and double salaries etc
+1999-03-04;1999;March;REPORT;Neutral;0.8640757203102112;what about your members
+1999-03-04;1999;March;REPORT;Neutral;0.8491827249526978;duisenberg the first question
+1999-03-04;1999;March;REPORT;Neutral;0.864837110042572;mr noyer has just returned from the far east
+1999-03-04;1999;March;REPORT;Neutral;0.5014127492904663;so he has the best insight into world economic developments
+1999-03-04;1999;March;REPORT;Neutral;0.9600955247879028;on the second question i can be very brief our code of conduct is in the treaty
+1999-03-04;1999;March;REPORT;Neutral;0.9860240817070007;it is forbidden for members of the board to have any employment whether paid or unpaid outside their functions as members of the executive board
+1999-03-04;1999;March;REPORT;Neutral;0.9698224067687988;that is what the treaty says
+1999-03-04;1999;March;REPORT;Neutral;0.9585309028625488;but that relates to employment and therefore also to income from any employment
+1999-03-04;1999;March;REPORT;Negative;0.738803505897522;i know that in the finnish case there has been some particular scrutiny of certain pension rights
+1999-03-04;1999;March;REPORT;Neutral;0.9352439641952515;they fall entirely outside this matter
+1999-03-04;1999;March;REPORT;Neutral;0.895082950592041;noyeron the other question i am sorry i have no particular new information on china or brazil
+1999-03-04;1999;March;REPORT;Neutral;0.935086727142334;on brazil there is no new information at least not as far as we know
+1999-03-04;1999;March;REPORT;Neutral;0.5832952260971069;chinas situation might not be so clear there are some new developments
+1999-03-04;1999;March;REPORT;Neutral;0.6479210257530212;but what is interesting in asia is really that several countries that were hit by the first wave of difficulties the asean countries are now moving upwards
+1999-03-04;1999;March;REPORT;Neutral;0.9461666941642761;if you take malaysia thailand and south korea for instance they are clearly countries in which reforms are being implemented and their economies seem to be gradually picking up
+1999-03-04;1999;March;REPORT;Neutral;0.7637131214141846;perhaps this is less clear for other countries
+1999-03-04;1999;March;REPORT;Positive;0.9729132652282715;it seems that after all there are good signs also coming from these regions and from the emerging economies in general
+1999-03-04;1999;March;REPORT;Negative;0.8869338631629944;so we still have to wait and see if this is confirmed but there is not only bad news from an international point of view
+1999-03-04;1999;March;REPORT;Neutral;0.9897851347923279;may i also take this opportunity to say that it is clear that in these countries the rate of development in exports to european countries as compared with the development of exports to the united states has been roughly the same over the last two years
+1999-03-04;1999;March;REPORT;Positive;0.5389143228530884;that is to say that even if the us economy is seen to be more buoyant than that in europe one cannot say that the us economy has in fact helped these countries to recover more than the european economy because the development of exports has been roughly the same over that period
+1999-03-04;1999;March;REPORT;Neutral;0.8074514269828796;with regard to russia i dont think there are new developments that are obvious for the time being
+1999-03-04;1999;March;REPORT;Neutral;0.9620183110237122;they are clearly in the process of discussing with the imf
+1999-03-04;1999;March;REPORT;Positive;0.9637119770050049;the countries i was speaking of are proving to be in a better shape ie
+1999-03-04;1999;March;REPORT;Neutral;0.9893758296966553;countries that had negotiated a programme with the imf some time ago and that have implemented that programme so that first results of this policy are appearing
+1999-03-04;1999;March;REPORT;Negative;0.6774554252624512;this is quite satisfactory
+1999-03-04;1999;March;REPORT;Negative;0.9764503836631775;question what added complexity is there now in the setting of monetary policy of interest rate policy with the suggestion that the german economy shrunk in the last quarter of last year whilst other major economies of other countries such as france such as holland and spain were still growing
+1999-03-04;1999;March;REPORT;Negative;0.8897589445114136;does this cause complications and additional difficulties in setting interest policy
+1999-03-04;1999;March;REPORT;Negative;0.8194668889045715;duisenberg well it does make the evaluation and the judgement more difficult undoubtedly because developments in various parts of euroland seem to be diverging somewhat
+1999-03-04;1999;March;REPORT;Neutral;0.9749510884284973;so it causes us to say what is of the least complexity to reach what we have to our euro areawide view on developments
+1999-03-04;1999;March;REPORT;Negative;0.9881935715675354;question translation the greek minister of finance stated in an interview on sunday that where the rate of inflation in greece is concerned where its accession to monetary union is concerned this criterion might be weakened
+1999-03-04;1999;March;REPORT;Neutral;0.9762845635414124;in that context he referred to both the commission in brussels and the european central bank
+1999-03-04;1999;March;REPORT;Neutral;0.9874353408813477;he implied that these suggestions had come from both institutions
+1999-03-04;1999;March;REPORT;Neutral;0.8584921360015869;is he right
+1999-03-04;1999;March;REPORT;Neutral;0.9561785459518433;duisenberg we have in the context of the general council meeting i have just talked about briefly discussed the issue without even trying to reach any conclusion
+1999-03-04;1999;March;REPORT;Neutral;0.9826139807701111;what is a fact is that in the future when you have to judge a new entrant to the euro zone you will also have to make an assessment as was done in the past on the basis of the convergence criteria enumerated in the treaty
+1999-03-04;1999;March;REPORT;Neutral;0.9856910109519958;now it is a factthat the treaty was very precise in describing the criteria and how they had to be assessed in the first wave
+1999-03-04;1999;March;REPORT;Neutral;0.9866212606430054;the treaty is a little less precise in describing exactly how to interpret the criteria in the case of additional countries joining a then already existing euroland
+1999-03-04;1999;March;REPORT;Neutral;0.8602487444877625;for example this particular greek case for which we have reached no conclusion
+1999-03-04;1999;March;REPORT;Neutral;0.9879775047302246;we will come back to that later on when  i am almost inclined to say when the time is right  when actual access to the euro area is about to be negotiated
+1999-03-04;1999;March;REPORT;Neutral;0.9652314186096191;then we will come back to that
+1999-03-04;1999;March;REPORT;Neutral;0.9899724721908569;but  to mention just one example  one of the criteria was that the inflation rate should not deviate more than 1½ percentage points from the average rate of inflation of the three bestperforming countries
+1999-03-04;1999;March;REPORT;Neutral;0.9759441614151001;now how do you interpret that in future when you have an inflation rate for the euro area as a whole
+1999-03-04;1999;March;REPORT;Neutral;0.9690786004066467;do you then look at the three bestperforming countries
+1999-03-04;1999;March;REPORT;Neutral;0.9734242558479309;and if so do you look at eleven countries only or do you look at fifteen countries
+1999-03-04;1999;March;REPORT;Neutral;0.9902162551879883;those are things to be discussed at the time when actual entry into the euro zone becomes topical
+1999-03-04;1999;March;REPORT;Negative;0.8451206088066101;question yesterday we heard some rumours in the markets that there are some interventions for the euro
+1999-03-04;1999;March;REPORT;Neutral;0.5525808334350586;were those rumours or was it a fact
+1999-03-04;1999;March;REPORT;Neutral;0.7270419001579285;duisenberg it was just rumours
+1999-03-04;1999;March;REPORT;Neutral;0.8916301727294922;and they were not factual
+1999-03-04;1999;March;REPORT;Neutral;0.5984262824058533;question translation a further question on the exchange rate
+1999-03-04;1999;March;REPORT;Neutral;0.9328716993331909;it has been said time and again that the exchange rate is also being talked down by politicians not only by the economic data by the spread between business activity and the interest rates between euroland and the united states
+1999-03-04;1999;March;REPORT;Negative;0.8688391447067261;mr stark the vicepresident of the bundesbank has argued that someone in the political arena should say that a strong euro is favourable for the monetary union
+1999-03-04;1999;March;REPORT;Neutral;0.9013902544975281;who should say that
+1999-03-04;1999;March;REPORT;Neutral;0.9200021624565125;are you that someone or do you miss such a statement from the group of finance ministers
+1999-03-04;1999;March;REPORT;Positive;0.8826090693473816;duisenberg i will say that a stable euro is good for the monetary union
+1999-03-04;1999;March;REPORT;Neutral;0.9819968342781067;and i will say that most of all in the proper forum for example at the forthcoming meetings of the euro 11 group
+1999-03-04;1999;March;REPORT;Neutral;0.8867707252502441;that is what we want
+1999-03-04;1999;March;REPORT;Neutral;0.8640679121017456;question in listening to your statement it seems as though the risks came to the fore and i would like to ask you if you think today that the council has shifted its stance to looking more at the risks
+1999-03-04;1999;March;REPORT;Neutral;0.7528862953186035;duisenberg i dont think so
+1999-03-04;1999;March;REPORT;Neutral;0.9638139605522156;nor do i think that if you compare todays statement with last months you will find a difference in tone
+1999-03-04;1999;March;REPORT;Negative;0.842257022857666;we still see risks but we still see them both on the up side and on the down side
+1999-03-04;1999;March;REPORT;Neutral;0.6390677094459534;question two questions
+1999-03-04;1999;March;REPORT;Negative;0.6912156939506531;one you mentioned the recent wage developments that there was an upside risk to inflation
+1999-03-04;1999;March;REPORT;Neutral;0.9264624714851379;any word that you might have for the recent wage agreements found in germany
+1999-03-04;1999;March;REPORT;Negative;0.7204660773277283;do they especially constitute such a risk
+1999-03-04;1999;March;REPORT;Neutral;0.8612191677093506;and the second question concerns the change in the auction style that you announced today for the longer term refinancing instruments
+1999-03-04;1999;March;REPORT;Neutral;0.9510206580162048;is this change also an attempt to block socalled empty bids
+1999-03-04;1999;March;REPORT;Negative;0.9209860563278198;are you concerned about the high volume of bids that has been put in for the recent refinancing operations
+1999-03-04;1999;March;REPORT;Neutral;0.7326602339744568;duisenberg the first question on wage developments
+1999-03-04;1999;March;REPORT;Neutral;0.9420137405395508;of course the most recent ones we have become aware of were those in germany
+1999-03-04;1999;March;REPORT;Negative;0.7333526015281677;so of course in my statement we say that there is a potential risk involved
+1999-03-04;1999;March;REPORT;Neutral;0.7051039934158325;not only a risk for prices
+1999-03-04;1999;March;REPORT;Neutral;0.9212052226066589;that in particular but also for growth and employment
+1999-03-04;1999;March;REPORT;Neutral;0.97202467918396;so of course we have in particular those most recent wage developments in mind
+1999-03-04;1999;March;REPORT;Negative;0.9912170171737671;secondly the phenomenon that the allotment percentage of the refinancing operations is very low and has even tended to become smaller week after week is a matter of concern
+1999-03-04;1999;March;REPORT;Neutral;0.8601320385932922;but the changeover for the longerterm refinancing operations has nothing to do with that
+1999-03-04;1999;March;REPORT;Neutral;0.959297776222229;we will address this problem of a strong oversubscription to certain financing operations  which is there in some countries more than in others  we will address those questions in the course of next weeks
+1999-03-04;1999;March;REPORT;Negative;0.958229660987854;question a few weeks ago you mentioned that the ecb might react to major misalignments in the exchange markets
+1999-03-04;1999;March;REPORT;Neutral;0.9114285707473755;unfortunately misalignment is open to different interpretations
+1999-03-04;1999;March;REPORT;Neutral;0.953029990196228;so would you please line out the main factors the ecb uses to detect misalignment
+1999-03-04;1999;March;REPORT;Neutral;0.9787582159042358;duisenberg i have said repeatedly that within the broad range of indicators we monitor in order to determine our monetary policy strategy and decisions the exchange rate is an important indicator but only one
+1999-03-04;1999;March;REPORT;Neutral;0.6029340624809265;but it is an important one
+1999-03-04;1999;March;REPORT;Neutral;0.9377785325050354;and if we came to the judgement that the exchange rate developments are really seriously out of line with the economic fundamentals of the various large areas in the world  europe and the united states  then we would probably react but i cannot elaborate on that any more than i have done right now
+1999-03-04;1999;March;REPORT;Neutral;0.9382254481315613;question translation mrduisenberg i have a question of a more general nature how would you assess the european populaces sentiment today two months from the introduction of the euro
+1999-03-04;1999;March;REPORT;Positive;0.5107365250587463;do you feel that you have made good progress along the road of gradually gaining the trust of european citizens and where do you see a need to improve your communications to strengthen that confidence
+1999-03-04;1999;March;REPORT;Neutral;0.9893664717674255;and will english remain the only language in the long run in which the ecb wishes to communicate with the population in europe
+1999-03-04;1999;March;REPORT;Positive;0.9550703167915344;duisenbergi believe we are well on the way
+1999-03-04;1999;March;REPORT;Neutral;0.6720902323722839;what we also try to measure across europe is the confidence that the population at large has in the euro
+1999-03-04;1999;March;REPORT;Neutral;0.599690854549408;the results of those efforts to measure the degree of confidence are becoming ever more positive not only in the euro area but even in some of the out countries and i could think of no means with which we could publish more than we are already doing and with which we could give more speeches than we are already delivering
+1999-03-04;1999;March;REPORT;Neutral;0.9256742596626282;i think we are making the most extensive publication efforts both in the form of articles or notes to be published of speeches being given intended for the public at large to inspire confidence in the euro and i would not know what to do where to find the time to do even more than that
+1999-03-04;1999;March;REPORT;Neutral;0.9679972529411316;as to the second part of the question we do communicate in all languages
+1999-03-04;1999;March;REPORT;Neutral;0.9804707765579224;all our official publications that are the annual report the quarterly report are published in the 11 languages of the community
+1999-03-04;1999;March;REPORT;Neutral;0.983454704284668;we even decided which was not compulsory to publish our monthly bulletin in 11 languages in europe and then i must say we often give speeches in 11 languages to the extent that we are able to do that
+1999-03-04;1999;March;REPORT;Negative;0.5107195377349854;question mr president do you see any signs at all in the euro zone of deflation particularly in france and germany
+1999-03-04;1999;March;REPORT;Neutral;0.8241682052612305;duisenberg we have carefully assessed that risk and we have come to the conclusion that there are no signs of deflation developing in the euro area as such at the moment
+1999-03-04;1999;March;REPORT;Negative;0.9002654552459717;question mr duisenberg the german government interprets the flat yield curve as an indicator for a shortage in the demand for capital so that is one of the arguments behind the demands for lower interest rates
+1999-03-04;1999;March;REPORT;Neutral;0.9165744185447693;what is your opinion of this
+1999-03-04;1999;March;REPORT;Neutral;0.9246423840522766;can it be interpreted that way
+1999-03-04;1999;March;REPORT;Neutral;0.9811788201332092;duisenberg we do not think so and we will also discuss that in a thorough manner in the context of the forthcoming euro 11 meetings
+1999-03-04;1999;March;REPORT;Neutral;0.7669276595115662;but then i would like to add that the yield curve has risen somewhat and has already become somewhat steeper over the past few weeks
+1999-03-04;1999;March;REPORT;Negative;0.979804515838623;question i have two questions please the economic and financial committee  ex monetary committee  which met on monday and tuesday in brussels seemed to have serious doubts about the ability of france and germany to keep the budget deficit at around 2
+1999-03-04;1999;March;REPORT;Negative;0.9062181115150452;how much of this loosening of consolidation efforts is going into the weakening of the euro
+1999-03-04;1999;March;REPORT;Negative;0.9845970273017883;do you see that there is a lack of confidence which could lead to an increase in the longer term interest rates
+1999-03-04;1999;March;REPORT;Neutral;0.9191487431526184;thats the first question
+1999-03-04;1999;March;REPORT;Negative;0.9731053709983826;and then the second are you concerned that the weakening of the german economy could entail also a weakening of the eastern european countries
+1999-03-04;1999;March;REPORT;Neutral;0.9757896661758423;duisenberg i am aware that the economic and financial committee held a twoday meeting earlier this week in which they discussed the stability programs of france germany and a few other countries on the basis of an analysis by the european commission which has in the meantime been made public
+1999-03-04;1999;March;REPORT;Neutral;0.9782552123069763;it contains some critical remarks with which the ecb fully agreed
+1999-03-04;1999;March;REPORT;Negative;0.9726297855377197;and  as on earlier occasions  we and now also the european commission have expressed some concern about the determination of in particular the larger countries to adhere to the aims of the stability and growth pact and that in itself has led us to say that one of the risks we see of the upward risks is a looser fiscal position which you will find in my introductory statement if you read it carefully again
+1999-03-04;1999;March;REPORT;Negative;0.98224937915802;the weakening of the german economy which has been evident over the last quarter of 1998 could of course have an impact on its surrounding partners including  as you asked so specifically  eastern europe
+1999-03-04;1999;March;REPORT;Negative;0.8825687766075134;and it is for that reason that we do hope and very much encourage the german government to remedy some of the weakening of the economy whilst at the same time emphasising that such a weakening of the economy is not being caused by nor can it be remedied by monetary policy measures
+1999-03-04;1999;March;REPORT;Neutral;0.8499425053596497;question mr duisenberg i would agree that today your outlook seems as if you might be looking for scope on the downside maybe for an easing up as someone else just said and that maybe prices are one of the key factors you are looking at right now
+1999-03-04;1999;March;REPORT;Neutral;0.9382175803184509;duisenberg but then you are hineininterpretierend in my statement in which i gave equal weight i think to the upward and the downward shifts which led to the conclusion not to change interest rates at all
+1999-03-04;1999;March;REPORT;Neutral;0.9120064377784729;question so youre still neutral youre saying
+1999-03-04;1999;March;REPORT;Neutral;0.8272042274475098;duisenberg that is correct
+1999-03-04;1999;March;REPORT;Neutral;0.8761374950408936;question on foreign exchange if i were a foreign exchange trader you said that you want a stable euro
+1999-03-04;1999;March;REPORT;Negative;0.951361358165741;i almost think that we are not getting close to a eurodollar level that makes you concerned right now
+1999-03-04;1999;March;REPORT;Neutral;0.7857267260551453;is that a correct assumption
+1999-03-04;1999;March;REPORT;Neutral;0.5268908143043518;duisenberg yes i am not concerned with the level that the euro has currently reached
+1999-03-04;1999;March;REPORT;Negative;0.505608081817627;i already put it against the background of the levels of the dmark during last year and it is not so much the level that is of some concern
+1999-03-04;1999;March;REPORT;Negative;0.9767955541610718;if the movement were to continue there could be cause for concern
+1999-03-04;1999;March;REPORT;Neutral;0.9357607960700989;question translation president duisenberg the federal minister of finance mr lafontaine was your guest
+1999-03-04;1999;March;REPORT;Neutral;0.9333135485649109;did he call for a reduction of the key interest rates as emphatically as he is doing in public or did he mumble about it and what did you tell him
+1999-03-04;1999;March;REPORT;Neutral;0.9526849389076233;duisenberg that was yes i believe that was two weeks ago and i must confess that i have heard him louder through the media than in direct contact
+1999-03-04;1999;March;REPORT;Negative;0.9859646558761597;question mr duisenberg would you share the concern of the german government that a failure of european governments to reach an agreement on the financial architecture of the european union by the end of march could cause turmoil on financial markets and would weaken the euro
+1999-03-04;1999;March;REPORT;Neutral;0.9551340341567993;duisenberg no i am aware that one minister has made some statements to that effect today
+1999-03-04;1999;March;REPORT;Negative;0.677118182182312;i do not share that concern
+1999-03-04;1999;March;REPORT;Neutral;0.6701086759567261;i do not see what it can have to do with the functioning of the euro
+1999-03-04;1999;March;REPORT;Neutral;0.8869485855102539;question mr president you said you talked to mr lafontaine at the last meeting
+1999-03-04;1999;March;REPORT;Neutral;0.9713281989097595;he has given you a lot of suggestions what the ecb should be doing
+1999-03-04;1999;March;REPORT;Negative;0.6405348181724548;you said that germany maybe should take some steps to remedy the economy
+1999-03-04;1999;March;REPORT;Neutral;0.9349734783172607;did you give him any specific advice about what germany should do with its economy
+1999-03-04;1999;March;REPORT;Negative;0.983864963054657;duisenberg not specifically to germany but we continuously give advice to point to the ministers that the biggest problem they and we are facing in europe is the unemployment problem
+1999-03-04;1999;March;REPORT;Negative;0.56935715675354;we keep explaining that the nature of that problem is predominantly of a structural nature the lacking flexibility of markets both labour and product markets and that if governments can do anything they could tackle and to our mind they should tackle that cause of the unemployment in the first place
+1999-03-04;1999;March;REPORT;Neutral;0.9842023849487305;contact european central bank directorate general communications sonnemannstrasse 20 60314 frankfurt am main germany 49 69 1344 7455 mediaecbeuropaeu reproduction is permitted provided that the source is acknowledged
+1999-03-04;1999;March;REPORT;Neutral;0.8690058588981628;media contacts
