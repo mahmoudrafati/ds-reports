@@ -34,7 +34,7 @@ def seleniumstarter(url, chrome = BROWSER):
     last_height = chrome.execute_script("return document.body.scrollHeight")
     while True:
         elem.send_keys(Keys.END)
-        time.sleep(2) 
+        time.sleep(10) 
         new_height = chrome.execute_script("return document.body.scrollHeight")        
         if new_height == last_height:
             break
