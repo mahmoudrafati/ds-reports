@@ -18,22 +18,13 @@ URL = "https://www.ecb.europa.eu/press/pubbydate/html/index.en.html?name_of_publ
 CATEGORY = { 'Monetary Policy Account' : 'MPA',
              'Monetary Policy Statement' : 'MPS',}
 
-# def seleniumstarter(url, chrome = BROWSER):
-#     chrome.get(url)
-#     elem = chrome.find_element(By.TAG_NAME,"html")
-#     elem.send_keys(Keys.END)
-#     time.sleep(70)
-#     elem.send_keys(Keys.HOME)
-
-#     source = chrome.page_source
-#     return source
 def seleniumstarter(url, chrome = BROWSER):
     chrome.get(url)
     elem = chrome.find_element(By.TAG_NAME, "html")
     last_height = chrome.execute_script("return document.body.scrollHeight")
     while True:
         elem.send_keys(Keys.END)
-        time.sleep(10) 
+        time.sleep(2) 
         new_height = chrome.execute_script("return document.body.scrollHeight")        
         if new_height == last_height:
             break
