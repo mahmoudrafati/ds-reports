@@ -38,7 +38,6 @@ def seleniumstarter(url, chrome = BROWSER):
         new_height = chrome.execute_script("return document.body.scrollHeight")        
         if new_height == last_height:
             break
-        print('... scraping...')
         last_height = new_height
     source = chrome.page_source
     return source
