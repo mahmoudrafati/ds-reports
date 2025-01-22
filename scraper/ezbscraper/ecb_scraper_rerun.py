@@ -90,7 +90,7 @@ def main():
     for date, content in tqdm(links.items(), desc='Transforming texts to csv'):
         text = get_text(content['link'])
         type = content['type']
-        df = pd.DataFrame({'Date': [date],'Type': [type], 'Text': [text]})
+        df = pd.DataFrame({'Date': date, 'Type': type, 'Text': text}, index=[0])
         year_path = os.path.join(output_dir, date.split('-')[0])
         if not os.path.exists(year_path):
             os.makedirs(year_path)
