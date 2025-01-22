@@ -97,7 +97,7 @@ def process_file(data, output_path):
     df = pd.read_csv(data, sep=';')
     df['Date'] = pd.to_datetime(df['Date'], errors='raise')
 
-    df['Text'] = df['Report'].progress_apply(lambda x: clean_text(x))
+    df['Text'] = df['Text'].apply(lambda x: clean_text(x))
     df['Month'] = df['Date'].dt.strftime('%B')
 
 
@@ -113,7 +113,7 @@ def process_file(data, output_path):
     df_processed = df_expanded.apply(pd.Series.explode).reset_index(drop=True)
 
     # Add sentiment analysis
-    sentiment_results = df_processed['sentence'].progress_apply(extract_sentiment)
+    sentiment_results = df_processed['sentence'].apply(extract_sentiment)
     df_processed = pd.concat([df_processed, sentiment_results], axis=1)
 
     # Format dates
@@ -131,11 +131,22 @@ def main():
     base_path = 'data/raw_pdf/ezb/'
     output_path = 'data/datasets/ezb'
 
-    for files in os.listdir(base_path):
-        if files.endswith('.csv'):
-            print(f"Processing {files}...")
-            process_file(os.path.join(base_path, files), os.path.join(output_path, files))
-            print(f"File {files} processed.")
+    # for files in os.listdir(base_path):
+    #     if files.endswith('.csv'):
+    #         print(f"Processing {files}...")
+    #         process_file(os.path.join(base_path, files), os.path.join(output_path, files))
+    #         print(f"File {files} processed.")
+
+    # changing for new file structure
+    for year in os.listdir(base_path):
+        year_path = os.path.join(base_path, year)
+        if os.path.isdir(year_path):
+            for month in tqdm(os.listdir(year_path), desc=f"Processing {month} of {year}"):
+                month_path = os.path.join(year_path, month)
+                if month.endswith('.csv'):
+                    process_file(month_path, os.path.join(output_path, year, month))
+        
+
 
     print(f"Process completed in {time.time() - start_time:.2f} seconds.")  # End timing
 
