@@ -162,7 +162,7 @@ def analyze(data_dir):
             df_year = pd.concat([df_year, df_month])
         df_years = pd.concat([df_years, df_year])
     #view(df_years)
-    df_years['date'] = pd.to_datetime(df_years['Year'].astype(str) + '-' + df_years['Month'].astype(str), format='%Y-%B')
+    df_years['date'] = pd.to_datetime(df_years['Year'].astype(str) + '-' + df_years['Month'].astype(str) + '01', format='%Y-%B-%d')
     df_years = df_years.sort_values('date')
 
     # market data 
