@@ -23,6 +23,9 @@ def sentiment_analyse(csv):
     neutral_count = sentiment_counts.get('Neutral', 0)
     total_count = positive_count + negative_count + neutral_count
 
+    netto_sentiment = (positive_count - negative_count)/total_count
+    posive_rate = positive_count/(total_count*100)
+
     # count relative
     if total_count > 0:
         positive_norm = positive_count / total_count * 100
