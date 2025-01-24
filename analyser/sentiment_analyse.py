@@ -2,6 +2,51 @@ import os
 import pandas as pd
 import matplotlib.pyplot as plt
 from gtabview import view
+import wbgapi as wb
+
+def worldbank_data_fetcher():
+
+    g20_countries = [
+        "ARG",  # Argentinien
+        "AUS",  # Australien
+        "BRA",  # Brasilien
+        "CAN",  # Kanada
+        "CHN",  # China
+        "DEU",  # Deutschland
+        "FRA",  # Frankreich
+        "GBR",  # Großbritannien
+        "IND",  # Indien
+        "IDN",  # Indonesien
+        "ITA",  # Italien
+        "JPN",  # Japan
+        "KOR",  # Südkorea
+        "MEX",  # Mexiko
+        "RUS",  # Russland
+        "SAU",  # Saudi-Arabien
+        "ZAF",  # Südafrika
+        "TUR",  # Türkei
+        "USA",  # USA
+        # "EUU"  # Europäische Union (optional)
+    ]
+
+    series_dict = {
+        'gdp_growth': 'NY.GDP.MKTP.KD.ZG',
+        'yearly_bip': "FP.CPI.TOTL.ZG",
+        'real_interest_rate': 'FR.INR.RINR',
+        'lending_rate': 'FR.INR.LEND',
+        'unemployment_rate': 'SL.UEM.TOTL.ZS'
+    }
+
+    data_frames = {}
+    for series_name, series_code in series_dict.items():
+        df = wb.data.DataFrame(series_code,
+                               economy=g20_countries,
+                               time=range(2000, 2024),
+                               labels=True)
+        df = df.drop(columns=['Country'])
+        df_long = df.reset_index().melt(df, id_vars=['economy'], var_name='Year', value_name=series_name)
+        data_frames[series_name] = df
+    return data_frames
 
 
 def safe_float_convert(x):
