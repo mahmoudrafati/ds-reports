@@ -53,11 +53,16 @@ def worldbank_data_fetcher(ecos=G20_COUNTRIES):
 
     return market_agg
 
-def oecd_data_processer(csvfile):
+def oecd_data_processer(csvfile, subject):
     df = pd.read_csv(csvfile)
-    df_clean = df[['TIME_PERIOD','REF_AREA' ,'OBS_VALUE']]
+    df_clean = df[['TIME_PERIOD','REF_AREA', 'SUBJECT' ,'OBS_VALUE']]
     df_clean['TIME_PERIOD'] = pd.to_datetime(df_clean['TIME_PERIOD'])
     df_clean = df_clean.sort_values(by='TIME_PERIOD')
+
+    df_clean = df_clean[df_clean['SUBJECT'] == subject]
+    df_clean = df_clean.rename(columns={'OBS_VALUE': subject})
+    df_clean = df_clean.drop(columns=['SUBJECT'])
+
     return df_clean
 
 # output: DataFrame with sentiment metrics
