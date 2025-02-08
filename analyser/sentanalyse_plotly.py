@@ -140,16 +140,21 @@ def analyze(data_dir):
     df_years = df_years.sort_values('Date')
     #liebe dich bro, du brauchst keine wurzelbehandlung, keine sorge <3
 
-    # BANK DATA TO YEAR AGGREGATION
-    bank_agg = df_years.groupby(['Year']).agg({
+    # BANK DATA TO QUARTER AGGREGATION
+    bank_agg_quarterly = df_years.resample('QS').agg({
         'net_sentiment' : 'mean',
         'put_call_ratio' : 'mean',
         'sentiment_volatility' : 'mean'}
+        'total_mentions' : 'sum',
+        'postive_count' : 'sum',
+        'negative_count' : 'sum',
+        'neutral_count' : 'sum'
     ).reset_index()
 
-    bank_agg['sentiment_change'] = bank_agg['net_sentiment'].diff()
+    bank_agg_quarterly['sentiment_change'] = bank_agg_quarterly['net_sentiment'].diff()
+    bank_agg_quarterly['Year'] = bank_agg_quarterly['Date'].dt.year
 
-    return bank_agg
+    return bank_agg_quarterly
 
 # Plotting the net sentiment of the economy based on the bank sentiment
 def plot_netSentiment(data, targetmeasurement, bankname):
