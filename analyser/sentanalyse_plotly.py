@@ -72,8 +72,8 @@ def sentiment_analyse(csv):
     
     # Falls du monthname und yearname (aus der CSV) brauchst
     date = df.loc[0, 'Date']
-    monthname = df.loc[0, 'Month']
-    yearname  = df.loc[0, 'Year']
+    # monthname = df.loc[0, 'Month']
+    # yearname  = df.loc[0, 'Year']
     
     # Auszählen
     total_mentions = len(df)
@@ -101,8 +101,8 @@ def sentiment_analyse(csv):
     # Einen DataFrame mit den berechneten Werten zurückgeben
     sentiment_metrics = pd.DataFrame({
         'Date': [date],
-        'Year': [yearname],
-        'Month': [monthname],
+        # 'Year': [yearname],
+        # 'Month': [monthname],
         'total_mentions': [total_mentions],
         'positive_count': [positive_count],
         'negative_count': [negative_count],
