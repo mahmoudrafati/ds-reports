@@ -5,6 +5,8 @@ from gtabview import view
 import wbgapi as wb
 import numpy as np
 from sklearn.preprocessing import StandardScaler
+import plotly.graph_objs as go
+from plotly.subplots import make_subplots
 
 # economy codes for data fetcher
 G20_COUNTRIES = ["ARG", "AUS", "BRA", "CAN", "CHN", "DEU", "FRA", "GBR", "IND", "IDN", "ITA", "JPN", "KOR", "MEX", "RUS", "SAU", "ZAF", "TUR", "USA"]
@@ -50,6 +52,13 @@ def worldbank_data_fetcher(ecos=G20_COUNTRIES):
 
 
     return market_agg
+
+def oecd_data_processer(csvfile):
+    df = pd.read_csv(csvfile)
+    df_clean = df[['TIME_PERIOD','REF_AREA' ,'OBS_VALUE']]
+    df_clean['TIME_PERIOD'] = pd.to_datetime(df_clean['TIME_PERIOD'])
+    df_clean = df_clean.sort_values(by='TIME_PERIOD')
+    return df_clean
 
 # output: DataFrame with sentiment metrics
 def sentiment_analyse(csv):
@@ -140,35 +149,89 @@ def analyze(data_dir):
 # Plotting the net sentiment of the economy based on the bank sentiment
 def plot_netSentiment(data, targetmeasurement, bankname):
     df = data
-    fig, axs = plt.subplots(3, 2, figsize=(14, 8))
+    fig = make_subplots(rows=3, cols=2, subplot_titles=("GDP Growth %", "Lending Rate", "Real Interest Rate", "Lending Rate", "Unemployment Rate"))
+
+    fig.add_trace(
+        go.Scatter(x=df['Year'], y=df[targetmeasurement], mode='lines', name='Net Sentiment', line=dict(color='red')),
+        row=1, col=1
+    )
+    fig.add_trace(
+        go.Scatter(x=df['Year'], y=df['gdp_growth'], mode='lines', name='GDP Growth'),
+        row=1, col=1
+    )
+
+    fig.add_trace(
+        go.Scatter(x=df['Year'], y=df[targetmeasurement], mode='lines', name='Net Sentiment', line=dict(color='red')),
+        row=2, col=1
+    )
+    fig.add_trace(
+        go.Scatter(x=df['Year'], y=df['yearly_bip'], mode='lines', name='Yearly BIP'),
+        row=2, col=1
+    )
+
+    fig.add_trace(
+        go.Scatter(x=df['Year'], y=df[targetmeasurement], mode='lines', name='Net Sentiment', line=dict(color='red')),
+        row=3, col=1
+    )
+    fig.add_trace(
+        go.Scatter(x=df['Year'], y=df['real_interest_rate'], mode='lines', name='Real Interest Rate'),
+        row=3, col=1
+    )
+
+    fig.add_trace(
+        go.Scatter(x=df['Year'], y=df[targetmeasurement], mode='lines', name='Net Sentiment', line=dict(color='red')),
+        row=1, col=2
+    )
+    fig.add_trace(
+        go.Scatter(x=df['Year'], y=df['lending_rate'], mode='lines', name='Lending Rate'),
+        row=1, col=2
+    )
+
+    fig.add_trace(
+        go.Scatter(x=df['Year'], y=df[targetmeasurement], mode='lines', name='Net Sentiment', line=dict(color='red')),
+        row=2, col=2
+    )
+    fig.add_trace(
+        go.Scatter(x=df['Year'], y=df['lending_rate'], mode='lines', name='Lending Rate'),
+        row=2, col=2
+    )
+
+    fig.add_trace(
+        go.Scatter(x=df['Year'], y=df[targetmeasurement], mode='lines', name='Net Sentiment', line=dict(color='red')),
+        row=3, col=2
+    )
+    fig.add_trace(
+        go.Scatter(x=df['Year'], y=df['unemployment_rate'], mode='lines', name='Unemployment Rate'),
+        row=3, col=2
+    )
+
+    fig.update_layout(
+        title=f'{targetmeasurement} of G20 Countries (Standardized) based on {bankname} Sentiment',
+        height=800
+    )
+    fig.show()
+
+def plot_information(data, bankname):
+    # Plot feature correlations
+    import plotly.express as px
+    correlation = data[['net_sentiment_std', 'put_call_ratio_std', 'sentiment_volatility', 'gdp_growth_std', 'yearly_bip_std', 'real_interest_rate_std', 'lending_rate_std', 'unemployment_rate_std']].corr()
+    df = pd.DataFrame(correlation)
+    pd.set_option('display.max_rows', None)
+    pd.set_option('display.max_columns', None)
+    print(df)
+
+    fig = px.imshow(correlation, text_auto=True, title=f'Feature Correlation Matrix based on {bankname.split("/")[-1]}')
+    fig.show()
     
-    axs[0, 0].plot(df['Year'], df[targetmeasurement], label='Net Sentiment', color='red')
-    axs[0, 0].plot(df['Year'], df['gdp_growth'], label='GDP Growth')
-    axs[0, 0].set_title("GDP Growth %")
-
-    axs[1, 0].plot(df['Year'], df[targetmeasurement], label='Net Sentiment', color='red')
-    axs[1, 0].plot(df['Year'], df['yearly_bip'], label='Yearly BIP')
-    axs[1, 0].set_title("Yearly BIP")
-
-    axs[2, 0].plot(df['Year'], df[targetmeasurement], label='Net Sentiment', color='red')
-    axs[2, 0].plot(df['Year'], df['real_interest_rate'], label='Real Interest Rate')
-    axs[2, 0].set_title("Real Interest Rate")
-    
-    axs[0, 1].plot(df['Year'], df[targetmeasurement], label='Net Sentiment', color='red')
-    axs[0, 1].plot(df['Year'], df['lending_rate'], label='Lending Rate')
-    axs[0, 1].set_title("Lending Rate")
-
-    axs[1, 1].plot(df['Year'], df[targetmeasurement], label='Net Sentiment', color='red')
-    axs[1, 1].plot(df['Year'], df['lending_rate'], label='Lending Rate')
-    axs[1, 1].set_title("Lending Rate")
-
-    axs[2, 1].plot(df['Year'], df[targetmeasurement], label='Net Sentiment', color='red')
-    axs[2, 1].plot(df['Year'], df['unemployment_rate'], label='Unemployment Rate')
-    axs[2, 1].set_title("Unemployment Rate")
-
-    fig.suptitle(f'{targetmeasurement} of G20 Countries (Standardized) based on {bankname} Sentiment')
-    fig.tight_layout()
-    plt.show()
+    # Feature importance using Random Forest
+    from sklearn.ensemble import RandomForestRegressor
+    X = data[['net_sentiment_std', 'put_call_ratio_std', 'sentiment_volatility' ,'yearly_bip_std', 'real_interest_rate_std', 'lending_rate_std', 'unemployment_rate_std']]
+    y = data['gdp_growth_std'].fillna(0)  
+    model = RandomForestRegressor()
+    model.fit(X, y)
+    importance = pd.Series(model.feature_importances_, index=X.columns)
+    fig = px.bar(importance, x=importance.values, y=importance.index, orientation='h', title=f'Feature Importances on Net Sentiment based on {bankname.split("/")[-1]}')
+    fig.show()
 
 def main():
     data_dir = 'data/datasets/'
@@ -199,16 +262,24 @@ def main():
             # merged_europe[f'{col}_std'] = scaler.fit_transform(merged_europe[[col]])
             # merged_na[f'{col}_std'] = scaler.fit_transform(merged_na[[col]])
 
-        merged = merged_g20
-        plt.figure(figsize=(14, 8))
-        plt.plot(merged['Year'], merged['net_sentiment_std'], label='Net Sentiment std', color='red')
-        # plt.plot(merged_g20['Year'], merged_g20['sentiment_change'], label='Net Sentiment change', color='blue')
-        plt.plot(merged['Year'], merged['sentiment_change_std'], label='Net Sentiment change std', color='lightcoral')
-        plt.plot(merged['Year'], merged['gdp_growth_std'], label='GDP Growth std', color='cornflowerblue')
-        # plt.plot(merged_g20['Year'], merged_g20['gdp_growth'], label='GDP Growth', color='orange')
-        plt.legend()
-        plt.tight_layout()
-        plt.show()
+        merged = merged_g20 
+        fig = go.Figure()
+        fig.add_trace(go.Scatter(x=merged['Year'], y=merged['net_sentiment_std'], mode='lines', name='Net Sentiment std', line=dict(color='red')))
+        fig.add_trace(go.Scatter(x=merged['Year'], y=merged['sentiment_change_std'], mode='lines', name='Net Sentiment change std', line=dict(color='lightcoral')))
+        fig.add_trace(go.Scatter(x=merged['Year'], y=merged['gdp_growth_std'], mode='lines', name='GDP Growth std', line=dict(color='cornflowerblue')))
+        
+        fig.update_layout(
+            title=f'Standardized Metrics based on {bank.split("/")[-1]} Sentiment',
+            xaxis_title='Year',
+            yaxis_title='Standardized Values',
+            legend_title='Metrics',
+            height=600
+        )
+        fig.show()
+        plot_netSentiment(merged, 'gdp_growth_std', bank)
+
+        # Plot additional information
+        plot_information(merged, bank.split("/")[-1])
         # plot_netSentiment(merged_g20, 'net_sentiment_std', bank)
         # plot_netSentiment(merged_g20, 'put_call_ratio_std', bank)
         

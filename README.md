@@ -58,3 +58,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or inquiries, please contact the project maintainer at [rafati@outlook.com]
+
+
+
+
+# redos 
+
+- OECD Data quaterly get more refined tome series data
+- Implement real FInbert for more data 
+- Input data -> Predicted data ()
+- sequential annual prediction based on anunal/monthly reports 
+- LLM try learn the more tasks than just regression, but both sentiment analysis, masked prediction of specific features 
+- decoder part of transformer enough
