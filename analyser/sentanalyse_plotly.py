@@ -245,32 +245,22 @@ def plot_information(data, bankname):
 
 def main():
     data_dir = 'data/datasets/'
+    oecd_dir = 'data/raw_pdf/oecd/'
 
     for bank in os.listdir(data_dir):
-        if bank == '.DS_Store' or bank == 'worldbank_data':
+        if bank == '.DS_Store':
             continue
         print(f"Analyzing data for {bank}")
         bank = os.path.join(data_dir, bank)
         bank_agg = analyze(bank)
-        market_agg_g20 = worldbank_data_fetcher()
-        # market_agg_us = worldbank_data_fetcher(US)
-        # market_agg_europe = worldbank_data_fetcher(EUROPE)
-        # market_agg_na = worldbank_data_fetcher(NORTH_AMERICA)
         
-        # df of markted data with join yeear and economy 
         merged_g20 = pd.merge(bank_agg, market_agg_g20, on='Year', how='left')
-        # merged_us = pd.merge(bank_agg, market_agg_us, on='Year', how='left')
-        # merged_europe = pd.merge(bank_agg, market_agg_europe, on='Year', how='left')
-        # merged_na = pd.merge(bank_agg, market_agg_na, on='Year', how='left')
 
         # Standardize the data
         scaler = StandardScaler()
         columns_to_scale = ['gdp_growth', 'yearly_bip', 'real_interest_rate', 'lending_rate', 'unemployment_rate', 'put_call_ratio', 'net_sentiment', 'sentiment_change']
         for col in columns_to_scale:
             merged_g20[f'{col}_std'] = scaler.fit_transform(merged_g20[[col]])
-            # merged_us[f'{col}_std'] = scaler.fit_transform(merged_us[[col]])
-            # merged_europe[f'{col}_std'] = scaler.fit_transform(merged_europe[[col]])
-            # merged_na[f'{col}_std'] = scaler.fit_transform(merged_na[[col]])
 
         merged = merged_g20 
         fig = go.Figure()
